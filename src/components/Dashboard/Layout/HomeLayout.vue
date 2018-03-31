@@ -1,5 +1,12 @@
 <template>
   <div id="home">
+    <div class="top">
+      <span class="top-text">Matches Played Across Different Cities</span>
+      <div class="top-content">
+        <app-map />
+      </div>
+
+    </div>
     <div class="bottom">
       <span class="bottom-text">Seasons</span>
       <div class="bottom-scroll">
@@ -15,11 +22,13 @@
 </template>
 
 <script>
-  import YearCard from '../../UIComponents/Cards/YearCard';
+  import YearCard from '../../UIComponents/YearCard';
+  import AppMap from '../../UIComponents/Map';
 
   export default {
     components: {
-      YearCard
+      YearCard,
+      AppMap
     },
     data() {
       return {
@@ -40,25 +49,41 @@
 </script>
 
 <style lang="scss" scoped>
+  $break-small: 320px;
+  $break-medium: 425px;
+  $break-large: 1200px;
+  %text {
+    font-family: 'IBM Plex Sans', sans-serif;
+    text-transform: uppercase;
+    color: white;
+  }
   #home {
     padding: 10px;
+    & .top{
+      @media screen and (max-width: $break-medium) {
+        text-align: center;
+      }
+      & .top-text{
+        @extend %text;
+        font-weight: 700;
+      }
+    }
     & .bottom {
-      position: absolute;
-      bottom: 0;
+      //position: absolute;
+      //bottom: 0;
       margin: auto 0;
-      left: 50%;
-      transform: translateX(-50%);
+      width: 100%;
+      //left: 50%;
+      //transform: translateX(-50%);
       & .bottom-text {
+        @extend %text;
         padding: 9px;
-        font-family: 'IBM Plex Sans', sans-serif;
-        text-transform: uppercase;
-        color: white;
         font-size: 43px;
         font-weight: 700;
       }
       & .bottom-scroll {
         display: block;
-        width: 89vw;
+        width: 100%;
         height: 200px;
         overflow-y: hidden;
         overflow-x: scroll;
