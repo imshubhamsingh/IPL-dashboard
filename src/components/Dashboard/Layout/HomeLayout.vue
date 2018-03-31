@@ -3,7 +3,7 @@
     <div class="top">
       <span class="top-text">Matches Played Across Different Cities</span>
       <div class="top-content">
-        <app-map />
+        <app-map class="map"/>
       </div>
 
     </div>
@@ -66,6 +66,11 @@
       & .top-text{
         @extend %text;
         font-weight: 700;
+      }
+      & .map {
+        @media screen and (min-width: $break-medium){
+          width: 50%;
+        }
       }
     }
     & .bottom {
