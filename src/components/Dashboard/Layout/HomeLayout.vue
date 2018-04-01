@@ -1,12 +1,20 @@
 <template>
   <div id="home">
-    <div class="top">
-      <span class="top-text">Matches Played Across Different Cities</span>
-      <div class="top-content">
-        <app-map class="map"/>
+    <div class="content">
+      <!--<div class="top-map">-->
+        <!--<span class="top-text">Matches Played Across Different Cities</span>-->
+        <!--<div class="top-content">-->
+          <!--<app-map class="map"/>-->
+        <!--</div>-->
+      <!--</div>-->
+      <div class="teams">
+        <span class="top-text">Teams</span>
+        <div class="team-list">
+          <app-teams/>
+        </div>
       </div>
-
     </div>
+
     <div class="bottom">
       <span class="bottom-text">Seasons</span>
       <div class="bottom-scroll">
@@ -24,11 +32,13 @@
 <script>
   import YearCard from '../../UIComponents/YearCard';
   import AppMap from '../../UIComponents/Map';
+  import AppTeams from '../../UIComponents/Teams';
 
   export default {
     components: {
       YearCard,
-      AppMap
+      AppMap,
+      AppTeams
     },
     data() {
       return {
@@ -59,20 +69,47 @@
   }
   #home {
     padding: 10px;
-    & .top{
-      @media screen and (max-width: $break-medium) {
-        text-align: center;
+    & .content {
+      margin: auto 0;
+      width: 100%;
+      & .teams{
+        width: 100%;
+        overflow-x: hidden;
+        & .top-text{
+          @extend %text;
+          font-weight: 700;
+          font-size: 50px;
+          background: linear-gradient( 135deg, #70F570 10%, #49C628 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+        }
+        & .team-list {
+          display: block;
+          width: 100%;
+          height: 383px;
+          overflow-y: hidden;
+          overflow-x: scroll;
+          white-space: nowrap;
+          margin-bottom: 21px;
+          border-radius: 5px;
+        }
       }
-      & .top-text{
-        @extend %text;
-        font-weight: 700;
-      }
-      & .map {
-        @media screen and (min-width: $break-medium){
-          width: 50%;
+      & .top-map{
+        @media screen and (max-width: $break-medium) {
+          text-align: center;
+        }
+        & .top-text{
+          @extend %text;
+          font-weight: 700;
+        }
+        & .map {
+          @media screen and (min-width: $break-medium){
+            width: 120%;
+          }
         }
       }
     }
+
     & .bottom {
       //position: absolute;
       //bottom: 0;
