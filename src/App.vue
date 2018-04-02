@@ -1,17 +1,13 @@
 <template>
   <div id="app">
-    <HomeLayout/>
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import HomeLayout from './components/Dashboard/Layout/HomeLayout';
-
-export default {
-  components: {
-    HomeLayout
-  }
-};
+  export default {
+    name: 'app'
+  };
 </script>
 
 <style lang="scss">
