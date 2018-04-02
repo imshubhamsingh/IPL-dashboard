@@ -8,9 +8,15 @@
         <!--</div>-->
       <!--</div>-->
       <div class="header">
-        <router-link to="/" tag="span" active-class="activeLink" exact class="teams">Teams</router-link>
-        <router-link to="/batsmen" tag="span" active-class="activeLink" class="batsmen">Batsmen</router-link>
-        <router-link to="/bowlers" tag="span" active-class="activeLink" class="bowlers">Bowlers</router-link>
+        <router-link to="/" tag="a" active-class="activeLink" exact class="teams">
+          <span v-for="i in heading[0].length" :style="{'z-index': '4','position': 'relative'}">{{heading[0].charAt(i-1)}}</span>
+        </router-link>
+        <router-link to="/batsmen" tag="a" active-class="activeLink" class="batsmen">
+          <span v-for="i in heading[1].length" :style="{'z-index': '4','position': 'relative'}">{{heading[1].charAt(i-1)}}</span>
+        </router-link>
+        <router-link to="/bowlers" tag="a" active-class="activeLink" class="bowlers">
+          <span v-for="i in heading[2].length" :style="{'z-index': '4','position': 'relative'}">{{heading[2].charAt(i-1)}}</span>
+        </router-link>
       </div>
 
       <router-view></router-view>
@@ -31,28 +37,20 @@
 
 <script>
   import YearCard from '../../UIComponents/YearCard';
-  import AppMap from '../../UIComponents/Map';
 
   export default {
     name: 'HomeLayout',
     components: {
-      YearCard,
-      AppMap
+      YearCard
     },
     data() {
       return {
-        info: [
-          { year: 2008, backgroundColor: 'linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%)', matchPlayed: 58 },
-          { year: 2009, backgroundColor: 'linear-gradient( 135deg, #43CBFF 10%, #9708CC 100%)', matchPlayed: 57 },
-          { year: 2010, backgroundColor: 'linear-gradient( 135deg, #5EFCE8 10%, #736EFE 100%)', matchPlayed: 60 },
-          { year: 2011, backgroundColor: 'linear-gradient( 135deg, #52E5E7 10%, #130CB7 100%)', matchPlayed: 72 },
-          { year: 2012, backgroundColor: 'linear-gradient( 135deg, #FDD819 10%, #E80505 100%)', matchPlayed: 74 },
-          { year: 2013, backgroundColor: 'linear-gradient( 135deg, #FF7AF5 10%, #513162 100%)', matchPlayed: 76 },
-          { year: 2014, backgroundColor: 'linear-gradient( 135deg, #FF96F9 10%, #C32BAC 100%)', matchPlayed: 60 },
-          { year: 2015, backgroundColor: 'linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%)', matchPlayed: 57 },
-          { year: 2016, backgroundColor: 'linear-gradient( 135deg, #FCCF31 10%, #F55555 100%)', matchPlayed: 60 }
-        ]
+        heading: ['TEAMS', 'BATSMEN', 'BOWLERS'],
+        info: null
       };
+    },
+    mounted() {
+      this.info = this.$store.getters.seasonDetails;
     }
   };
 </script>
@@ -66,6 +64,7 @@
     font-family: 'IBM Plex Sans', sans-serif;
     text-transform: uppercase;
     color: white;
+    text-decoration: none;
   }
   #home {
     padding: 10px;
@@ -77,12 +76,34 @@
         font-weight: 700;
         font-size: 50px;
         cursor: pointer;
-        transition: all 0.5s ease-in;
-        color: #383838 !important;
+        transition: all 0.8s cubic-bezier(0.2,1,0.3,1);
+        color: #484848;
+        position: relative;
+        &::before{
+          content: '';
+          width: 60%;
+          height: 25px;
+          background: linear-gradient(45deg, #2b2b2b, #444343);
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          transform-origin: 0 0;
+          transition: transform 0.8s cubic-bezier(0.2,1,0.3,1);
+          transform: scale3d(1,1,1);
+        }
+        &:hover::before{
+          transition: transform 0.8s cubic-bezier(0.2,1,0.3,1);
+          background: linear-gradient(45deg, #2b2b2b, #f8ae2c);
+          transform: scale3d(1.2,1,1);
+        }
         &.activeLink {
-          background: linear-gradient(135deg, #70F570 10%, #49C628 100%);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
+          color: white;
+        }
+        &.activeLink::before{
+          content: '';
+          width: 60%;
+          height: 25px;
+          background: linear-gradient(45deg, #2b2b2b, #e86c9a);
         }
       }
       .batsmen {
@@ -90,12 +111,35 @@
         font-weight: 700;
         font-size: 50px;
         cursor: pointer;
-        color: #383838 !important;
-        transition: all 0.5s ease-in;
+        color: #484848;
+        position: relative;
+        transition: all 0.8s cubic-bezier(0.2,1,0.3,1);
+        &::before{
+          content: '';
+          width: 60%;
+          height: 25px;
+          background: linear-gradient(45deg, #2b2b2b, #444343);
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          transform-origin: 0 0;
+          transition: transform 0.8s cubic-bezier(0.2,1,0.3,1);
+          transform: scale3d(1,1,1);
+        }
+        &:hover::before{
+          transition: transform 0.8s cubic-bezier(0.2,1,0.3,1);
+          transform: scale3d(1.2,1,1);
+          background: linear-gradient(45deg, #2b2b2b, #07d89d);
+        }
+
         &.activeLink {
-          background: linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
+          color: white;
+        }
+        &.activeLink::before{
+          content: '';
+          width: 60%;
+          height: 25px;
+          background: linear-gradient(45deg, #2b2b2b, #07d89d);
         }
       }
       .bowlers {
@@ -103,13 +147,34 @@
         font-weight: 700;
         font-size: 50px;
         cursor: pointer;
-        color: #383838 !important;
-        transition: all 0.5s ease-in;
-
-        &.activeLink{
-          background: linear-gradient( 135deg, #69FF97 10%, #00E4FF 100%);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
+        color: #484848;
+        position: relative;
+        transition: all 0.8s cubic-bezier(0.2,1,0.3,1);
+        &::before{
+          content: '';
+          width: 60%;
+          height: 25px;
+          background: linear-gradient(45deg, #2b2b2b, #444343);
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          transform-origin: 0 0;
+          transition: transform 0.8s cubic-bezier(0.2,1,0.3,1);
+          transform: scale3d(1,1,1);
+        }
+        &:hover::before{
+          transition: transform 0.8s cubic-bezier(0.2,1,0.3,1);
+          background: linear-gradient(45deg, #2b2b2b, #e86c9a);
+          transform: scale3d(1.2,1,1);
+        }
+        &.activeLink {
+          color: white;
+        }
+        &.activeLink::before{
+          content: '';
+          width: 60%;
+          height: 25px;
+          background: linear-gradient(45deg, #2b2b2b, #e86c9a);
         }
       }
       .top-map{
@@ -150,6 +215,9 @@
         padding: 9px;
         font-size: 43px;
         font-weight: 700;
+        background: linear-gradient( 135deg, #FFF720 10%, #3CD500 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
       }
       & .bottom-scroll {
         display: block;

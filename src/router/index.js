@@ -25,7 +25,14 @@ export default new Router({
     {
       path: '/year/:year',
       name: 'SeasonLayout',
-      component: SeasonLayout
+      component: SeasonLayout,
+      beforeEnter: (to, from, next) => {
+        if (['2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016'].indexOf(to.params.year) >= 0) {
+          next();
+        } else {
+          next('/');
+        }
+      }
     },
     {
       path: '*',

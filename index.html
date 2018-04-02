@@ -27,11 +27,11 @@
           if (file.match(/\.(js|css)$/)) { %>
     <link rel="<%= chunk.initial?'preload':'prefetch' %>" href="<%= htmlWebpackPlugin.files.publicPath + file %>" as="<%= file.match(/\.css$/)?'style':'script' %>">
     <% }}} %>
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.min.css" />
-      <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
   <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous">
 
-    <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyAVTiOGWzny23-DQzMV3joGxccjZ83QmYI" type="text/javascript"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyAVTiOGWzny23-DQzMV3joGxccjZ83QmYI" type="text/javascript"></script>
 </head>
 
 <body>

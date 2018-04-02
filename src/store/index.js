@@ -1,3 +1,4 @@
+/* eslint-disable no-trailing-spaces */
 import Vue from 'vue';
 import Vuex from 'vuex';
 
@@ -253,10 +254,26 @@ export default new Vuex.Store({
           year: [2016]
         }
       }
+    ],
+    season: [
+      { year: 2008, backgroundColor: 'linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%)', matchPlayed: 58 },
+      { year: 2009, backgroundColor: 'linear-gradient( 135deg, #43CBFF 10%, #9708CC 100%)', matchPlayed: 57 },
+      { year: 2010, backgroundColor: 'linear-gradient( 135deg, #5EFCE8 10%, #736EFE 100%)', matchPlayed: 60 },
+      { year: 2011, backgroundColor: 'linear-gradient( 135deg, #52E5E7 10%, #130CB7 100%)', matchPlayed: 72 },
+      { year: 2012, backgroundColor: 'linear-gradient( 135deg, #FDD819 10%, #E80505 100%)', matchPlayed: 74 },
+      { year: 2013, backgroundColor: 'linear-gradient( 135deg, #FF7AF5 10%, #513162 100%)', matchPlayed: 76 },
+      { year: 2014, backgroundColor: 'linear-gradient( 135deg, #FF96F9 10%, #C32BAC 100%)', matchPlayed: 60 },
+      { year: 2015, backgroundColor: 'linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%)', matchPlayed: 57 },
+      { year: 2016, backgroundColor: 'linear-gradient( 135deg, #FCCF31 10%, #F55555 100%)', matchPlayed: 60 }
     ]
   },
   getters: {
-    teamDetails: state => state.teams
+    teamDetails: state => state.teams,
+    seasonDetails: state => state.season,
+    particularSeason: state => (year) => {
+      const currSeason = state.season.filter(season => season.year === parseInt(year, 10));
+      return { ...currSeason[0] };
+    }
   }
 });
 

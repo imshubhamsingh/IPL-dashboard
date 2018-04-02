@@ -192,6 +192,7 @@
               }
               .year {
                 font-size: 10px;
+                margin-top: 8px;
               }
             }
 
