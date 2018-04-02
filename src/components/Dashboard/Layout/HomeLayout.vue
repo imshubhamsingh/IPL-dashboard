@@ -7,15 +7,12 @@
           <!--<app-map class="map"/>-->
         <!--</div>-->
       <!--</div>-->
-      <div class="teams">
         <span class="top-text">Teams</span>
         <div class="team-scroll">
           <div class="team-list">
             <app-teams v-for="team in teams" :team="team" :key="team.short"/>
           </div>
         </div>
-
-      </div>
     </div>
 
     <div class="bottom">
@@ -67,6 +64,10 @@
             tie: {
               win: 0,
               lose: 2
+            },
+            bestResult: {
+              position: '1st',
+              year: [2012, 2014]
             }
           },
           {
@@ -82,6 +83,10 @@
             tie: {
               win: 1,
               lose: 0
+            },
+            bestResult: {
+              position: '1st',
+              year: [2009, 2011]
             }
           },
           {
@@ -91,12 +96,16 @@
             short: 'CSK',
             width: '121px',
             marginTop: '0px',
-            color: 'linear-gradient( 135deg, #FDEB71F1 10%, #F8D800C1 100%)',
+            color: 'linear-gradient( 135deg, #F8D800C1 10%, #FDEB71F1 100%)',
             totalMatches: [16, 14, 16, 16, 18, 18, 16, 17, 0],
             totalMatchesWon: [9, 8, 9, 11, 10, 12, 10, 10, 0],
             tie: {
               win: 0,
               lose: 1
+            },
+            bestResult: {
+              position: '1st',
+              year: [2010, 2011]
             }
           },
           {
@@ -112,6 +121,10 @@
             tie: {
               win: 0,
               lose: 0
+            },
+            bestResult: {
+              position: '1st',
+              year: [2014]
             }
           },
           {
@@ -127,6 +140,10 @@
             tie: {
               win: 0,
               lose: 1
+            },
+            bestResult: {
+              position: '1st',
+              year: [2008]
             }
           },
           {
@@ -142,6 +159,10 @@
             tie: {
               win: 0,
               lose: 0
+            },
+            bestResult: {
+              position: '3rd',
+              year: [2009, 2012]
             }
           },
           {
@@ -157,6 +178,10 @@
             tie: {
               win: 0,
               lose: 0
+            },
+            bestResult: {
+              position: '1st',
+              year: [2013, 2015]
             }
           },
           {
@@ -172,6 +197,10 @@
             tie: {
               win: 0,
               lose: 0
+            },
+            bestResult: {
+              position: '1st',
+              year: [2009]
             }
           },
           {
@@ -187,6 +216,10 @@
             tie: {
               win: 0,
               lose: 0
+            },
+            bestResult: {
+              position: '8th',
+              year: [2011]
             }
           },
           {
@@ -202,6 +235,10 @@
             tie: {
               win: 0,
               lose: 0
+            },
+            bestResult: {
+              position: '8th',
+              year: [2013]
             }
           },
           {
@@ -232,6 +269,10 @@
             tie: {
               win: 0,
               lose: 0
+            },
+            bestResult: {
+              position: '7th',
+              year: [2016]
             }
           },
           {
@@ -247,6 +288,10 @@
             tie: {
               win: 0,
               lose: 0
+            },
+            bestResult: {
+              position: '3rd',
+              year: [2016]
             }
           }
         ]
@@ -269,32 +314,31 @@
     & .content {
       margin: auto 0;
       width: 100%;
-      & .teams{
+      & .top-text {
+        @extend %text;
+        font-weight: 700;
+        font-size: 50px;
+        background: linear-gradient(135deg, #70F570 10%, #49C628 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+      & .team-scroll {
+        display: block;
         width: 100%;
-        overflow-x: hidden;
-        & .top-text{
-          @extend %text;
-          font-weight: 700;
-          font-size: 50px;
-          background: linear-gradient( 135deg, #70F570 10%, #49C628 100%);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-        }
-        & .team-scroll {
-          display: block;
-          width: 100%;
-          height: 383px;
-          overflow-y: hidden;
-          overflow-x: scroll;
-          white-space: nowrap;
-          margin-bottom: 21px;
-          border-radius: 5px;
-          & .team-list{
-            overflow: hidden;
-            float: left;
-          }
+        height: 381px;
+        overflow-y: hidden;
+        overflow-x: scroll;
+        white-space: nowrap;
+        margin-bottom: 21px;
+        border-radius: 5px;
+        position: relative;
+        z-index: 2;
+        & .team-list {
+          overflow: hidden;
+          float: left;
         }
       }
+
       & .top-map{
         @media screen and (max-width: $break-medium) {
           text-align: center;

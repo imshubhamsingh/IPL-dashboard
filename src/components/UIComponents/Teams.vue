@@ -11,6 +11,17 @@
               {{team.name}}
             </div>
           </div>
+          <br/>
+          <br/>
+          <br/>
+          <div class="best-result">
+            <img :src="'/static/img/misc/cup.png'" alt="" style="height: 148px;z-index: 2;position: absolute">
+            <div class="text" :style="{'color': team.color.slice(25, 34)}">
+            Best Result
+              <span class="result">{{team.bestResult.position}}</span>
+              <div class="year">{{team.bestResult.year.join(",")}}</div>
+            </div>
+          </div>
         </div>
       </div>
       <div class="team-card-back">
@@ -32,7 +43,7 @@
                 </div>
               </div>
               <div class="lineChart">
-                <line-chart :height="250" :chartData="datacollection" />
+                <bar-chart :height="250" :chartData="datacollection" />
               </div>
               <div class="info">
                 <span style="{'background': team.color.slice(25, 34)}">*</span>T+W and T+L indicates matches tied and then won or lost by "Super Over"
@@ -45,12 +56,12 @@
 </template>
 
 <script>
-  import LineChart from './LineChart';
+  import BarChart from './BarChart';
 
 
   export default {
     name: 'year-card',
-    components: { LineChart },
+    components: { BarChart },
     props: {
       team: {
         type: Object,
@@ -129,6 +140,7 @@
         top: 0;
         bottom: 0;
         backface-visibility: hidden;
+        overflow: hidden;
         & .content {
           overflow: hidden;
           height: 100%;
@@ -139,19 +151,55 @@
             object-fit: cover;
           }
           & .text {
+            z-index: 3;
             & .team-name {
               font-family: 'IBM Plex Sans', sans-serif;
-              font-size: 25px;
+              font-size: 23px;
               font-weight: 700;
               color: #ffffff;
               white-space: initial;
               width: 100%;
-              padding: 20px;
+              margin-top: 30px;
             }
+          }
+          & .white-box{
+            background: white;
+            width: 153%;
+            height: 159px;
+            position: absolute;
+            bottom: -26px;
+            left: -24px;
+            -webkit-transform: rotate(-19deg);
+            transform: rotate(-19deg);
+            z-index: 1;
+          }
+          & .best-result{
+            display: flex !important;
+            justify-content: space-around;
+            & .text{
+              margin-left: 161px;
+              font-family: 'IBM Plex Sans', sans-serif;
+              font-size: 23px;
+              display: flex;
+              flex-direction: column;
+              font-weight: 700;
+              color: #ffffff;
+              white-space: initial;
+              margin-top: 30px;
+              .result {
+                font-size: 67px;
+                margin: -22px;
+              }
+              .year {
+                font-size: 10px;
+              }
+            }
+
           }
         }
       }
       & .team-card-back {
+        z-index: 4;
         width: 316px;
         height: 381px;
         position: absolute;
