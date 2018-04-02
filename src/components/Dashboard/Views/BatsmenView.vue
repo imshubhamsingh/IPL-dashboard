@@ -1,6 +1,5 @@
 <template>
   <div>
-    <span class="top-text">Teams</span>
     <div class="team-scroll">
       <div class="team-list">
         <team-card v-for="team in teams" :team="team" :key="team.short"/>
@@ -32,14 +31,6 @@
     font-family: 'IBM Plex Sans', sans-serif;
     text-transform: uppercase;
     color: white;
-  }
-  .top-text {
-    @extend %text;
-    font-weight: 700;
-    font-size: 50px;
-    background: linear-gradient(135deg, #70F570 10%, #49C628 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
   }
   .team-scroll {
     display: block;

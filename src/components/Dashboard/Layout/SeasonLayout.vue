@@ -2,17 +2,11 @@
   <div id="home">
     <div class="content">
       <!--<div class="top-map">-->
-        <!--<span class="top-text">Matches Played Across Different Cities</span>-->
-        <!--<div class="top-content">-->
-          <!--<app-map class="map"/>-->
-        <!--</div>-->
+      <!--<span class="top-text">Matches Played Across Different Cities</span>-->
+      <!--<div class="top-content">-->
+      <!--<app-map class="map"/>-->
       <!--</div>-->
-      <div class="header">
-        <router-link to="/" tag="span" active-class="activeLink" exact class="teams">Teams</router-link>
-        <router-link to="/batsmen" tag="span" active-class="activeLink" class="batsmen">Batsmen</router-link>
-        <router-link to="/bowlers" tag="span" active-class="activeLink" class="bowlers">Bowlers</router-link>
-      </div>
-
+      <!--</div>-->
       <router-view></router-view>
     </div>
 
@@ -20,9 +14,7 @@
       <span class="bottom-text">Seasons</span>
       <div class="bottom-scroll">
         <div class="year">
-          <router-link :to="`/year/${data.year}`" v-for="data in info" :key="data.year">
-            <year-card :year="data.year" :match-played="data.matchPlayed" :background-color="data.backgroundColor" />
-          </router-link>
+          <year-card v-for="data in info" :year="data.year" :match-played="data.matchPlayed" :background-color="data.backgroundColor" :key="data.year"/>
         </div>
       </div>
     </div>
@@ -61,7 +53,16 @@
   $break-small: 320px;
   $break-medium: 425px;
   $break-large: 1200px;
+  @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700');
+  @import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700');
 
+  body {
+    background: #2b2b2b;
+    height: 100%;
+  }
+  #app {
+    padding: 10px;
+  }
   %text {
     font-family: 'IBM Plex Sans', sans-serif;
     text-transform: uppercase;
@@ -72,46 +73,6 @@
     & .content {
       margin: auto 0;
       width: 100%;
-      .teams {
-        @extend %text;
-        font-weight: 700;
-        font-size: 50px;
-        cursor: pointer;
-        transition: all 0.5s ease-in;
-        color: #383838 !important;
-        &.activeLink {
-          background: linear-gradient(135deg, #70F570 10%, #49C628 100%);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-        }
-      }
-      .batsmen {
-        @extend %text;
-        font-weight: 700;
-        font-size: 50px;
-        cursor: pointer;
-        color: #383838 !important;
-        transition: all 0.5s ease-in;
-        &.activeLink {
-          background: linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-        }
-      }
-      .bowlers {
-        @extend %text;
-        font-weight: 700;
-        font-size: 50px;
-        cursor: pointer;
-        color: #383838 !important;
-        transition: all 0.5s ease-in;
-
-        &.activeLink{
-          background: linear-gradient( 135deg, #69FF97 10%, #00E4FF 100%);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-        }
-      }
       .top-map{
         @media screen and (max-width: $break-medium) {
           text-align: center;
@@ -126,16 +87,6 @@
           }
         }
       }
-    }
-    .header{
-      display: block;
-      width: 100%;
-      height: 59px;
-      overflow-y: hidden;
-      overflow-x: scroll;
-      white-space: nowrap;
-      margin-bottom: 21px;
-      border-radius: 5px;
     }
 
     & .bottom {
