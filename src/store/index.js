@@ -2,6 +2,7 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
 
+
 import teams from './teams.json';
 import season from './seasons.json';
 

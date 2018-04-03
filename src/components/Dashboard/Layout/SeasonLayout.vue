@@ -1,11 +1,11 @@
 <!--<template>-->
    <!--<div>-->
-     <!--<div class="top-map" style="padding: 10px">-->
-       <!--<span class="top-text">Matches Played Across Different Cities</span>-->
-       <!--<div class="top-content">-->
-         <!--<app-map class="map"/>-->
-       <!--</div>-->
-     <!--</div>-->
+     <div class="top-map" style="padding: 10px">
+       <span class="top-text">Matches Played Across Different Cities</span>
+       <div class="top-content">
+         <app-map class="map"/>
+       </div>
+     </div>
      <!--<div id="home" :style="{background: seasonDetail.backgroundColor}">-->
        <!--<div class="year">-->
          <!--{{seasonDetail.year}}-->
@@ -33,9 +33,14 @@
             <div class="season-card">
               <div class="card">
                 <div class="season-card-front">
-                  <div class="content" :style="{'background': 'red'}">
+                  <div class="content">
                     <div class="text">
-
+                      <div class="top-map" style="padding: 10px">
+                        <span class="top-text">Matches Played Across Different Cities</span>
+                        <div class="top-content">
+                          <app-map class="map" :places="this.seasonDetail.places"/>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -62,50 +67,31 @@
 </template>
 
 <script>
-  import geocoder from 'geocoder-geojson';
   import YearCard from '../../UIComponents/YearCard';
+  import AppMap from '../../UIComponents/Map';
 
   export default {
     name: 'SeasonLayout',
     components: {
-      YearCard
+      YearCard,
+      AppMap
     },
     data() {
       return {
         seasonDetail: this.$store.getters.particularSeason(this.$route.params.year) || '',
-        info: this.$store.getters.seasonDetails || '',
-        places: []
+        info: this.$store.getters.seasonDetails || ''
       };
     },
     watch: {
       $route(to) {
         this.seasonDetail = this.$store.getters.particularSeason(to.params.year);
-      },
-      seasonDetail(val) {
-        this.updatePlaces(val.places);
       }
-    },
-    mounted() {
-      this.updatePlaces(this.seasonDetail.places);
     },
     computed: {
       style() {
         return `background: linear-gradient(45deg, #2b2b2b, ${this.seasonDetail.backgroundColor.slice(25, 32)})`;
       }
-    },
-    methods: {
-      updatePlaces(val) {
-        this.places = [];
-        const vm = this;
-        val.map(place => geocoder.google(`${place.Venue_Name}, ${place.City_Name}, ${place.Host_Country}`).then((res) => {
-          vm.places.push({
-            lat: res.features[0].geometry.coordinates[0],
-            lng: res.features[0].geometry.coordinates[1]
-          });
-        }));
-      }
     }
-
   };
 </script>
 
@@ -280,10 +266,11 @@
         & .top-text{
           @extend %text;
           font-weight: 700;
+          font-size: 13px;
         }
         & .map {
           @media screen and (min-width: $break-medium){
-            width: 120%;
+            width: 100%;
           }
         }
       }

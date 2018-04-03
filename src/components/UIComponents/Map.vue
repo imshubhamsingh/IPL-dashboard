@@ -1,16 +1,23 @@
 <template>
     <div class='map'>
-      <div id='map'></div>
+      <div id='map' style="width:311px"></div>
     </div>
 </template>
 
 <script>
   export default {
     name: 'mapCities',
+    props: {
+      places: {
+        type: Array,
+        required: true
+      }
+    },
     mounted() {
-      const myLatlng = new window.google.maps.LatLng(20.5937, 78.9629);
+    // eslint-disable-next-line max-len
+      const myLatlng = new window.google.maps.LatLng(this.places[0].Coordinates.lat, this.places[0].Coordinates.lng);
       const mapOptions = {
-        zoom: 5,
+        zoom: 4,
         center: myLatlng,
         scrollwheel: false,
         styles: [ // adapted from https://snazzymaps.com/style/38/shades-of-grey
@@ -182,51 +189,256 @@
         ]
 
       };
-      const map = new window.google.maps.Map(document.getElementById('map'), mapOptions);
       //
-      // const marker = new window.google.maps.Marker({
-      //   position: myLatlng,
-      //   title: 'Cities'
-      // });
+      // const locations = [{
+      //   name: 'Ahmedabad',
+      //   state: 'Gujarat',
+      //   lat: 23.033333,
+      //   lng: 72.616667
+      // }, {
+      //   name: 'Chennai',
+      //   state: 'Tamil Nadu',
+      //   lat: 13.083333,
+      //   lng: 80.283333
+      // }];
+      const map = new window.google.maps.Map(document.getElementById('map'), mapOptions);
 
-      const locations = [{
-        name: 'Mumbai',
-        state: 'Maharashtra',
-        lat: '18.975',
-        lon: '72.825833'
-      }, {
-        name: 'Delhi',
-        state: 'Delhi',
-        lat: '28.666667',
-        lon: '77.216667'
-      }, {
-        name: 'Bangalore',
-        state: 'Karnataka',
-        lat: '12.983333',
-        lon: '77.583333'
-      }, {
-        name: 'Hyderabad',
-        state: 'Telangana',
-        lat: '17.375278',
-        lon: '78.474444'
-      }, {
-        name: 'Ahmedabad',
-        state: 'Gujarat',
-        lat: '23.033333',
-        lon: '72.616667'
-      }, {
-        name: 'Chennai',
-        state: 'Tamil Nadu',
-        lat: '13.083333',
-        lon: '80.283333'
-      }];
-      const markers = locations.map(location => new window.google.maps.Marker({
-        position: { lat: parseFloat(location.lat, 10), lng: parseFloat(location.lon, 10) },
-      }));
+      const markers = this.places.map((location) => {
+        const { lat, lng } = location.Coordinates;
+        return new window.google.maps.Marker({
+          position: { lat, lng }
+        });
+      });
 
+      const vm = this;
 
       // To add the marker to the map, call setMap();
-      markers.map(marker => marker.setMap(map));
+      markers.map((marker, index) => {
+        marker.setMap(map);
+        const contentString = `<div id="content" style="color:black"> \
+         ${vm.places[index].Venue_Name}<br/>${vm.places[index].City_Name}<br/>${vm.places[index].Host_Country}<br/>
+         ${vm.places[index].Match_Date}
+        </div>`;
+
+        const infowindow = new window.google.maps.InfoWindow({
+          content: contentString
+        });
+        window.google.maps.event.addListener(marker, 'mouseout', () => {
+          infowindow.close();
+        });
+        return window.google.maps.event.addListener(marker, 'mouseover', () => {
+          infowindow.open(map, marker);
+        });
+      });
+    },
+    watch: {
+      places: (newVal) => {
+        // eslint-disable-next-line max-len
+        const myLatlng = new window.google.maps.LatLng(newVal[0].Coordinates.lat, newVal[0].Coordinates.lng);
+        const mapOptions = {
+          zoom: 4,
+          center: myLatlng,
+          scrollwheel: false,
+          styles: [ // adapted from https://snazzymaps.com/style/38/shades-of-grey
+            {
+              featureType: 'all',
+              elementType: 'labels.text.fill',
+              stylers: [
+                {
+                  saturation: 36
+                },
+                {
+                  color: '#000000'
+                },
+                {
+                  lightness: 40
+                }
+              ]
+            },
+            {
+              featureType: 'all',
+              elementType: 'labels.text.stroke',
+              stylers: [
+                {
+                  visibility: 'on'
+                },
+                {
+                  color: '#000000'
+                },
+                {
+                  lightness: 16
+                }
+              ]
+            },
+            {
+              featureType: 'all',
+              elementType: 'labels.icon',
+              stylers: [
+                {
+                  visibility: 'off'
+                }
+              ]
+            },
+            {
+              featureType: 'administrative',
+              elementType: 'geometry.fill',
+              stylers: [
+                {
+                  color: '#000000'
+                },
+                {
+                  lightness: 20
+                }
+              ]
+            },
+            {
+              featureType: 'administrative',
+              elementType: 'geometry.stroke',
+              stylers: [
+                {
+                  color: '#000000'
+                },
+                {
+                  lightness: 17
+                },
+                {
+                  weight: 1.2
+                }
+              ]
+            },
+            {
+              featureType: 'landscape',
+              elementType: 'geometry',
+              stylers: [
+                {
+                  color: '#000000'
+                },
+                {
+                  lightness: 20
+                }
+              ]
+            },
+            {
+              featureType: 'poi',
+              elementType: 'geometry',
+              stylers: [
+                {
+                  color: '#000000'
+                },
+                {
+                  lightness: 21
+                }
+              ]
+            },
+            {
+              featureType: 'road.highway',
+              elementType: 'geometry.fill',
+              stylers: [
+                {
+                  color: '#000000'
+                },
+                {
+                  lightness: 17
+                }
+              ]
+            },
+            {
+              featureType: 'road.highway',
+              elementType: 'geometry.stroke',
+              stylers: [
+                {
+                  color: '#000000'
+                },
+                {
+                  lightness: 29
+                },
+                {
+                  weight: 0.2
+                }
+              ]
+            },
+            {
+              featureType: 'road.arterial',
+              elementType: 'geometry',
+              stylers: [
+                {
+                  color: '#000000'
+                },
+                {
+                  lightness: 18
+                }
+              ]
+            },
+            {
+              featureType: 'road.local',
+              elementType: 'geometry',
+              stylers: [
+                {
+                  color: '#000000'
+                },
+                {
+                  lightness: 16
+                }
+              ]
+            },
+            {
+              featureType: 'transit',
+              elementType: 'geometry',
+              stylers: [
+                {
+                  color: '#000000'
+                },
+                {
+                  lightness: 19
+                }
+              ]
+            },
+            {
+              featureType: 'water',
+              elementType: 'geometry',
+              stylers: [
+                {
+                  color: '#000000'
+                },
+                {
+                  lightness: 17
+                }
+              ]
+            }
+          ]
+
+        };
+
+        const map = new window.google.maps.Map(document.getElementById('map'), mapOptions);
+
+        const markers = newVal.map((location) => {
+          const { lat, lng } = location.Coordinates;
+          return new window.google.maps.Marker({
+            position: { lat, lng }
+          });
+        });
+
+        const vm = newVal;
+
+        // To add the marker to the map, call setMap();
+        markers.map((marker, index) => {
+          marker.setMap(map);
+          const contentString = `<div id="content" style="color:black"> \
+         ${vm[index].Venue_Name}<br/>${vm[index].City_Name}<br/>${vm[index].Host_Country}<br/>
+         ${vm[index].Match_Date}
+        </div>`;
+
+          const infowindow = new window.google.maps.InfoWindow({
+            content: contentString
+          });
+          window.google.maps.event.addListener(marker, 'mouseout', () => {
+            infowindow.close();
+          });
+          return window.google.maps.event.addListener(marker, 'mouseover', () => {
+            infowindow.open(map, marker);
+          });
+        });
+      }
     }
   };
 
