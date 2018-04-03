@@ -1,0 +1,3518 @@
+[
+  { "year": 2008,
+    "backgroundColor": "linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%)",
+    "matchPlayed": 58,
+    "places": [
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "18-Apr-08"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "19-Apr-08"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "20-Apr-08"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "20-Apr-08"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "21-Apr-08"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "26-Apr-08"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "27-Apr-08"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "28-Apr-08"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "29-Apr-08"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "30-Apr-08"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "1-May-08"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "4-May-08"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "4-May-08"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "5-May-08"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "7-May-08"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "8-May-08"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "8-May-08"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "9-May-08"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "28-May-08"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "11-May-08"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "13-May-08"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "14-May-08"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "15-May-08"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "16-May-08"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "17-May-08"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "17-May-08"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "18-May-08"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "19-May-08"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "20-May-08"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "21-May-08"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "24-May-08"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "3-May-08"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "25-May-08"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "26-May-08"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "30-May-08"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "31-May-08"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "1-Jun-08"
+      }
+    ]
+  },
+  { "year": 2009,
+    "backgroundColor": "linear-gradient( 135deg, #43CBFF 10%, #9708CC 100%)",
+    "matchPlayed": 57 ,
+    "places": [
+      {
+        "Venue_Name": "Newlands",
+        "City_Name": "Cape Town",
+        "Host_Country": "South Africa",
+        "Match_Date": "18-Apr-09"
+      },
+      {
+        "Venue_Name": "Newlands",
+        "City_Name": "Cape Town",
+        "Host_Country": "South Africa",
+        "Match_Date": "18-Apr-09"
+      },
+      {
+        "Venue_Name": "Newlands",
+        "City_Name": "Cape Town",
+        "Host_Country": "South Africa",
+        "Match_Date": "19-Apr-09"
+      },
+      {
+        "Venue_Name": "Newlands",
+        "City_Name": "Cape Town",
+        "Host_Country": "South Africa",
+        "Match_Date": "19-Apr-09"
+      },
+      {
+        "Venue_Name": "St George's Park",
+        "City_Name": "Port Elizabeth",
+        "Host_Country": "South Africa",
+        "Match_Date": "20-Apr-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "21-Apr-09"
+      },
+      {
+        "Venue_Name": "Newlands",
+        "City_Name": "Cape Town",
+        "Host_Country": "South Africa",
+        "Match_Date": "22-Apr-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "23-Apr-09"
+      },
+      {
+        "Venue_Name": "Newlands",
+        "City_Name": "Cape Town",
+        "Host_Country": "South Africa",
+        "Match_Date": "23-Apr-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "24-Apr-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "25-Apr-09"
+      },
+      {
+        "Venue_Name": "St George's Park",
+        "City_Name": "Port Elizabeth",
+        "Host_Country": "South Africa",
+        "Match_Date": "26-Apr-09"
+      },
+      {
+        "Venue_Name": "Newlands",
+        "City_Name": "Cape Town",
+        "Host_Country": "South Africa",
+        "Match_Date": "26-Apr-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "27-Apr-09"
+      },
+      {
+        "Venue_Name": "St George's Park",
+        "City_Name": "Port Elizabeth",
+        "Host_Country": "South Africa",
+        "Match_Date": "27-Apr-09"
+      },
+      {
+        "Venue_Name": "SuperSport Park",
+        "City_Name": "Centurion",
+        "Host_Country": "South Africa",
+        "Match_Date": "28-Apr-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "29-Apr-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "29-Apr-09"
+      },
+      {
+        "Venue_Name": "SuperSport Park",
+        "City_Name": "Centurion",
+        "Host_Country": "South Africa",
+        "Match_Date": "30-Apr-09"
+      },
+      {
+        "Venue_Name": "SuperSport Park",
+        "City_Name": "Centurion",
+        "Host_Country": "South Africa",
+        "Match_Date": "30-Apr-09"
+      },
+      {
+        "Venue_Name": "Buffalo Park",
+        "City_Name": "East London",
+        "Host_Country": "South Africa",
+        "Match_Date": "1-May-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "1-May-09"
+      },
+      {
+        "Venue_Name": "St George's Park",
+        "City_Name": "Port Elizabeth",
+        "Host_Country": "South Africa",
+        "Match_Date": "2-May-09"
+      },
+      {
+        "Venue_Name": "New Wanderers Stadium",
+        "City_Name": "Johannesburg",
+        "Host_Country": "South Africa",
+        "Match_Date": "2-May-09"
+      },
+      {
+        "Venue_Name": "St George's Park",
+        "City_Name": "Port Elizabeth",
+        "Host_Country": "South Africa",
+        "Match_Date": "3-May-09"
+      },
+      {
+        "Venue_Name": "New Wanderers Stadium",
+        "City_Name": "Johannesburg",
+        "Host_Country": "South Africa",
+        "Match_Date": "3-May-09"
+      },
+      {
+        "Venue_Name": "Buffalo Park",
+        "City_Name": "East London",
+        "Host_Country": "South Africa",
+        "Match_Date": "4-May-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "5-May-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "5-May-09"
+      },
+      {
+        "Venue_Name": "SuperSport Park",
+        "City_Name": "Centurion",
+        "Host_Country": "South Africa",
+        "Match_Date": "6-May-09"
+      },
+      {
+        "Venue_Name": "SuperSport Park",
+        "City_Name": "Centurion",
+        "Host_Country": "South Africa",
+        "Match_Date": "7-May-09"
+      },
+      {
+        "Venue_Name": "SuperSport Park",
+        "City_Name": "Centurion",
+        "Host_Country": "South Africa",
+        "Match_Date": "7-May-09"
+      },
+      {
+        "Venue_Name": "Buffalo Park",
+        "City_Name": "East London",
+        "Host_Country": "South Africa",
+        "Match_Date": "8-May-09"
+      },
+      {
+        "Venue_Name": "De Beers Diamond Oval",
+        "City_Name": "Kimberley",
+        "Host_Country": "South Africa",
+        "Match_Date": "9-May-09"
+      },
+      {
+        "Venue_Name": "De Beers Diamond Oval",
+        "City_Name": "Kimberley",
+        "Host_Country": "South Africa",
+        "Match_Date": "9-May-09"
+      },
+      {
+        "Venue_Name": "St George's Park",
+        "City_Name": "Port Elizabeth",
+        "Host_Country": "South Africa",
+        "Match_Date": "10-May-09"
+      },
+      {
+        "Venue_Name": "New Wanderers Stadium",
+        "City_Name": "Johannesburg",
+        "Host_Country": "South Africa",
+        "Match_Date": "10-May-09"
+      },
+      {
+        "Venue_Name": "De Beers Diamond Oval",
+        "City_Name": "Kimberley",
+        "Host_Country": "South Africa",
+        "Match_Date": "11-May-09"
+      },
+      {
+        "Venue_Name": "SuperSport Park",
+        "City_Name": "Centurion",
+        "Host_Country": "South Africa",
+        "Match_Date": "12-May-09"
+      },
+      {
+        "Venue_Name": "SuperSport Park",
+        "City_Name": "Centurion",
+        "Host_Country": "South Africa",
+        "Match_Date": "12-May-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "13-May-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "14-May-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "14-May-09"
+      },
+      {
+        "Venue_Name": "OUTsurance Oval",
+        "City_Name": "Bloemfontein",
+        "Host_Country": "South Africa",
+        "Match_Date": "15-May-09"
+      },
+      {
+        "Venue_Name": "St George's Park",
+        "City_Name": "Port Elizabeth",
+        "Host_Country": "South Africa",
+        "Match_Date": "16-May-09"
+      },
+      {
+        "Venue_Name": "New Wanderers Stadium",
+        "City_Name": "Johannesburg",
+        "Host_Country": "South Africa",
+        "Match_Date": "16-May-09"
+      },
+      {
+        "Venue_Name": "New Wanderers Stadium",
+        "City_Name": "Johannesburg",
+        "Host_Country": "South Africa",
+        "Match_Date": "17-May-09"
+      },
+      {
+        "Venue_Name": "OUTsurance Oval",
+        "City_Name": "Bloemfontein",
+        "Host_Country": "South Africa",
+        "Match_Date": "17-May-09"
+      },
+      {
+        "Venue_Name": "SuperSport Park",
+        "City_Name": "Centurion",
+        "Host_Country": "South Africa",
+        "Match_Date": "18-May-09"
+      },
+      {
+        "Venue_Name": "New Wanderers Stadium",
+        "City_Name": "Johannesburg",
+        "Host_Country": "South Africa",
+        "Match_Date": "19-May-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "20-May-09"
+      },
+      {
+        "Venue_Name": "Kingsmead",
+        "City_Name": "Durban",
+        "Host_Country": "South Africa",
+        "Match_Date": "20-May-09"
+      },
+      {
+        "Venue_Name": "SuperSport Park",
+        "City_Name": "Centurion",
+        "Host_Country": "South Africa",
+        "Match_Date": "21-May-09"
+      },
+      {
+        "Venue_Name": "SuperSport Park",
+        "City_Name": "Centurion",
+        "Host_Country": "South Africa",
+        "Match_Date": "21-May-09"
+      },
+      {
+        "Venue_Name": "SuperSport Park",
+        "City_Name": "Centurion",
+        "Host_Country": "South Africa",
+        "Match_Date": "22-May-09"
+      },
+      {
+        "Venue_Name": "New Wanderers Stadium",
+        "City_Name": "Johannesburg",
+        "Host_Country": "South Africa",
+        "Match_Date": "23-May-09"
+      },
+      {
+        "Venue_Name": "New Wanderers Stadium",
+        "City_Name": "Johannesburg",
+        "Host_Country": "South Africa",
+        "Match_Date": "24-May-09"
+      }
+    ]
+  },
+  { "year": 2010,
+    "backgroundColor": "linear-gradient( 135deg, #5EFCE8 10%, #736EFE 100%)",
+    "matchPlayed": 60,
+    "places": [
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "12-Mar-10"
+      },
+      {
+        "Venue_Name": "Brabourne Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "13-Mar-10"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "14-Mar-10"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Sardar Patel Stadium",
+        "City_Name": "Motera",
+        "Host_Country": "Ahmedabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "16-Mar-10"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "16-Mar-10"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "17-Mar-10"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "18-Mar-10"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "19-Mar-10"
+      },
+      {
+        "Venue_Name": "Barabati Stadium",
+        "City_Name": "Cuttack",
+        "Host_Country": "India",
+        "Match_Date": "19-Mar-10"
+      },
+      {
+        "Venue_Name": "Sardar Patel Stadium",
+        "City_Name": "Motera",
+        "Host_Country": "Ahmedabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Brabourne Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "20-Mar-10"
+      },
+      {
+        "Venue_Name": "Barabati Stadium",
+        "City_Name": "Cuttack",
+        "Host_Country": "India",
+        "Match_Date": "21-Mar-10"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Brabourne Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "22-Mar-10"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "23-Mar-10"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Brabourne Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "25-Mar-10"
+      },
+      {
+        "Venue_Name": "Sardar Patel Stadium",
+        "City_Name": "Motera",
+        "Host_Country": "Ahmedabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "25-Mar-10"
+      },
+      {
+        "Venue_Name": "Sardar Patel Stadium",
+        "City_Name": "Motera",
+        "Host_Country": "Ahmedabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "28-Mar-10"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "29-Mar-10"
+      },
+      {
+        "Venue_Name": "Brabourne Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "30-Mar-10"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "31-Mar-10"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "1-Apr-10"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Brabourne Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "3-Apr-10"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "4-Apr-10"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "4-Apr-10"
+      },
+      {
+        "Venue_Name": "Vidarbha Cricket Association Stadium",
+        "City_Name": "Jamtha",
+        "Host_Country": "Nagpur",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "7-Apr-10"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "7-Apr-10"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "8-Apr-10"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Vidarbha Cricket Association Stadium",
+        "City_Name": "Jamtha",
+        "Host_Country": "Nagpur",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "10-Apr-10"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "11-Apr-10"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "11-Apr-10"
+      },
+      {
+        "Venue_Name": "Vidarbha Cricket Association Stadium",
+        "City_Name": "Jamtha",
+        "Host_Country": "Nagpur",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Brabourne Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "13-Apr-10"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "14-Apr-10"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Himachal Pradesh Cricket Association Stadium",
+        "City_Name": "Dharamsala",
+        "Host_Country": "India",
+        "Match_Date": "16-Apr-10"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "17-Apr-10"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "17-Apr-10"
+      },
+      {
+        "Venue_Name": "Himachal Pradesh Cricket Association Stadium",
+        "City_Name": "Dharamsala",
+        "Host_Country": "India",
+        "Match_Date": "18-Apr-10"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "18-Apr-10"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "19-Apr-10"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "21-Apr-10"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "22-Apr-10"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "24-Apr-10"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "25-Apr-10"
+      }
+    ]
+  },
+  { "year": 2011,
+    "backgroundColor": "linear-gradient( 135deg, #52E5E7 10%, #130CB7 100%)",
+    "matchPlayed": 72,
+    "places": [
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Nehru Stadium",
+        "City_Name": "Kochi",
+        "Host_Country": "India",
+        "Match_Date": "9-Apr-11"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "10-Apr-11"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "10-Apr-11"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "11-Apr-11"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "12-Apr-11"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "12-Apr-11"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "13-Apr-11"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "15-Apr-11"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "15-Apr-11"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "17-Apr-11"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "17-Apr-11"
+      },
+      {
+        "Venue_Name": "Nehru Stadium",
+        "City_Name": "Kochi",
+        "Host_Country": "India",
+        "Match_Date": "18-Apr-11"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "19-Apr-11"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "20-Apr-11"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "20-Apr-11"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "22-Apr-11"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "22-Apr-11"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "23-Apr-11"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "24-Apr-11"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "26-Apr-11"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "27-Apr-11"
+      },
+      {
+        "Venue_Name": "Nehru Stadium",
+        "City_Name": "Kochi",
+        "Host_Country": "India",
+        "Match_Date": "27-Apr-11"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "28-Apr-11"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "29-Apr-11"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "29-Apr-11"
+      },
+      {
+        "Venue_Name": "Nehru Stadium",
+        "City_Name": "Kochi",
+        "Host_Country": "India",
+        "Match_Date": "30-Apr-11"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "30-Apr-11"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "1-May-11"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "2-May-11"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "2-May-11"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "4-May-11"
+      },
+      {
+        "Venue_Name": "Nehru Stadium",
+        "City_Name": "Kochi",
+        "Host_Country": "India",
+        "Match_Date": "5-May-11"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "6-May-11"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "7-May-11"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "7-May-11"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "8-May-11"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "9-May-11"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "11-May-11"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Holkar Cricket Stadium",
+        "City_Name": "Indore",
+        "Host_Country": "India",
+        "Match_Date": "13-May-11"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "14-May-11"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "14-May-11"
+      },
+      {
+        "Venue_Name": "Himachal Pradesh Cricket Association Stadium",
+        "City_Name": "Dharamsala",
+        "Host_Country": "India",
+        "Match_Date": "15-May-11"
+      },
+      {
+        "Venue_Name": "Holkar Cricket Stadium",
+        "City_Name": "Indore",
+        "Host_Country": "India",
+        "Match_Date": "15-May-11"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "16-May-11"
+      },
+      {
+        "Venue_Name": "Himachal Pradesh Cricket Association Stadium",
+        "City_Name": "Dharamsala",
+        "Host_Country": "India",
+        "Match_Date": "17-May-11"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Dr DY Patil Sports Academy",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "19-May-11"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "20-May-11"
+      },
+      {
+        "Venue_Name": "Himachal Pradesh Cricket Association Stadium",
+        "City_Name": "Dharamsala",
+        "Host_Country": "India",
+        "Match_Date": "21-May-11"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "21-May-11"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "22-May-11"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "22-May-11"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "24-May-11"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "25-May-11"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      }
+    ]
+  },
+  { "year": 2012,
+    "backgroundColor": "linear-gradient( 135deg, #FDD819 10%, #E80505 100%)",
+    "matchPlayed": 74,
+    "places": [
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "5-Apr-12"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "6-Apr-12"
+    },
+    {
+      "Venue_Name": "Sawai Mansingh Stadium",
+      "City_Name": "Jaipur",
+      "Host_Country": "India",
+      "Match_Date": "6-Apr-12"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "7-Apr-12"
+    },
+    {
+      "Venue_Name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+      "City_Name": "Visakhapatnam",
+      "Host_Country": "India",
+      "Match_Date": "7-Apr-12"
+    },
+    {
+      "Venue_Name": "Sawai Mansingh Stadium",
+      "City_Name": "Jaipur",
+      "Host_Country": "India",
+      "Match_Date": "8-Apr-12"
+    },
+    {
+      "Venue_Name": "Subrata Roy Sahara Stadium",
+      "City_Name": "Pune",
+      "Host_Country": "India",
+      "Match_Date": "8-Apr-12"
+    },
+    {
+      "Venue_Name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+      "City_Name": "Visakhapatnam",
+      "Host_Country": "India",
+      "Match_Date": "9-Apr-12"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "10-Apr-12"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "10-Apr-12"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "11-Apr-12"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Punjab Cricket Association Stadium",
+      "City_Name": "Mohali",
+      "Host_Country": "Chandigarh",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "13-Apr-12"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "19-Apr-12"
+    },
+    {
+      "Venue_Name": "Subrata Roy Sahara Stadium",
+      "City_Name": "Pune",
+      "Host_Country": "India",
+      "Match_Date": "14-Apr-12"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "15-Apr-12"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "15-Apr-12"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "16-Apr-12"
+    },
+    {
+      "Venue_Name": "Sawai Mansingh Stadium",
+      "City_Name": "Jaipur",
+      "Host_Country": "India",
+      "Match_Date": "17-Apr-12"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "17-Apr-12"
+    },
+    {
+      "Venue_Name": "Punjab Cricket Association Stadium",
+      "City_Name": "Mohali",
+      "Host_Country": "Chandigarh",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Rajiv Gandhi International Stadium",
+      "City_Name": "Uppal",
+      "Host_Country": "Hyderabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Punjab Cricket Association Stadium",
+      "City_Name": "Mohali",
+      "Host_Country": "Chandigarh",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "21-Apr-12"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "22-Apr-12"
+    },
+    {
+      "Venue_Name": "Barabati Stadium",
+      "City_Name": "Cuttack",
+      "Host_Country": "India",
+      "Match_Date": "22-Apr-12"
+    },
+    {
+      "Venue_Name": "Sawai Mansingh Stadium",
+      "City_Name": "Jaipur",
+      "Host_Country": "India",
+      "Match_Date": "23-Apr-12"
+    },
+    {
+      "Venue_Name": "Subrata Roy Sahara Stadium",
+      "City_Name": "Pune",
+      "Host_Country": "India",
+      "Match_Date": "24-Apr-12"
+    },
+    {
+      "Venue_Name": "Punjab Cricket Association Stadium",
+      "City_Name": "Mohali",
+      "Host_Country": "Chandigarh",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Subrata Roy Sahara Stadium",
+      "City_Name": "Pune",
+      "Host_Country": "India",
+      "Match_Date": "26-Apr-12"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "27-Apr-12"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "28-Apr-12"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "29-Apr-12"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "29-Apr-12"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Barabati Stadium",
+      "City_Name": "Cuttack",
+      "Host_Country": "India",
+      "Match_Date": "1-May-12"
+    },
+    {
+      "Venue_Name": "Sawai Mansingh Stadium",
+      "City_Name": "Jaipur",
+      "Host_Country": "India",
+      "Match_Date": "1-May-12"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "2-May-12"
+    },
+    {
+      "Venue_Name": "Subrata Roy Sahara Stadium",
+      "City_Name": "Pune",
+      "Host_Country": "India",
+      "Match_Date": "3-May-12"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "5-May-12"
+    },
+    {
+      "Venue_Name": "Punjab Cricket Association Stadium",
+      "City_Name": "Mohali",
+      "Host_Country": "Chandigarh",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "6-May-12"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "6-May-12"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "7-May-12"
+    },
+    {
+      "Venue_Name": "Subrata Roy Sahara Stadium",
+      "City_Name": "Pune",
+      "Host_Country": "India",
+      "Match_Date": "8-May-12"
+    },
+    {
+      "Venue_Name": "Rajiv Gandhi International Stadium",
+      "City_Name": "Uppal",
+      "Host_Country": "Hyderabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "9-May-12"
+    },
+    {
+      "Venue_Name": "Sawai Mansingh Stadium",
+      "City_Name": "Jaipur",
+      "Host_Country": "India",
+      "Match_Date": "10-May-12"
+    },
+    {
+      "Venue_Name": "Subrata Roy Sahara Stadium",
+      "City_Name": "Pune",
+      "Host_Country": "India",
+      "Match_Date": "11-May-12"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "12-May-12"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Sawai Mansingh Stadium",
+      "City_Name": "Jaipur",
+      "Host_Country": "India",
+      "Match_Date": "13-May-12"
+    },
+    {
+      "Venue_Name": "Punjab Cricket Association Stadium",
+      "City_Name": "Mohali",
+      "Host_Country": "Chandigarh",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "14-May-12"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "14-May-12"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "15-May-12"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "16-May-12"
+    },
+    {
+      "Venue_Name": "Himachal Pradesh Cricket Association Stadium",
+      "City_Name": "Dharamsala",
+      "Host_Country": "India",
+      "Match_Date": "17-May-12"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "17-May-12"
+    },
+    {
+      "Venue_Name": "Rajiv Gandhi International Stadium",
+      "City_Name": "Uppal",
+      "Host_Country": "Hyderabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Himachal Pradesh Cricket Association Stadium",
+      "City_Name": "Dharamsala",
+      "Host_Country": "India",
+      "Match_Date": "19-May-12"
+    },
+    {
+      "Venue_Name": "Subrata Roy Sahara Stadium",
+      "City_Name": "Pune",
+      "Host_Country": "India",
+      "Match_Date": "19-May-12"
+    },
+    {
+      "Venue_Name": "Rajiv Gandhi International Stadium",
+      "City_Name": "Uppal",
+      "Host_Country": "Hyderabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Sawai Mansingh Stadium",
+      "City_Name": "Jaipur",
+      "Host_Country": "India",
+      "Match_Date": "20-May-12"
+    },
+    {
+      "Venue_Name": "Subrata Roy Sahara Stadium",
+      "City_Name": "Pune",
+      "Host_Country": "India",
+      "Match_Date": "22-May-12"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "23-May-12"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    }
+  ]
+  },
+  { "year": 2013,
+    "backgroundColor": "linear-gradient( 135deg, #FF7AF5 10%, #513162 100%)",
+    "matchPlayed": 76,
+    "places": [
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "3-Apr-13"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "4-Apr-13"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "6-Apr-13"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Subrata Roy Sahara Stadium",
+        "City_Name": "Pune",
+        "Host_Country": "India",
+        "Match_Date": "7-Apr-13"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "8-Apr-13"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "9-Apr-13"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "11-Apr-13"
+      },
+      {
+        "Venue_Name": "Subrata Roy Sahara Stadium",
+        "City_Name": "Pune",
+        "Host_Country": "India",
+        "Match_Date": "11-Apr-13"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "12-Apr-13"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "13-Apr-13"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "14-Apr-13"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "14-Apr-13"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "16-Apr-13"
+      },
+      {
+        "Venue_Name": "Subrata Roy Sahara Stadium",
+        "City_Name": "Pune",
+        "Host_Country": "India",
+        "Match_Date": "17-Apr-13"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "17-Apr-13"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "18-Apr-13"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "20-Apr-13"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "20-Apr-13"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "21-Apr-13"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "23-Apr-13"
+      },
+      {
+        "Venue_Name": "Himachal Pradesh Cricket Association Stadium",
+        "City_Name": "Dharamsala",
+        "Host_Country": "India",
+        "Match_Date": "16-May-13"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "24-Apr-13"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "26-Apr-13"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "27-Apr-13"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "27-Apr-13"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Shaheed Veer Narayan Singh International Stadium",
+        "City_Name": "Raipur",
+        "Host_Country": "India",
+        "Match_Date": "28-Apr-13"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "29-Apr-13"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "29-Apr-13"
+      },
+      {
+        "Venue_Name": "Subrata Roy Sahara Stadium",
+        "City_Name": "Pune",
+        "Host_Country": "India",
+        "Match_Date": "30-Apr-13"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Shaheed Veer Narayan Singh International Stadium",
+        "City_Name": "Raipur",
+        "Host_Country": "India",
+        "Match_Date": "1-May-13"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Subrata Roy Sahara Stadium",
+        "City_Name": "Pune",
+        "Host_Country": "India",
+        "Match_Date": "2-May-13"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "3-May-13"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "14-May-13"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "5-May-13"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "5-May-13"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "9-Apr-13"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "7-May-13"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "7-May-13"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Subrata Roy Sahara Stadium",
+        "City_Name": "Pune",
+        "Host_Country": "India",
+        "Match_Date": "9-May-13"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "10-May-13"
+      },
+      {
+        "Venue_Name": "Subrata Roy Sahara Stadium",
+        "City_Name": "Pune",
+        "Host_Country": "India",
+        "Match_Date": "11-May-13"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "JSCA International Stadium Complex",
+        "City_Name": "Ranchi",
+        "Host_Country": "India",
+        "Match_Date": "12-May-13"
+      },
+      {
+        "Venue_Name": "Sawai Mansingh Stadium",
+        "City_Name": "Jaipur",
+        "Host_Country": "India",
+        "Match_Date": "12-May-13"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "23-Apr-13"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "13-May-13"
+      },
+      {
+        "Venue_Name": "JSCA International Stadium Complex",
+        "City_Name": "Ranchi",
+        "Host_Country": "India",
+        "Match_Date": "15-May-13"
+      },
+      {
+        "Venue_Name": "MA Chidambaram Stadium",
+        "City_Name": "Chepauk",
+        "Host_Country": "Chennai",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "15-May-13"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Himachal Pradesh Cricket Association Stadium",
+        "City_Name": "Dharamsala",
+        "Host_Country": "India",
+        "Match_Date": "18-May-13"
+      },
+      {
+        "Venue_Name": "Subrata Roy Sahara Stadium",
+        "City_Name": "Pune",
+        "Host_Country": "India",
+        "Match_Date": "19-May-13"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "18-May-13"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "21-May-13"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "22-May-13"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "24-May-13"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "26-May-13"
+      }
+    ]
+  },
+  { "year": 2014,
+    "backgroundColor": "linear-gradient( 135deg, #FF96F9 10%, #C32BAC 100%)",
+    "matchPlayed": 60,
+    "places": [
+    {
+      "Venue_Name": "Sheikh Zayed Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "16-Apr-14"
+    },
+    {
+      "Venue_Name": "Sharjah Cricket Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "17-Apr-14"
+    },
+    {
+      "Venue_Name": "Sheikh Zayed Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "18-Apr-14"
+    },
+    {
+      "Venue_Name": "Sheikh Zayed Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "18-Apr-14"
+    },
+    {
+      "Venue_Name": "Dubai International Cricket Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "19-Apr-14"
+    },
+    {
+      "Venue_Name": "Dubai International Cricket Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "19-Apr-14"
+    },
+    {
+      "Venue_Name": "Sharjah Cricket Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "20-Apr-14"
+    },
+    {
+      "Venue_Name": "Sheikh Zayed Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "21-Apr-14"
+    },
+    {
+      "Venue_Name": "Sharjah Cricket Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "22-Apr-14"
+    },
+    {
+      "Venue_Name": "Dubai International Cricket Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "23-Apr-14"
+    },
+    {
+      "Venue_Name": "Sharjah Cricket Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "24-Apr-14"
+    },
+    {
+      "Venue_Name": "Dubai International Cricket Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "25-Apr-14"
+    },
+    {
+      "Venue_Name": "Dubai International Cricket Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "25-Apr-14"
+    },
+    {
+      "Venue_Name": "Sheikh Zayed Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "26-Apr-14"
+    },
+    {
+      "Venue_Name": "Sheikh Zayed Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "26-Apr-14"
+    },
+    {
+      "Venue_Name": "Sharjah Cricket Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "27-Apr-14"
+    },
+    {
+      "Venue_Name": "Sharjah Cricket Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "27-Apr-14"
+    },
+    {
+      "Venue_Name": "Dubai International Cricket Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "28-Apr-14"
+    },
+    {
+      "Venue_Name": "Sheikh Zayed Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "29-Apr-14"
+    },
+    {
+      "Venue_Name": "Dubai International Cricket Stadium",
+      "City_Name": "Abu Dhabi",
+      "Host_Country": "U.A.E",
+      "Match_Date": "30-Apr-14"
+    },
+    {
+      "Venue_Name": "JSCA International Stadium Complex",
+      "City_Name": "Ranchi",
+      "Host_Country": "India",
+      "Match_Date": "2-May-14"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "3-May-14"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "3-May-14"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "4-May-14"
+    },
+    {
+      "Venue_Name": "Sardar Patel Stadium",
+      "City_Name": "Motera",
+      "Host_Country": "Ahmedabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "5-May-14"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "6-May-14"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "7-May-14"
+    },
+    {
+      "Venue_Name": "Barabati Stadium",
+      "City_Name": "Cuttack",
+      "Host_Country": "India",
+      "Match_Date": "7-May-14"
+    },
+    {
+      "Venue_Name": "Sardar Patel Stadium",
+      "City_Name": "Motera",
+      "Host_Country": "Ahmedabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "9-May-14"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "10-May-14"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "10-May-14"
+    },
+    {
+      "Venue_Name": "Barabati Stadium",
+      "City_Name": "Cuttack",
+      "Host_Country": "India",
+      "Match_Date": "11-May-14"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "11-May-14"
+    },
+    {
+      "Venue_Name": "Rajiv Gandhi International Stadium",
+      "City_Name": "Uppal",
+      "Host_Country": "Hyderabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "JSCA International Stadium Complex",
+      "City_Name": "Ranchi",
+      "Host_Country": "India",
+      "Match_Date": "13-May-14"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "13-May-14"
+    },
+    {
+      "Venue_Name": "Rajiv Gandhi International Stadium",
+      "City_Name": "Uppal",
+      "Host_Country": "Hyderabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Barabati Stadium",
+      "City_Name": "Cuttack",
+      "Host_Country": "India",
+      "Match_Date": "14-May-14"
+    },
+    {
+      "Venue_Name": "Sardar Patel Stadium",
+      "City_Name": "Motera",
+      "Host_Country": "Ahmedabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "JSCA International Stadium Complex",
+      "City_Name": "Ranchi",
+      "Host_Country": "India",
+      "Match_Date": "18-May-14"
+    },
+    {
+      "Venue_Name": "Rajiv Gandhi International Stadium",
+      "City_Name": "Uppal",
+      "Host_Country": "Hyderabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Sardar Patel Stadium",
+      "City_Name": "Motera",
+      "Host_Country": "Ahmedabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "19-May-14"
+    },
+    {
+      "Venue_Name": "Rajiv Gandhi International Stadium",
+      "City_Name": "Uppal",
+      "Host_Country": "Hyderabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "20-May-14"
+    },
+    {
+      "Venue_Name": "Punjab Cricket Association Stadium",
+      "City_Name": "Mohali",
+      "Host_Country": "Chandigarh",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "22-May-14"
+    },
+    {
+      "Venue_Name": "JSCA International Stadium Complex",
+      "City_Name": "Ranchi",
+      "Host_Country": "India",
+      "Match_Date": "22-May-14"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "23-May-14"
+    },
+    {
+      "Venue_Name": "Punjab Cricket Association Stadium",
+      "City_Name": "Mohali",
+      "Host_Country": "Chandigarh",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "24-May-14"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "24-May-14"
+    },
+    {
+      "Venue_Name": "Punjab Cricket Association Stadium",
+      "City_Name": "Mohali",
+      "Host_Country": "Chandigarh",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "25-May-14"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "27-May-14"
+    },
+    {
+      "Venue_Name": "Brabourne Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "28-May-14"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "30-May-14"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "1-Jun-14"
+    }
+  ]
+  },
+  { "year": 2015,
+    "backgroundColor": "linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%)",
+    "matchPlayed": 57,
+    "places": [
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "8-Apr-15"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Maharashtra Cricket Association Stadium",
+      "City_Name": "Pune",
+      "Host_Country": "India",
+      "Match_Date": "10-Apr-15"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "11-Apr-15"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "12-Apr-15"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "12-Apr-15"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "13-Apr-15"
+    },
+    {
+      "Venue_Name": "Sardar Patel Stadium",
+      "City_Name": "Motera",
+      "Host_Country": "Ahmedabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "30-Apr-15"
+    },
+    {
+      "Venue_Name": "Maharashtra Cricket Association Stadium",
+      "City_Name": "Pune",
+      "Host_Country": "India",
+      "Match_Date": "15-Apr-15"
+    },
+    {
+      "Venue_Name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+      "City_Name": "Visakhapatnam",
+      "Host_Country": "India",
+      "Match_Date": "16-Apr-15"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "17-Apr-15"
+    },
+    {
+      "Venue_Name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+      "City_Name": "Visakhapatnam",
+      "Host_Country": "India",
+      "Match_Date": "18-Apr-15"
+    },
+    {
+      "Venue_Name": "Maharashtra Cricket Association Stadium",
+      "City_Name": "Pune",
+      "Host_Country": "India",
+      "Match_Date": "18-Apr-15"
+    },
+    {
+      "Venue_Name": "Sardar Patel Stadium",
+      "City_Name": "Motera",
+      "Host_Country": "Ahmedabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "19-Apr-15"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "20-Apr-15"
+    },
+    {
+      "Venue_Name": "Sardar Patel Stadium",
+      "City_Name": "Motera",
+      "Host_Country": "Ahmedabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+      "City_Name": "Visakhapatnam",
+      "Host_Country": "India",
+      "Match_Date": "22-Apr-15"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "22-Apr-15"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "23-Apr-15"
+    },
+    {
+      "Venue_Name": "Sardar Patel Stadium",
+      "City_Name": "Motera",
+      "Host_Country": "Ahmedabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "25-Apr-15"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "26-Apr-15"
+    },
+    {
+      "Venue_Name": "Punjab Cricket Association Stadium",
+      "City_Name": "Mohali",
+      "Host_Country": "Chandigarh",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "7-May-15"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "29-Apr-15"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Feroz Shah Kotla",
+      "City_Name": "Delhi",
+      "Host_Country": "India",
+      "Match_Date": "1-May-15"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "1-May-15"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "2-May-15"
+    },
+    {
+      "Venue_Name": "Rajiv Gandhi International Stadium",
+      "City_Name": "Uppal",
+      "Host_Country": "Hyderabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Punjab Cricket Association Stadium",
+      "City_Name": "Mohali",
+      "Host_Country": "Chandigarh",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Brabourne Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "3-May-15"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "4-May-15"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "5-May-15"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "6-May-15"
+    },
+    {
+      "Venue_Name": "Brabourne Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "7-May-15"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "9-May-15"
+    },
+    {
+      "Venue_Name": "Shaheed Veer Narayan Singh International Stadium",
+      "City_Name": "Raipur",
+      "Host_Country": "India",
+      "Match_Date": "9-May-15"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "10-May-15"
+    },
+    {
+      "Venue_Name": "MA Chidambaram Stadium",
+      "City_Name": "Chepauk",
+      "Host_Country": "Chennai",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Rajiv Gandhi International Stadium",
+      "City_Name": "Uppal",
+      "Host_Country": "Hyderabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Shaheed Veer Narayan Singh International Stadium",
+      "City_Name": "Raipur",
+      "Host_Country": "India",
+      "Match_Date": "12-May-15"
+    },
+    {
+      "Venue_Name": "Punjab Cricket Association Stadium",
+      "City_Name": "Mohali",
+      "Host_Country": "Chandigarh",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "14-May-15"
+    },
+    {
+      "Venue_Name": "Rajiv Gandhi International Stadium",
+      "City_Name": "Uppal",
+      "Host_Country": "Hyderabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Punjab Cricket Association Stadium",
+      "City_Name": "Mohali",
+      "Host_Country": "Chandigarh",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Brabourne Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "16-May-15"
+    },
+    {
+      "Venue_Name": "M Chinnaswamy Stadium",
+      "City_Name": "Bangalore",
+      "Host_Country": "India",
+      "Match_Date": "17-May-15"
+    },
+    {
+      "Venue_Name": "Rajiv Gandhi International Stadium",
+      "City_Name": "Uppal",
+      "Host_Country": "Hyderabad",
+      "Match_Date": "India"
+    },
+    {
+      "Venue_Name": "Wankhede Stadium",
+      "City_Name": "Mumbai",
+      "Host_Country": "India",
+      "Match_Date": "19-May-15"
+    },
+    {
+      "Venue_Name": "Maharashtra Cricket Association Stadium",
+      "City_Name": "Pune",
+      "Host_Country": "India",
+      "Match_Date": "20-May-15"
+    },
+    {
+      "Venue_Name": "JSCA International Stadium Complex",
+      "City_Name": "Ranchi",
+      "Host_Country": "India",
+      "Match_Date": "22-May-15"
+    },
+    {
+      "Venue_Name": "Eden Gardens",
+      "City_Name": "Kolkata",
+      "Host_Country": "India",
+      "Match_Date": "24-May-15"
+    }
+  ]
+  },
+  { "year": 2016,
+    "backgroundColor": "linear-gradient( 135deg, #FCCF31 10%, #F55555 100%)",
+    "matchPlayed": 60,
+    "places": [
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "9-Apr-16"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "10-Apr-16"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association IS Bindra Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "12-Apr-16"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "13-Apr-16"
+      },
+      {
+        "Venue_Name": "Saurashtra Cricket Association Stadium",
+        "City_Name": "Rajkot",
+        "Host_Country": "India",
+        "Match_Date": "14-Apr-16"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "15-Apr-16"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "16-Apr-16"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association IS Bindra Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "17-Apr-16"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association IS Bindra Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "20-Apr-16"
+      },
+      {
+        "Venue_Name": "Saurashtra Cricket Association Stadium",
+        "City_Name": "Rajkot",
+        "Host_Country": "India",
+        "Match_Date": "21-Apr-16"
+      },
+      {
+        "Venue_Name": "Maharashtra Cricket Association Stadium",
+        "City_Name": "Pune",
+        "Host_Country": "India",
+        "Match_Date": "22-Apr-16"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "23-Apr-16"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Saurashtra Cricket Association Stadium",
+        "City_Name": "Rajkot",
+        "Host_Country": "India",
+        "Match_Date": "24-Apr-16"
+      },
+      {
+        "Venue_Name": "Maharashtra Cricket Association Stadium",
+        "City_Name": "Pune",
+        "Host_Country": "India",
+        "Match_Date": "24-Apr-16"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association IS Bindra Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "27-Apr-16"
+      },
+      {
+        "Venue_Name": "Wankhede Stadium",
+        "City_Name": "Mumbai",
+        "Host_Country": "India",
+        "Match_Date": "28-Apr-16"
+      },
+      {
+        "Venue_Name": "Maharashtra Cricket Association Stadium",
+        "City_Name": "Pune",
+        "Host_Country": "India",
+        "Match_Date": "29-Apr-16"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "30-Apr-16"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Saurashtra Cricket Association Stadium",
+        "City_Name": "Rajkot",
+        "Host_Country": "India",
+        "Match_Date": "1-May-16"
+      },
+      {
+        "Venue_Name": "Maharashtra Cricket Association Stadium",
+        "City_Name": "Pune",
+        "Host_Country": "India",
+        "Match_Date": "1-May-16"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "2-May-16"
+      },
+      {
+        "Venue_Name": "Saurashtra Cricket Association Stadium",
+        "City_Name": "Rajkot",
+        "Host_Country": "India",
+        "Match_Date": "3-May-16"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "4-May-16"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "5-May-16"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "7-May-16"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association IS Bindra Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+        "City_Name": "Visakhapatnam",
+        "Host_Country": "India",
+        "Match_Date": "8-May-16"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "8-May-16"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association IS Bindra Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+        "City_Name": "Visakhapatnam",
+        "Host_Country": "India",
+        "Match_Date": "10-May-16"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "11-May-16"
+      },
+      {
+        "Venue_Name": "Rajiv Gandhi International Stadium",
+        "City_Name": "Uppal",
+        "Host_Country": "Hyderabad",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+        "City_Name": "Visakhapatnam",
+        "Host_Country": "India",
+        "Match_Date": "13-May-16"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "14-May-16"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "14-May-16"
+      },
+      {
+        "Venue_Name": "Punjab Cricket Association IS Bindra Stadium",
+        "City_Name": "Mohali",
+        "Host_Country": "Chandigarh",
+        "Match_Date": "India"
+      },
+      {
+        "Venue_Name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+        "City_Name": "Visakhapatnam",
+        "Host_Country": "India",
+        "Match_Date": "15-May-16"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "16-May-16"
+      },
+      {
+        "Venue_Name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+        "City_Name": "Visakhapatnam",
+        "Host_Country": "India",
+        "Match_Date": "17-May-16"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "18-May-16"
+      },
+      {
+        "Venue_Name": "Green Park",
+        "City_Name": "Kanpur",
+        "Host_Country": "India",
+        "Match_Date": "19-May-16"
+      },
+      {
+        "Venue_Name": "Shaheed Veer Narayan Singh International Stadium",
+        "City_Name": "Raipur",
+        "Host_Country": "India",
+        "Match_Date": "20-May-16"
+      },
+      {
+        "Venue_Name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+        "City_Name": "Visakhapatnam",
+        "Host_Country": "India",
+        "Match_Date": "21-May-16"
+      },
+      {
+        "Venue_Name": "Green Park",
+        "City_Name": "Kanpur",
+        "Host_Country": "India",
+        "Match_Date": "21-May-16"
+      },
+      {
+        "Venue_Name": "Eden Gardens",
+        "City_Name": "Kolkata",
+        "Host_Country": "India",
+        "Match_Date": "22-May-16"
+      },
+      {
+        "Venue_Name": "Shaheed Veer Narayan Singh International Stadium",
+        "City_Name": "Raipur",
+        "Host_Country": "India",
+        "Match_Date": "22-May-16"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "24-May-16"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "25-May-16"
+      },
+      {
+        "Venue_Name": "Feroz Shah Kotla",
+        "City_Name": "Delhi",
+        "Host_Country": "India",
+        "Match_Date": "27-May-16"
+      },
+      {
+        "Venue_Name": "M Chinnaswamy Stadium",
+        "City_Name": "Bangalore",
+        "Host_Country": "India",
+        "Match_Date": "29-May-16"
+      }
+    ]
+  }
+]

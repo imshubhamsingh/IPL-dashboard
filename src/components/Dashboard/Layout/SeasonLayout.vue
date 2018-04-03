@@ -27,6 +27,24 @@
           <div class="box" :style="style"></div>
         </div>
       </div>
+      <div>
+        <div class="season-scroll">
+          <div class="info-list">
+            <div class="season-card">
+              <div class="card">
+                <div class="season-card-front">
+                  <div class="content" :style="{'background': 'red'}">
+                    <div class="text">
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
 
     </div>
 
@@ -44,6 +62,7 @@
 </template>
 
 <script>
+  import geocoder from 'geocoder-geojson';
   import YearCard from '../../UIComponents/YearCard';
 
   export default {
@@ -53,24 +72,40 @@
     },
     data() {
       return {
-        heading: ['Home'],
         seasonDetail: this.$store.getters.particularSeason(this.$route.params.year) || '',
-        info: null
+        info: this.$store.getters.seasonDetails || '',
+        places: []
       };
     },
     watch: {
       $route(to) {
         this.seasonDetail = this.$store.getters.particularSeason(to.params.year);
+      },
+      seasonDetail(val) {
+        this.updatePlaces(val.places);
       }
     },
     mounted() {
-      this.info = this.$store.getters.seasonDetails;
+      this.updatePlaces(this.seasonDetail.places);
     },
     computed: {
       style() {
         return `background: linear-gradient(45deg, #2b2b2b, ${this.seasonDetail.backgroundColor.slice(25, 32)})`;
       }
+    },
+    methods: {
+      updatePlaces(val) {
+        this.places = [];
+        const vm = this;
+        val.map(place => geocoder.google(`${place.Venue_Name}, ${place.City_Name}, ${place.Host_Country}`).then((res) => {
+          vm.places.push({
+            lat: res.features[0].geometry.coordinates[0],
+            lng: res.features[0].geometry.coordinates[1]
+          });
+        }));
+      }
     }
+
   };
 </script>
 
@@ -84,6 +119,23 @@
     text-transform: uppercase;
     color: white;
   }
+  %season-card {
+    width: 316px;
+    height: 381px;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin: 0 10px 0 0;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    overflow: hidden;
+    transition: all 0.5s ease-in-out;
+    perspective: 500px;
+  }
+
   #home {
     padding: 10px;
     & .content {
@@ -130,6 +182,97 @@
         }
       }
 
+      & .season-scroll {
+        display: block;
+        width: 100%;
+        height: 381px;
+        overflow-y: hidden;
+        overflow-x: scroll;
+        white-space: nowrap;
+        margin-bottom: 21px;
+        border-radius: 5px;
+        position: relative;
+        z-index: 2;
+        & .info-list {
+          overflow: hidden;
+          float: left;
+          .season-card {
+            @extend %season-card;
+            & .card {
+              position: relative;
+              transform-style: preserve-3d;
+              transition: .5s ease;
+
+              & .seasoon-card-front {
+                width: 316px;
+                height: 381px;
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                backface-visibility: hidden;
+                overflow: hidden;
+                & .content {
+                  overflow: hidden;
+                  height: 100%;
+                  z-index: 2;
+                  & .logo {
+                    height: 101px;
+                    padding: 13px;
+                    object-fit: cover;
+                  }
+                  & .text {
+                    z-index: 3;
+                    & .team-name {
+                      font-family: 'IBM Plex Sans', sans-serif;
+                      font-size: 23px;
+                      font-weight: 700;
+                      color: #ffffff;
+                      white-space: initial;
+                      width: 100%;
+                      margin-top: 30px;
+                    }
+                  }
+                  & .white-box {
+                    background: white;
+                    width: 153%;
+                    height: 159px;
+                    position: absolute;
+                    bottom: -26px;
+                    left: -24px;
+                    -webkit-transform: rotate(-19deg);
+                    transform: rotate(-19deg);
+                    z-index: 1;
+                  }
+                  & .best-result {
+                    display: flex !important;
+                    justify-content: space-around;
+                    & .text {
+                      margin-left: 161px;
+                      font-family: 'IBM Plex Sans', sans-serif;
+                      font-size: 23px;
+                      display: flex;
+                      flex-direction: column;
+                      font-weight: 700;
+                      color: #ffffff;
+                      white-space: initial;
+                      margin-top: 30px;
+                      .result {
+                        font-size: 67px;
+                        margin: -22px;
+                      }
+                      .year {
+                        font-size: 10px;
+                        margin-top: 8px;
+                      }
+                    }
+
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
       .top-map{
         @media screen and (max-width: $break-medium) {
           text-align: center;

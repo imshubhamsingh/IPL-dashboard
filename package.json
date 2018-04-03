@@ -15,6 +15,7 @@
   "dependencies": {
     "chart.js": "^2.7.2",
     "chartjs": "^0.3.24",
+    "geocoder-geojson": "^1.11.0",
     "vue": "^2.5.2",
     "vue-chartjs": "^3.3.1",
     "vue-router": "^3.0.1",
