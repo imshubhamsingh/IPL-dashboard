@@ -583,7 +583,24 @@
           "lat": 19.0420609
         }
       }
-    ]
+    ],
+    "awards": {
+      "Purple_Cap": {
+        "name": "Sohail Tanvir (RR)",
+        "matches": 11,
+        "wickets": 22
+      },
+      "Orange_Cap": {
+        "name": "Shaun Marsh (KXIP)",
+        "matches": 11,
+        "runs": 616
+      },
+      "Maximum_Sixes": {
+        "name": "Sanath Jayasuriya (MI)",
+        "matches": 14,
+        "sixes": 31
+      }
+    }
   },
   { "year": 2009,
     "backgroundColor": "linear-gradient( 135deg, #43CBFF 10%, #9708CC 100%)",
@@ -1159,7 +1176,24 @@
           "lat": -26.1312042
         }
       }
-    ]
+    ],
+    "awards": {
+      "Purple_Cap": {
+        "name": "RP Singh (DC)",
+        "matches": 16,
+        "wickets": 23
+      },
+      "Orange_Cap": {
+        "name": "Matthew Hayden (CSK)",
+        "matches": 12,
+        "runs": 572
+      },
+      "Maximum_Sixes": {
+        "name": "Adam Gilchrist (DC)",
+        "matches": 16,
+        "sixes": 29
+      }
+    }
   },
   { "year": 2010,
     "backgroundColor": "linear-gradient( 135deg, #5EFCE8 10%, #736EFE 100%)",
@@ -1765,7 +1799,24 @@
           "lat": 19.0420609
         }
       }
-    ]
+    ],
+    "awards": {
+      "Purple_Cap":{
+        "name":  "Pragyan Ojha (DC)",
+        "matches": 16,
+        "wickets": 21
+      },
+      "Orange_Cap": {
+        "name": "Sachin Tendulkar (MI)",
+        "matches": 15,
+        "runs": 618
+      },
+      "Maximum_Sixes": {
+        "name": "Robin Uthappa (RCB)",
+        "matches": 16,
+        "sixes": 27
+      }
+    }
   },
   { "year": 2011,
     "backgroundColor": "linear-gradient( 135deg, #52E5E7 10%, #130CB7 100%)",
@@ -2501,7 +2552,24 @@
           "lat": 13.0628075
         }
       }
-    ]
+    ],
+    "awards": {
+      "Purple_Cap": {
+        "name": "Lasith Malinga (MI)",
+        "matches": 16,
+        "wickets": 23
+      },
+      "Orange_Cap": {
+        "name": "Chris Gayle (RCB)",
+        "matches": 12,
+        "runs": 608
+      },
+      "Maximum_Sixes": {
+        "name": "Chris Gayle (RCB)",
+        "matches": 12,
+        "sixes": 44
+      }
+    }
   },
   { "year": 2012,
     "backgroundColor": "linear-gradient( 135deg, #FDD819 10%, #E80505 100%)",
@@ -3247,7 +3315,24 @@
           "lat": 13.0628075
         }
       }
-    ]
+    ],
+    "awards": {
+      "Purple_Cap": {
+        "name": "Morne Morkel (DD)",
+        "matches": 16,
+        "wickets": 25
+      },
+      "Orange_Cap": {
+        "name": "Chris Gayle (RCB)",
+        "matches": 15,
+        "runs": 773
+      },
+      "Maximum_Sixes": {
+        "name": "Chris Gayle (RCB)",
+        "matches": 15,
+        "sixes": 59
+      }
+    }
   },
   { "year": 2013,
     "backgroundColor": "linear-gradient( 135deg, #FF7AF5 10%, #513162 100%)",
@@ -4013,7 +4098,24 @@
           "lat": 22.5646081
         }
       }
-    ]
+    ],
+    "awards": {
+      "Purple_Cap": {
+        "name": "Dwayne Bravo (CSK)",
+        "matches": 18,
+        "wickets": 32
+      },
+      "Orange_Cap": {
+        "name": "Michael Hussey (CSK)",
+        "matches": 16,
+        "runs": 773
+      },
+      "Maximum_Sixes": {
+        "name": "Chris Gayle (RCB)",
+        "matches": 16,
+        "sixes": 51
+      }
+    }
   },
   { "year": 2014,
     "backgroundColor": "linear-gradient( 135deg, #FF96F9 10%, #C32BAC 100%)",
@@ -4619,7 +4721,24 @@
           "lat": 12.9788139
         }
       }
-    ]
+    ],
+    "awards": {
+      "Purple_Cap": {
+        "name": "Mohit Sharma (CSK)",
+        "matches": 16,
+        "wickets": 23
+      },
+      "Orange_Cap": {
+        "name": "Robin Uthappa (KKR)",
+        "matches": 16,
+        "runs": 660
+      },
+      "Maximum_Sixes": {
+        "name": "Glenn Maxwell (KXIP)",
+        "matches": 16,
+        "sixes": 36
+      }
+    }
   },
   { "year": 2015,
     "backgroundColor": "linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%)",
@@ -5215,7 +5334,24 @@
           "lat": 22.5646081
         }
       }
-    ]
+    ],
+    "awards": {
+      "Purple_Cap": {
+        "name": "Dwayne Bravo (CSK)",
+        "matches": 16,
+        "wickets": 26
+      },
+      "Orange_Cap": {
+        "name": "David Warner (SRH)",
+        "matches": 14,
+        "runs": 562
+      },
+      "Maximum_Sixes": {
+        "name": "Chris Gayle (RCB)",
+        "matches": 14,
+        "sixes": 38
+      }
+    }
   },
   { "year": 2016,
     "backgroundColor": "linear-gradient( 135deg, #FCCF31 10%, #F55555 100%)",
@@ -5821,6 +5957,23 @@
           "lat": 12.9788139
         }
       }
-    ]
+    ],
+    "awards": {
+      "Purple_Cap": {
+        "name": "B Kumar (SRH)",
+        "matches": 17,
+        "wickets": 23
+      },
+      "Orange_Cap": {
+        "name": "Virat Kohli (RCB)",
+        "matches": 16,
+        "runs": 973
+      },
+      "Maximum_Sixes": {
+        "name": "Virat Kohli (RCB)",
+        "matches": 16,
+        "sixes": 38
+      }
+    }
   }
 ]

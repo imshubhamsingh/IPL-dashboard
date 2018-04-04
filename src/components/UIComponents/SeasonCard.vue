@@ -1,5 +1,5 @@
 <template>
-  <div class="season-card">
+  <div class="season-card" :style="{background: this.color}">
     <div class="card">
       <div class="season-card-front">
         <slot />
@@ -10,7 +10,13 @@
 
 <script>
   export default {
-    name: 'SeasonCard'
+    name: 'SeasonCard',
+    props: {
+      color: {
+        type: String,
+        default: ''
+      }
+    }
   };
 </script>
 

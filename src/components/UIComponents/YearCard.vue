@@ -33,13 +33,15 @@
 <style lang="scss" scoped>
   .year-card {
     width:200px;
-    height: 200px;
+    height: 185px;
     border-radius: 5px;
     padding: 10px;
     display: inline-block;
     cursor: pointer;
     font-family: 'IBM Plex Sans', sans-serif;
     margin: 0 10px 0 0;
+    transition: all 0.8s cubic-bezier(0.2,1,0.3,1);
+
     & .year {
       color: white;
       font-weight: 700;

@@ -84,7 +84,7 @@
       & .bottom-scroll {
         display: block;
         width: 100%;
-        height: 200px;
+        height: 205px;
         overflow-y: hidden;
         overflow-x: scroll;
         white-space: nowrap;

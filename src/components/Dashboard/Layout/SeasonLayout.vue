@@ -12,16 +12,43 @@
      <div class="season-scroll">
           <div class="info-list">
             <season-card>
-                    <div class="placeDetials">
-                      <div class="text">
-                        <div class="top-map" style="padding: 10px">
+                    <div class="placeDetails">
                           <span class="top-text">Matches Played Across Different Cities</span>
                           <div class="top-content">
                             <map-card class="map" :places="this.seasonDetail.places"/>
                           </div>
-                        </div>
+                    </div>
+            </season-card>
+            <season-card>
+              <div class="awards">
+                    <span class="top-text">Awards</span>
+                    <div class="top-content">
+                      <div class="orange-cap">
+                        <div class="title">Orange Cap</div>
+                        <span style="font-size: 20px;">{{this.seasonDetail.awards.Orange_Cap.name}}</span>
+                        <span>
+                          <span style="margin-right: 10px;">Matches: {{this.seasonDetail.awards.Orange_Cap.matches}}</span>
+                          <span>Runs: {{this.seasonDetail.awards.Orange_Cap.runs}}</span>
+                        </span>
+                      </div>
+                      <div class="purple-cap">
+                        <div class="title">Purple Cap</div>
+                        <span style="font-size: 20px;">{{this.seasonDetail.awards.Purple_Cap.name}}</span>
+                        <span>
+                          <span style="margin-right: 10px;">Matches: {{this.seasonDetail.awards.Purple_Cap.matches}}</span>
+                          <span>Wickets: {{this.seasonDetail.awards.Purple_Cap.wickets}}</span>
+                        </span>
+                      </div>
+                      <div class="maximum-sixes">
+                        <div class="title">Maximum Sixes</div>
+                        <span style="font-size: 20px;">{{this.seasonDetail.awards.Maximum_Sixes.name}}</span>
+                        <span>
+                          <span style="margin-right: 10px;"> Matches: {{this.seasonDetail.awards.Maximum_Sixes.matches}}</span>
+                          <span>Sixes: {{this.seasonDetail.awards.Maximum_Sixes.sixes}}</span>
+                        </span>
                       </div>
                     </div>
+                  </div>
             </season-card>
           </div>
      </div>
@@ -107,6 +134,12 @@
         &:hover{
           width: 300%;
         }
+        @media only screen and (max-width: $break-medium){
+          width: 50%;
+          &:hover{
+            width: 75%;
+          }
+        }
       }
     }
   }
@@ -124,61 +157,69 @@
     & .info-list {
       overflow: hidden;
       float: left;
-      & .placeDetails {
-        overflow: hidden;
-        height: 100%;
-        z-index: 2;
-        & .logo {
-          height: 101px;
-          padding: 13px;
-          object-fit: cover;
+    }
+    .placeDetails {
+      overflow: hidden;
+      height: 100%;
+      z-index: 2;
+      & span{
+        @extend %text;
+        font-size: 12px;
+        font-weight: 700;
+      }
+    }
+    .awards {
+      overflow: hidden;
+      height: 100%;
+      z-index: 2;
+      padding: 13px;
+      & span{
+        @extend %text;
+        font-size: 12px;
+        font-weight: 700;
+      }
+      & .top-text{
+        @extend %text;
+        font-size: 49px;
+        font-weight: 700;
+      }
+      & .orange-cap{
+        @extend %text;
+        font-size: 28px;
+        text-align: left;
+        font-weight: 700;
+        color: orange;
+        display: flex;
+        flex-direction: column;
+        padding: 11px 0;
+        & .title {
+          padding-bottom: 2px;
         }
-        & .text {
-          z-index: 3;
-          & .team-name {
-            font-family: 'IBM Plex Sans', sans-serif;
-            font-size: 23px;
-            font-weight: 700;
-            color: #ffffff;
-            white-space: initial;
-            width: 100%;
-            margin-top: 30px;
-          }
-        }
-        & .white-box {
-          background: white;
-          width: 153%;
-          height: 159px;
-          position: absolute;
-          bottom: -26px;
-          left: -24px;
-          -webkit-transform: rotate(-19deg);
-          transform: rotate(-19deg);
-          z-index: 1;
-        }
-        & .best-result {
-          display: flex !important;
-          justify-content: space-around;
-          & .text {
-            margin-left: 161px;
-            font-family: 'IBM Plex Sans', sans-serif;
-            font-size: 23px;
-            display: flex;
-            flex-direction: column;
-            font-weight: 700;
-            color: #ffffff;
-            white-space: initial;
-            margin-top: 30px;
-            .result {
-              font-size: 67px;
-              margin: -22px;
-            }
-            .year {
-              font-size: 10px;
-              margin-top: 8px;
-            }
-          }
-
+      }
+      & .purple-cap {
+          @extend %text;
+          font-size: 28px;
+          text-align: left;
+          font-weight: 700;
+          color: #ab32ab;
+          display: flex;
+          flex-direction: column;
+          padding: 11px 0;
+          & .title {
+           padding-bottom: 2px;
+         }
+      }
+      & .maximum-sixes {
+        @extend %text;
+        font-size: 28px;
+        text-align: left;
+        font-weight: 700;
+        color: #e45c96;
+        display: flex;
+        flex-direction: column;
+        padding: 11px 0;
+        & .title {
+          padding-bottom: 2px;
         }
       }
     }
