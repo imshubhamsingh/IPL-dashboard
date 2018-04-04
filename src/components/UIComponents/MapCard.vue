@@ -5,8 +5,18 @@
 </template>
 
 <script>
+  import AppLoader from './Loader';
+
   export default {
     name: 'mapCities',
+    data() {
+      return {
+        loaded: false
+      };
+    },
+    components: {
+      AppLoader
+    },
     props: {
       places: {
         type: Array,
@@ -189,18 +199,6 @@
         ]
 
       };
-      //
-      // const locations = [{
-      //   name: 'Ahmedabad',
-      //   state: 'Gujarat',
-      //   lat: 23.033333,
-      //   lng: 72.616667
-      // }, {
-      //   name: 'Chennai',
-      //   state: 'Tamil Nadu',
-      //   lat: 13.083333,
-      //   lng: 80.283333
-      // }];
       const map = new window.google.maps.Map(document.getElementById('map'), mapOptions);
 
       const markers = this.places.map((location) => {
