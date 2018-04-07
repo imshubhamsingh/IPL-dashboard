@@ -85,6 +85,9 @@
     background: linear-gradient( 135deg, #FFF 10%, #07d89d 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    @media screen and (max-width: 768px){
+      font-size: 27px;
+    }
   }
   .batsmen {
     display: block;
@@ -92,7 +95,6 @@
     height: 381px;
     overflow-y: hidden;
     overflow-x: scroll;
-    white-space: nowrap;
     margin-bottom: 21px;
     border-radius: 5px;
     position: relative;
