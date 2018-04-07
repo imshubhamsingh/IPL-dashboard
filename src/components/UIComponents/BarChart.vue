@@ -8,6 +8,10 @@
       chartData: {
         type: Object,
         required: true
+      },
+      customOption: {
+        type: Object,
+        default: () => {}
       }
     },
     data() {
@@ -38,7 +42,11 @@
     },
     mounted() {
       // this.chartData is created in the mixin
-      this.renderChart(this.chartData, this.options);
+      if (Object.keys(this.customOption).length > 0) {
+        this.renderChart(this.chartData, this.customOption);
+      } else {
+        this.renderChart(this.chartData, this.options);
+      }
     }
   };
 </script>

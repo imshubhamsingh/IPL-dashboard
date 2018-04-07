@@ -49,7 +49,8 @@
     text-decoration: none;
   }
   #home {
-    padding: 10px;
+    padding: 0 10px;
+    margin: -11px 0 0;
     & .content {
       margin: auto 0;
       width: 100%;

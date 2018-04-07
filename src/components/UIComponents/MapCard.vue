@@ -27,7 +27,7 @@
     // eslint-disable-next-line max-len
       const myLatlng = new window.google.maps.LatLng(this.places[0].Coordinates.lat, this.places[0].Coordinates.lng);
       const mapOptions = {
-        zoom: 4,
+        zoom: 2,
         center: myLatlng,
         scrollwheel: false,
         styles: [ // adapted from https://snazzymaps.com/style/38/shades-of-grey

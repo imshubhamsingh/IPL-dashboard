@@ -1,27 +1,71 @@
 <template>
   <div>
-    <div class="team-scroll">
-      <div class="team-list">
-        <team-card v-for="team in teams" :team="team" :key="team.short"/>
-      </div>
+    <div class="bowlers">
+      <h1 class="title">Tops 10 Number of Over</h1>
+      <bar-chart :height="300" :chartData="datacollection" :customOption="customOption"/>
     </div>
   </div>
 </template>
 
 <script>
-  import TeamCard from '../../UIComponents/TeamCard';
+  import BarChart from '../../UIComponents/BarChart';
 
   export default {
     components: {
-      TeamCard
+      BarChart
     },
     data() {
       return {
-        teams: null
+        bowlers: this.$store.getters.particularSeasonTopOverBowled('overAll'),
+        datacollection: {},
+        customOption: {
+          scales: {
+            yAxes: [{
+              ticks: {
+                fontColor: 'white',
+                beginAtZero: true
+              },
+              gridLines: {
+                display: true
+              }
+            }],
+            xAxes: [{
+              ticks: {
+                fontColor: 'white',
+                beginAtZero: true
+              },
+              gridLines: {
+                display: false
+              }
+            }]
+          },
+          legend: {
+            display: true,
+            labels: {
+              fontColor: 'white',
+            }
+          },
+          responsive: true,
+          maintainAspectRatio: false
+        }
       };
     },
-    mounted() {
-      this.teams = this.$store.getters.teamDetails;
+    beforeMount() {
+      this.datacollection = {
+        labels: this.bowlers.map(b => b.bowler),
+        datasets: [
+          {
+            label: 'Total Overs (2008-2016)',
+            backgroundColor: '#e86c9a',
+            data: this.bowlers.map(b => b.total_overs)
+          },
+          {
+            label: 'Economy',
+            backgroundColor: '#ffc9dd',
+            data: this.bowlers.map(b => b.economy)
+          },
+        ]
+      };
     }
   };
 </script>
@@ -32,7 +76,17 @@
     text-transform: uppercase;
     color: white;
   }
-  .team-scroll {
+  .title{
+    @extend %text;
+    padding: 0 9px;
+    font-size: 43px;
+    margin: 0;
+    font-weight: 700;
+    background: linear-gradient( 135deg, #FFF 10%, #e86c9a 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .bowlers {
     display: block;
     width: 100%;
     height: 381px;
@@ -43,9 +97,5 @@
     border-radius: 5px;
     position: relative;
     z-index: 2;
-    & .team-list {
-      overflow: hidden;
-      float: left;
-    }
   }
 </style>

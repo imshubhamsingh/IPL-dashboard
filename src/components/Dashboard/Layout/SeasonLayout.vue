@@ -124,7 +124,7 @@
       color: white;
       position: relative;
       transition: all 0.8s cubic-bezier(0.2,1,0.3,1);
-      & .box{
+      & .box {
         width: 235%;
         height: 21px;
         position: absolute;

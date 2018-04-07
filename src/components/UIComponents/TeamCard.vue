@@ -29,21 +29,21 @@
             <span class="team-statistic">Performance</span>
             <div class="performance">
               <div class="bar">
-                <div class="total-matches">
+                <div class="total-matches" :style="{'color': team.color.slice(25, 34)}">
                      <span class="number-of-matches" :style="{'background': team.color.slice(25, 34)}">{{this.totalMatches()}}</span>
                      total Matches
                 </div>
-                <div class="winning-rate">
+                <div class="winning-rate" :style="{'color': team.color.slice(25, 34)}">
                   <span class="percentage" :style="{'background': team.color.slice(25, 34)}">{{this.winningRate()}}</span>
                   winning rate(%)
                 </div>
-                <div class="tie">
+                <div class="tie" :style="{'color': team.color.slice(25, 34)}">
                   <span class="score" :style="{'background': team.color.slice(25, 34)}">{{this.team.tie.win + this.team.tie.lose}}<sup style="font-size: 19px">*</sup></span>
                   T+W:{{this.team.tie.win}}|T+L:{{this.team.tie.lose}}
                 </div>
               </div>
               <div class="lineChart">
-                <bar-chart :height="250" :chartData="datacollection" />
+                <bar-chart :height="250" :chartData="datacollection" :customOption="{}"/>
               </div>
               <div class="info">
                 <span style="{'background': team.color.slice(25, 34)}">*</span>T+W and T+L indicates matches tied and then won or lost by "Super Over"
@@ -115,7 +115,6 @@
     font-family: 'IBM Plex Sans', sans-serif;
     margin: 0 10px 0 0;
     background-size: cover;
-    color: #fff;
     text-align: center;
     text-rendering: optimizeLegibility;
     overflow: hidden;
