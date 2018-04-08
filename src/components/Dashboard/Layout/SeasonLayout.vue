@@ -50,6 +50,17 @@
                     </div>
                   </div>
             </season-card>
+            <season-card>
+              <div class="season-result">
+                <span class="top-text">SEASON RESULT</span>
+                <div>
+                  {{this.seasonDetail.season_result[0]}}
+                  <br/>
+                  {{this.seasonDetail.season_result[1]}}
+                </div>
+
+              </div>
+            </season-card>
           </div>
      </div>
    </div>
@@ -221,6 +232,33 @@
         & .title {
           padding-bottom: 2px;
         }
+      }
+    }
+    .season-result {
+      overflow: hidden;
+      height: 368px;
+      z-index: 2;
+      padding: 13px;
+      position: relative;
+      top: 0;
+      left: -6px;
+      & span{
+        @extend %text;
+        font-size: 12px;
+        font-weight: 700;
+      }
+      & .top-text{
+        @extend %text;
+        font-size: 45px;
+        font-weight: 700;
+        display:block;
+        position: relative;
+        -webkit-transform: rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+        top: 172npm run buildpx;
+        color: #505050;
+        left: -127px;
       }
     }
   }

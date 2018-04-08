@@ -600,7 +600,8 @@
         "matches": 14,
         "sixes": 31
       }
-    }
+    },
+    "season_result": ["Rajasthan Royals", "Chennai Super Kings"]
   },
   { "year": 2009,
     "backgroundColor": "linear-gradient( 135deg, #43CBFF 10%, #9708CC 100%)",
@@ -1193,7 +1194,8 @@
         "matches": 16,
         "sixes": 29
       }
-    }
+    },
+    "season_result": ["Deccan Chargers", "Royal Challengers Bangalore"]
   },
   { "year": 2010,
     "backgroundColor": "linear-gradient( 135deg, #5EFCE8 10%, #736EFE 100%)",
@@ -1816,7 +1818,8 @@
         "matches": 16,
         "sixes": 27
       }
-    }
+    },
+    "season_result": ["Chennai Super Kings", "Mumbai Indians"]
   },
   { "year": 2011,
     "backgroundColor": "linear-gradient( 135deg, #52E5E7 10%, #130CB7 100%)",
@@ -2569,7 +2572,8 @@
         "matches": 12,
         "sixes": 44
       }
-    }
+    },
+    "season_result": ["Chennai Super Kings", "Royal Challengers Bangalore"]
   },
   { "year": 2012,
     "backgroundColor": "linear-gradient( 135deg, #FDD819 10%, #E80505 100%)",
@@ -3332,7 +3336,8 @@
         "matches": 15,
         "sixes": 59
       }
-    }
+    },
+    "season_result": ["Kolkata Knight Riders", "Chennai Super Kings"]
   },
   { "year": 2013,
     "backgroundColor": "linear-gradient( 135deg, #FF7AF5 10%, #513162 100%)",
@@ -4115,7 +4120,8 @@
         "matches": 16,
         "sixes": 51
       }
-    }
+    },
+    "season_result": ["Mumbai Indians", "Chennai Super Kings"]
   },
   { "year": 2014,
     "backgroundColor": "linear-gradient( 135deg, #FF96F9 10%, #C32BAC 100%)",
@@ -4738,7 +4744,8 @@
         "matches": 16,
         "sixes": 36
       }
-    }
+    },
+    "season_result": ["Kolkata Knight Riders","Kings XI Punjab"]
   },
   { "year": 2015,
     "backgroundColor": "linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%)",
@@ -5351,7 +5358,8 @@
         "matches": 14,
         "sixes": 38
       }
-    }
+    },
+    "season_result": ["Mumbai Indians", "Chennai Super Kings"]
   },
   { "year": 2016,
     "backgroundColor": "linear-gradient( 135deg, #FCCF31 10%, #F55555 100%)",
@@ -5974,6 +5982,7 @@
         "matches": 16,
         "sixes": 38
       }
-    }
+    },
+    "season_result": ["Sunrisers Hyderabad", "Royal Challengers Bangalore"]
   }
 ]
