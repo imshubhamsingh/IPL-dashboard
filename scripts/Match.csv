@@ -1,0 +1,578 @@
+Match_Id,Match_Date,Team_Name_Id,Opponent_Team_Id,Season_Id,Venue_Name,Toss_Winner_Id,Toss_Decision,IS_Superover,IS_Result,Is_DuckWorthLewis,Win_Type,Won_By,Match_Winner_Id,Man_Of_The_Match_Id,First_Umpire_Id,Second_Umpire_Id,City_Name,Host_Country
+335987,18-Apr-08,2,1,1,M Chinnaswamy Stadium,2,field,0,1,0,by runs,140,1,2,470,477,Bangalore,India
+335988,19-Apr-08,4,3,1,"Punjab Cricket Association Stadium, Mohali",3,bat,0,1,0,by runs,33,3,19,471,487,Chandigarh,India
+335989,19-Apr-08,6,5,1,Feroz Shah Kotla,5,bat,0,1,0,by wickets,9,6,90,472,512,Delhi,India
+335990,20-Apr-08,7,2,1,Wankhede Stadium,7,bat,0,1,0,by wickets,5,2,11,473,476,Mumbai,India
+335991,20-Apr-08,1,8,1,Eden Gardens,8,bat,0,1,0,by wickets,5,1,4,474,486,Kolkata,India
+335992,21-Apr-08,5,4,1,Sawai Mansingh Stadium,4,bat,0,1,0,by wickets,6,5,32,472,513,Jaipur,India
+335993,22-Apr-08,8,6,1,"Rajiv Gandhi International Stadium, Uppal",8,bat,0,1,0,by wickets,9,6,41,475,492,Hyderabad,India
+335994,23-Apr-08,3,7,1,"MA Chidambaram Stadium, Chepauk",7,field,0,1,0,by runs,6,3,18,476,512,Chennai,India
+335995,24-Apr-08,8,5,1,"Rajiv Gandhi International Stadium, Uppal",5,field,0,1,0,by wickets,3,5,31,470,471,Hyderabad,India
+335996,25-Apr-08,4,7,1,"Punjab Cricket Association Stadium, Mohali",7,field,0,1,0,by runs,66,4,26,472,492,Chandigarh,India
+335997,26-Apr-08,2,5,1,M Chinnaswamy Stadium,5,field,0,1,0,by wickets,7,5,32,471,475,Bangalore,India
+335998,26-Apr-08,3,1,1,"MA Chidambaram Stadium, Chepauk",1,bat,0,1,0,by wickets,9,3,22,474,479,Chennai,India
+335999,27-Apr-08,7,8,1,Dr DY Patil Sports Academy,8,field,0,1,0,by wickets,10,8,53,470,487,Mumbai,India
+336000,27-Apr-08,4,6,1,"Punjab Cricket Association Stadium, Mohali",6,bat,0,1,0,by wickets,4,4,28,477,514,Chandigarh,India
+336001,28-Apr-08,2,3,1,M Chinnaswamy Stadium,3,bat,0,1,0,by runs,13,3,20,478,513,Bangalore,India
+336002,29-Apr-08,1,7,1,Eden Gardens,1,bat,0,1,0,by wickets,7,7,44,474,479,Kolkata,India
+336003,30-Apr-08,6,2,1,Feroz Shah Kotla,2,field,0,1,0,by runs,10,6,118,472,514,Delhi,India
+336004,1-May-08,8,4,1,"Rajiv Gandhi International Stadium, Uppal",4,field,0,1,0,by wickets,7,4,100,478,513,Hyderabad,India
+336005,1-May-08,5,1,1,Sawai Mansingh Stadium,5,bat,0,1,0,by runs,45,5,101,477,512,Jaipur,India
+336006,2-May-08,3,6,1,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by wickets,8,6,41,474,486,Chennai,India
+336007,25-May-08,8,2,1,"Rajiv Gandhi International Stadium, Uppal",8,bat,0,1,0,by wickets,5,2,81,470,477,Hyderabad,India
+336008,3-May-08,4,1,1,"Punjab Cricket Association Stadium, Mohali",4,bat,0,1,0,by runs,9,4,29,476,514,Chandigarh,India
+336009,4-May-08,7,6,1,Dr DY Patil Sports Academy,6,field,0,1,0,by runs,29,7,49,475,477,Mumbai,India
+336010,4-May-08,5,3,1,Sawai Mansingh Stadium,3,bat,0,1,0,by wickets,8,5,102,470,479,Jaipur,India
+336011,5-May-08,2,4,1,M Chinnaswamy Stadium,4,field,0,1,0,by wickets,6,4,77,473,478,Bangalore,India
+336012,6-May-08,3,8,1,"MA Chidambaram Stadium, Chepauk",8,field,0,1,0,by wickets,7,8,53,471,513,Chennai,India
+336013,7-May-08,7,5,1,Dr DY Patil Sports Academy,7,field,0,1,0,by wickets,7,7,73,476,477,Mumbai,India
+336014,8-May-08,6,3,1,Feroz Shah Kotla,3,field,0,1,0,by wickets,4,3,20,472,513,Delhi,India
+336015,8-May-08,1,2,1,Eden Gardens,1,bat,0,1,0,by runs,5,1,1,470,475,Kolkata,India
+336016,9-May-08,5,8,1,Sawai Mansingh Stadium,5,field,0,1,0,by wickets,8,5,31,471,492,Jaipur,India
+336017,28-May-08,2,7,1,M Chinnaswamy Stadium,7,field,0,1,0,by wickets,9,7,149,474,479,Bangalore,India
+336018,10-May-08,3,4,1,"MA Chidambaram Stadium, Chepauk",4,field,0,1,0,by runs,18,3,151,479,480,Chennai,India
+336019,11-May-08,8,1,1,"Rajiv Gandhi International Stadium, Uppal",1,bat,0,1,0,by runs,23,1,1,475,492,Hyderabad,India
+336020,11-May-08,5,6,1,Sawai Mansingh Stadium,5,field,0,1,0,by wickets,3,5,32,473,477,Jaipur,India
+336021,12-May-08,4,2,1,"Punjab Cricket Association Stadium, Mohali",2,bat,0,1,0,by wickets,9,4,100,478,514,Chandigarh,India
+336022,13-May-08,1,6,1,Eden Gardens,1,bat,0,1,0,by runs,23,1,144,470,475,Kolkata,India
+336023,14-May-08,7,3,1,Wankhede Stadium,7,field,0,1,0,by wickets,9,7,44,478,492,Mumbai,India
+336024,28-May-08,4,5,1,"Punjab Cricket Association Stadium, Mohali",5,field,0,1,0,by runs,41,4,100,473,486,Chandigarh,India
+336025,15-May-08,6,8,1,Feroz Shah Kotla,8,field,0,1,0,by runs,12,6,136,480,512,Delhi,India
+336026,16-May-08,7,1,1,Wankhede Stadium,7,field,0,1,0,by wickets,8,7,49,478,476,Mumbai,India
+336027,17-May-08,6,4,1,Feroz Shah Kotla,6,bat,0,1,1,by runs,6,4,64,479,477,Delhi,India
+336028,17-May-08,5,2,1,Sawai Mansingh Stadium,2,field,0,1,0,by runs,65,5,74,474,487,Jaipur,India
+336029,18-May-08,8,7,1,"Rajiv Gandhi International Stadium, Uppal",8,field,0,1,0,by runs,25,7,71,478,476,Hyderabad,India
+336030,18-May-08,1,3,1,Eden Gardens,1,bat,0,1,1,by runs,3,3,122,470,486,Kolkata,India
+336031,19-May-08,2,6,1,M Chinnaswamy Stadium,6,field,0,1,0,by wickets,5,6,132,473,512,Bangalore,India
+336032,20-May-08,1,5,1,Eden Gardens,5,field,0,1,0,by wickets,6,5,31,480,477,Kolkata,India
+336033,21-May-08,7,4,1,Wankhede Stadium,7,field,0,1,0,by runs,1,4,100,474,512,Mumbai,India
+336034,21-May-08,3,2,1,"MA Chidambaram Stadium, Chepauk",2,bat,0,1,0,by runs,14,2,124,476,514,Chennai,India
+336036,23-May-08,4,8,1,"Punjab Cricket Association Stadium, Mohali",4,field,0,1,0,by wickets,6,4,100,470,473,Chandigarh,India
+336037,24-May-08,6,7,1,Feroz Shah Kotla,6,field,0,1,0,by wickets,5,6,88,474,486,Delhi,India
+336038,24-May-08,3,5,1,"MA Chidambaram Stadium, Chepauk",5,bat,0,1,0,by runs,10,5,109,476,487,Chennai,India
+336039,3-May-08,2,8,1,M Chinnaswamy Stadium,8,field,0,1,0,by runs,3,2,14,478,487,Bangalore,India
+336040,25-May-08,1,4,1,Eden Gardens,4,bat,0,1,0,by wickets,3,1,105,473,514,Kolkata,India
+336041,26-May-08,5,7,1,Sawai Mansingh Stadium,5,field,0,1,0,by wickets,5,5,102,474,486,Jaipur,India
+336042,27-May-08,8,3,1,"Rajiv Gandhi International Stadium, Uppal",8,bat,0,1,0,by wickets,7,3,21,480,492,Hyderabad,India
+336043,30-May-08,6,5,1,Wankhede Stadium,6,field,0,1,0,by runs,105,5,32,474,477,Mumbai,India
+336044,31-May-08,3,4,1,Wankhede Stadium,4,bat,0,1,0,by wickets,9,3,122,470,476,Mumbai,India
+336045,1-Jun-08,3,5,1,Dr DY Patil Sports Academy,5,field,0,1,0,by wickets,3,5,31,474,477,Mumbai,India
+392186,18-Apr-09,3,7,2,Newlands,3,field,0,1,0,by runs,19,7,133,478,486,Cape Town,South Africa
+392187,18-Apr-09,2,5,2,Newlands,2,bat,0,1,0,by runs,75,2,6,478,513,Cape Town,South Africa
+392188,19-Apr-09,6,4,2,Newlands,6,field,0,1,1,by wickets,10,6,175,471,515,Cape Town,South Africa
+392189,19-Apr-09,8,1,2,Newlands,1,bat,0,1,0,by wickets,8,8,61,471,478,Cape Town,South Africa
+392190,20-Apr-09,2,3,2,St George's Park,3,bat,0,1,0,by runs,92,3,121,480,490,Port Elizabeth,South Africa
+392191,21-Apr-09,4,1,2,Kingsmead,1,field,0,1,1,by runs,11,1,162,476,515,Durban,South Africa
+392193,22-Apr-09,2,8,2,Newlands,8,bat,0,1,0,by runs,24,8,53,481,492,Cape Town,South Africa
+392194,23-Apr-09,3,6,2,Kingsmead,6,bat,0,1,0,by runs,9,6,110,478,490,Durban,South Africa
+392195,23-Apr-09,1,5,2,Newlands,1,field,1,1,0,Tie,NULL,5,31,471,481,Cape Town,South Africa
+392196,24-Apr-09,2,4,2,Kingsmead,2,bat,0,1,0,by wickets,7,4,161,478,516,Durban,South Africa
+392197,25-Apr-09,8,7,2,Kingsmead,8,bat,0,1,0,by runs,12,8,131,482,490,Durban,South Africa
+392199,26-Apr-09,2,6,2,St George's Park,2,bat,0,1,0,by wickets,6,6,135,483,480,Port Elizabeth,South Africa
+392200,26-Apr-09,4,5,2,Newlands,4,bat,0,1,0,by runs,27,4,26,481,486,Cape Town,South Africa
+392201,27-Apr-09,3,8,2,Kingsmead,8,field,0,1,0,by wickets,6,8,97,475,516,Durban,South Africa
+392202,27-Apr-09,1,7,2,St George's Park,7,bat,0,1,0,by runs,92,7,133,480,513,Port Elizabeth,South Africa
+392203,28-Apr-09,6,5,2,SuperSport Park,6,bat,0,1,0,by wickets,5,5,31,484,477,Centurion,South Africa
+392204,29-Apr-09,2,1,2,Kingsmead,1,bat,0,1,0,by wickets,5,2,11,471,516,Durban,South Africa
+392205,29-Apr-09,4,7,2,Kingsmead,4,bat,0,1,0,by runs,3,4,26,471,487,Durban,South Africa
+392206,30-Apr-09,8,6,2,SuperSport Park,6,field,0,1,0,by wickets,6,6,223,484,492,Centurion,South Africa
+392207,30-Apr-09,3,5,2,SuperSport Park,5,field,0,1,0,by runs,38,3,21,484,477,Centurion,South Africa
+392208,1-May-09,1,7,2,Buffalo Park,7,bat,0,1,0,by runs,9,7,154,481,488,East London,South Africa
+392209,1-May-09,2,4,2,Kingsmead,2,bat,0,1,0,by runs,8,2,27,482,489,Durban,South Africa
+392210,2-May-09,8,5,2,St George's Park,8,bat,0,1,0,by wickets,3,5,31,483,480,Port Elizabeth,South Africa
+392211,2-May-09,3,6,2,New Wanderers Stadium,6,field,0,1,0,by runs,18,3,186,476,477,Johannesburg,South Africa
+392212,3-May-09,4,1,2,St George's Park,1,bat,0,1,0,by wickets,6,4,64,483,471,Port Elizabeth,South Africa
+392213,3-May-09,2,7,2,New Wanderers Stadium,7,bat,0,1,0,by wickets,9,2,9,477,516,Johannesburg,South Africa
+392214,4-May-09,3,8,2,Buffalo Park,3,bat,0,1,0,by runs,78,3,20,478,481,East London,South Africa
+392215,5-May-09,4,5,2,Kingsmead,4,field,0,1,0,by runs,78,5,74,485,475,Durban,South Africa
+392216,5-May-09,6,1,2,Kingsmead,1,bat,0,1,0,by wickets,9,6,40,484,475,Durban,South Africa
+392217,6-May-09,8,7,2,SuperSport Park,8,bat,0,1,0,by runs,19,8,57,471,482,Centurion,South Africa
+392218,7-May-09,2,5,2,SuperSport Park,5,field,0,1,0,by wickets,7,5,196,486,476,Centurion,South Africa
+392219,7-May-09,3,4,2,SuperSport Park,3,bat,0,1,1,by runs,12,3,18,476,516,Centurion,South Africa
+392220,8-May-09,6,7,2,Buffalo Park,7,bat,0,1,0,by wickets,7,6,73,481,488,East London,South Africa
+392221,9-May-09,8,4,2,De Beers Diamond Oval,4,field,0,1,0,by wickets,3,4,64,484,492,Kimberley,South Africa
+392222,9-May-09,3,5,2,De Beers Diamond Oval,5,bat,0,1,0,by wickets,7,3,23,484,482,Kimberley,South Africa
+392223,10-May-09,2,7,2,St George's Park,7,bat,0,1,0,by runs,16,7,154,478,480,Port Elizabeth,South Africa
+392224,10-May-09,6,1,2,New Wanderers Stadium,6,field,0,1,0,by wickets,7,6,136,487,513,Johannesburg,South Africa
+392225,11-May-09,8,5,2,De Beers Diamond Oval,8,bat,0,1,0,by runs,53,8,147,484,482,Kimberley,South Africa
+392226,12-May-09,2,1,2,SuperSport Park,2,field,0,1,0,by wickets,6,2,52,481,485,Centurion,South Africa
+392227,12-May-09,4,7,2,SuperSport Park,4,bat,0,1,0,by wickets,8,7,50,485,477,Centurion,South Africa
+392228,13-May-09,8,6,2,Kingsmead,8,field,0,1,0,by runs,12,6,89,476,487,Durban,South Africa
+392229,14-May-09,2,3,2,Kingsmead,3,bat,0,1,0,by wickets,2,2,52,478,476,Durban,South Africa
+392230,14-May-09,7,5,2,Kingsmead,5,bat,0,1,0,by runs,2,5,38,478,476,Durban,South Africa
+392231,15-May-09,6,4,2,OUTsurance Oval,4,field,0,1,0,by wickets,6,4,66,482,475,Bloemfontein,South Africa
+392232,16-May-09,3,7,2,St George's Park,7,bat,0,1,0,by wickets,7,3,18,488,490,Port Elizabeth,South Africa
+392233,16-May-09,8,1,2,New Wanderers Stadium,8,field,0,1,0,by wickets,6,8,57,477,489,Johannesburg,South Africa
+392234,17-May-09,8,4,2,New Wanderers Stadium,8,field,0,1,0,by runs,1,4,27,489,513,Johannesburg,South Africa
+392235,17-May-09,6,5,2,OUTsurance Oval,6,bat,0,1,0,by runs,14,6,110,485,475,Bloemfontein,South Africa
+392236,18-May-09,3,1,2,SuperSport Park,3,bat,0,1,0,by wickets,7,1,104,490,513,Centurion,South Africa
+392237,19-May-09,2,6,2,New Wanderers Stadium,6,bat,0,1,0,by wickets,7,2,9,475,513,Johannesburg,South Africa
+392238,20-May-09,1,5,2,Kingsmead,1,field,0,1,0,by wickets,4,1,63,480,490,Durban,South Africa
+392239,20-May-09,3,4,2,Kingsmead,3,bat,0,1,0,by runs,24,3,121,480,490,Durban,South Africa
+392240,21-May-09,6,7,2,SuperSport Park,6,field,0,1,0,by wickets,4,6,41,475,489,Centurion,South Africa
+392241,21-May-09,2,8,2,SuperSport Park,2,bat,0,1,0,by runs,12,2,96,475,489,Centurion,South Africa
+392242,22-May-09,6,8,2,SuperSport Park,8,field,0,1,0,by wickets,6,8,53,478,476,Centurion,South Africa
+392243,23-May-09,2,3,2,New Wanderers Stadium,2,field,0,1,0,by wickets,6,2,96,477,490,Johannesburg,South Africa
+392244,24-May-09,2,8,2,New Wanderers Stadium,2,field,0,1,0,by runs,6,8,124,477,490,Johannesburg,South Africa
+419111,12-Mar-10,8,1,3,Dr DY Patil Sports Academy,8,field,0,1,0,by runs,11,1,191,477,513,Mumbai,India
+419112,13-Mar-10,7,5,3,Brabourne Stadium,7,bat,0,1,0,by runs,4,7,31,477,513,Mumbai,India
+419113,13-Mar-10,4,6,3,"Punjab Cricket Association Stadium, Mohali",6,field,0,1,0,by wickets,5,6,40,478,489,Chandigarh,India
+419114,14-Mar-10,1,2,3,Eden Gardens,1,field,0,1,0,by wickets,7,1,87,482,492,Kolkata,India
+419115,14-Mar-10,3,8,3,"MA Chidambaram Stadium, Chepauk",8,bat,0,1,0,by runs,31,8,60,486,476,Chennai,India
+419116,15-Mar-10,5,6,3,"Sardar Patel Stadium, Motera",6,field,0,1,0,by wickets,6,6,41,480,477,Ahmedabad,India
+419117,16-Mar-10,2,4,3,M Chinnaswamy Stadium,4,bat,0,1,0,by wickets,8,2,9,491,476,Bangalore,India
+419118,16-Mar-10,1,3,3,Eden Gardens,3,bat,0,1,0,by runs,55,3,20,482,492,Kolkata,India
+419119,17-Mar-10,6,7,3,Feroz Shah Kotla,6,field,0,1,0,by runs,98,7,133,478,488,Delhi,India
+419120,18-Mar-10,2,5,3,M Chinnaswamy Stadium,2,field,0,1,0,by wickets,10,2,9,486,476,Bangalore,India
+419121,19-Mar-10,6,3,3,Feroz Shah Kotla,6,bat,0,1,0,by wickets,5,3,18,478,488,Delhi,India
+419122,19-Mar-10,8,4,3,Barabati Stadium,4,field,0,1,0,by runs,6,8,56,474,481,Cuttack,India
+419123,20-Mar-10,5,1,3,"Sardar Patel Stadium, Motera",5,bat,0,1,0,by runs,34,5,211,477,513,Ahmedabad,India
+419124,20-Mar-10,7,2,3,Brabourne Stadium,7,bat,0,1,0,by wickets,7,2,9,482,485,Mumbai,India
+419125,21-Mar-10,8,6,3,Barabati Stadium,8,bat,0,1,0,by runs,10,8,56,474,481,Cuttack,India
+419126,21-Mar-10,3,4,3,"MA Chidambaram Stadium, Chepauk",3,field,1,1,0,Tie,NULL,4,233,486,476,Chennai,India
+419127,22-Mar-10,7,1,3,Brabourne Stadium,1,bat,0,1,0,by wickets,7,7,133,485,490,Mumbai,India
+419128,23-Mar-10,2,3,3,M Chinnaswamy Stadium,3,field,0,1,0,by runs,36,2,46,477,513,Bangalore,India
+419129,24-Mar-10,4,5,3,"Punjab Cricket Association Stadium, Mohali",4,field,0,1,0,by runs,31,5,230,478,488,Chandigarh,India
+419130,25-Mar-10,7,3,3,Brabourne Stadium,7,field,0,1,0,by wickets,5,7,133,474,492,Mumbai,India
+419131,26-Mar-10,5,8,3,"Sardar Patel Stadium, Motera",8,bat,0,1,0,by wickets,8,5,31,482,490,Ahmedabad,India
+419132,27-Mar-10,4,1,3,"Punjab Cricket Association Stadium, Mohali",1,bat,0,1,0,by runs,39,1,87,478,489,Chandigarh,India
+419133,25-Mar-10,2,6,3,M Chinnaswamy Stadium,2,field,0,1,0,by runs,17,6,237,480,477,Bangalore,India
+419134,28-Mar-10,5,3,3,"Sardar Patel Stadium, Motera",5,bat,0,1,0,by runs,17,5,183,485,490,Ahmedabad,India
+419135,28-Mar-10,8,7,3,Dr DY Patil Sports Academy,8,field,0,1,0,by runs,41,7,50,491,486,Mumbai,India
+419136,29-Mar-10,6,1,3,Feroz Shah Kotla,6,bat,0,1,0,by runs,40,6,187,485,490,Delhi,India
+419137,30-Mar-10,7,4,3,Brabourne Stadium,7,field,0,1,0,by wickets,4,7,194,478,488,Mumbai,India
+419138,31-Mar-10,3,2,3,"MA Chidambaram Stadium, Chepauk",2,bat,0,1,0,by wickets,5,3,185,480,477,Chennai,India
+419139,31-Mar-10,6,5,3,Feroz Shah Kotla,6,bat,0,1,0,by runs,67,6,88,482,490,Delhi,India
+419140,1-Apr-10,1,8,3,Eden Gardens,1,bat,0,1,0,by runs,24,1,1,486,476,Kolkata,India
+419141,2-Apr-10,4,2,3,"Punjab Cricket Association Stadium, Mohali",4,bat,0,1,0,by wickets,6,2,158,474,481,Chandigarh,India
+419142,3-Apr-10,3,5,3,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,23,3,185,477,513,Chennai,India
+419143,3-Apr-10,7,8,3,Brabourne Stadium,7,bat,0,1,0,by runs,63,7,208,478,489,Mumbai,India
+419144,4-Apr-10,1,4,3,Eden Gardens,1,bat,0,1,0,by wickets,8,4,64,483,476,Kolkata,India
+419145,4-Apr-10,6,2,3,Feroz Shah Kotla,6,bat,0,1,0,by runs,37,6,241,474,481,Delhi,India
+419146,5-Apr-10,8,5,3,"Vidarbha Cricket Association Stadium, Jamtha",5,bat,0,1,0,by runs,2,5,38,482,490,Nagpur,India
+419147,6-Apr-10,3,7,3,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,24,3,21,483,476,Chennai,India
+419148,7-Apr-10,5,4,3,Sawai Mansingh Stadium,4,bat,0,1,0,by wickets,9,5,224,489,488,Jaipur,India
+419149,7-Apr-10,1,6,3,Eden Gardens,1,bat,0,1,0,by runs,14,1,1,480,477,Kolkata,India
+419150,8-Apr-10,2,8,3,M Chinnaswamy Stadium,8,field,0,1,0,by wickets,7,8,178,483,476,Bangalore,India
+419151,9-Apr-10,4,7,3,"Punjab Cricket Association Stadium, Mohali",7,bat,0,1,0,by wickets,6,4,26,481,492,Chandigarh,India
+419152,10-Apr-10,8,3,3,"Vidarbha Cricket Association Stadium, Jamtha",3,bat,0,1,0,by wickets,6,8,188,482,490,Nagpur,India
+419153,10-Apr-10,2,1,3,M Chinnaswamy Stadium,2,field,0,1,0,by wickets,7,2,81,486,476,Bangalore,India
+419154,11-Apr-10,6,4,3,Feroz Shah Kotla,6,bat,0,1,0,by wickets,7,4,67,474,492,Delhi,India
+419155,11-Apr-10,5,7,3,Sawai Mansingh Stadium,5,field,0,1,0,by runs,37,7,133,478,488,Jaipur,India
+419156,12-Apr-10,8,2,3,"Vidarbha Cricket Association Stadium, Jamtha",2,field,0,1,0,by runs,13,8,256,477,513,Nagpur,India
+419157,13-Apr-10,7,6,3,Brabourne Stadium,7,bat,0,1,0,by runs,39,7,221,483,476,Mumbai,India
+419158,13-Apr-10,3,1,3,"MA Chidambaram Stadium, Chepauk",1,bat,0,1,0,by wickets,9,3,201,485,490,Chennai,India
+419159,14-Apr-10,5,2,3,Sawai Mansingh Stadium,5,bat,0,1,0,by wickets,5,2,158,478,489,Jaipur,India
+419160,15-Apr-10,3,6,3,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by wickets,6,6,40,482,485,Chennai,India
+419161,16-Apr-10,4,8,3,Himachal Pradesh Cricket Association Stadium,8,field,0,1,0,by wickets,5,8,57,481,492,Dharamsala,India
+419162,17-Apr-10,2,7,3,M Chinnaswamy Stadium,2,field,0,1,0,by runs,57,7,210,482,490,Bangalore,India
+419163,17-Apr-10,1,5,3,Eden Gardens,5,bat,0,1,0,by wickets,8,1,346,480,513,Kolkata,India
+419164,18-Apr-10,4,3,3,Himachal Pradesh Cricket Association Stadium,3,field,0,1,0,by wickets,6,3,20,474,492,Dharamsala,India
+419165,18-Apr-10,6,8,3,Feroz Shah Kotla,8,bat,0,1,0,by runs,11,8,56,478,488,Delhi,India
+419166,19-Apr-10,1,7,3,Eden Gardens,7,bat,0,1,0,by wickets,9,1,83,480,477,Kolkata,India
+419167,21-Apr-10,2,7,3,Dr DY Patil Sports Academy,7,bat,0,1,0,by runs,35,7,221,478,513,Mumbai,India
+419168,22-Apr-10,3,8,3,Dr DY Patil Sports Academy,3,bat,0,1,0,by runs,38,3,248,478,513,Mumbai,India
+419169,24-Apr-10,2,8,3,Dr DY Patil Sports Academy,8,bat,0,1,0,by wickets,9,2,124,477,490,Mumbai,India
+419170,25-Apr-10,3,7,3,Dr DY Patil Sports Academy,3,bat,0,1,0,by runs,22,3,21,477,490,Mumbai,India
+501203,8-Apr-11,3,1,4,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,2,3,125,478,493,Chennai,India
+501204,9-Apr-11,8,5,4,"Rajiv Gandhi International Stadium, Uppal",5,field,0,1,0,by wickets,8,5,39,477,488,Hyderabad,India
+501205,9-Apr-11,9,2,4,Nehru Stadium,9,bat,0,1,0,by wickets,6,2,110,482,486,Kochi,India
+501206,10-Apr-11,6,7,4,Feroz Shah Kotla,6,bat,0,1,0,by wickets,8,7,194,492,513,Delhi,India
+501207,10-Apr-11,10,4,4,Dr DY Patil Sports Academy,4,bat,0,1,0,by wickets,7,10,273,478,493,Mumbai,India
+501208,11-Apr-11,1,8,4,Eden Gardens,1,bat,0,1,0,by runs,9,1,9,477,488,Kolkata,India
+501209,12-Apr-11,5,6,4,Sawai Mansingh Stadium,6,bat,0,1,0,by wickets,6,5,38,472,513,Jaipur,India
+501210,12-Apr-11,2,7,4,M Chinnaswamy Stadium,7,field,0,1,0,by wickets,9,7,133,482,517,Bangalore,India
+501211,13-Apr-11,4,3,4,"Punjab Cricket Association Stadium, Mohali",4,field,0,1,0,by wickets,6,4,167,470,487,Chandigarh,India
+501212,13-Apr-11,10,9,4,Dr DY Patil Sports Academy,9,bat,0,1,0,by wickets,4,10,231,483,493,Mumbai,India
+501213,14-Apr-11,8,2,4,"Rajiv Gandhi International Stadium, Uppal",2,field,0,1,0,by runs,33,8,94,477,489,Hyderabad,India
+501214,15-Apr-11,5,1,4,Sawai Mansingh Stadium,1,field,0,1,0,by wickets,9,1,40,472,485,Jaipur,India
+501215,15-Apr-11,7,9,4,Wankhede Stadium,9,field,0,1,0,by wickets,8,9,2,478,493,Mumbai,India
+501216,16-Apr-11,3,2,4,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,21,3,19,482,517,Chennai,India
+501217,16-Apr-11,8,4,4,"Rajiv Gandhi International Stadium, Uppal",4,field,0,1,0,by wickets,8,4,167,477,489,Hyderabad,India
+501218,17-Apr-11,10,6,4,Dr DY Patil Sports Academy,6,field,0,1,0,by wickets,3,6,27,470,492,Mumbai,India
+501219,17-Apr-11,1,5,4,Eden Gardens,1,field,0,1,0,by wickets,8,1,151,472,513,Kolkata,India
+501220,18-Apr-11,9,3,4,Nehru Stadium,9,field,0,1,1,by wickets,7,9,2,486,517,Kochi,India
+501221,19-Apr-11,6,8,4,Feroz Shah Kotla,8,bat,0,1,0,by runs,16,8,65,493,518,Delhi,India
+501223,20-Apr-11,7,10,4,Wankhede Stadium,10,bat,0,1,0,by wickets,7,7,126,470,492,Mumbai,India
+501224,20-Apr-11,1,9,4,Eden Gardens,1,field,0,1,0,by runs,6,9,64,472,513,Kolkata,India
+501225,21-Apr-11,4,5,4,"Punjab Cricket Association Stadium, Mohali",5,field,0,1,0,by runs,48,4,100,483,493,Chandigarh,India
+501226,22-Apr-11,7,3,4,Wankhede Stadium,3,field,0,1,0,by runs,8,7,50,470,492,Mumbai,India
+501227,22-Apr-11,1,2,4,Eden Gardens,2,field,0,1,0,by wickets,9,2,162,485,513,Kolkata,India
+501228,23-Apr-11,6,4,4,Feroz Shah Kotla,4,field,0,1,0,by runs,29,6,187,483,477,Delhi,India
+501229,24-Apr-11,8,7,4,"Rajiv Gandhi International Stadium, Uppal",8,field,0,1,0,by runs,37,7,194,482,517,Hyderabad,India
+501230,24-Apr-11,5,9,4,Sawai Mansingh Stadium,5,field,0,1,0,by wickets,8,5,38,478,488,Jaipur,India
+501231,25-Apr-11,3,10,4,"MA Chidambaram Stadium, Chepauk",10,field,0,1,0,by runs,25,3,19,472,513,Chennai,India
+501232,26-Apr-11,6,2,4,Feroz Shah Kotla,2,field,0,1,0,by wickets,3,2,8,483,518,Delhi,India
+501233,27-Apr-11,10,3,4,Dr DY Patil Sports Academy,10,bat,0,1,0,by wickets,8,3,248,470,487,Mumbai,India
+501234,27-Apr-11,9,8,4,Nehru Stadium,9,field,0,1,0,by runs,55,8,84,482,517,Kochi,India
+501235,28-Apr-11,6,1,4,Feroz Shah Kotla,6,field,0,1,0,by runs,17,1,87,493,518,Delhi,India
+501236,29-Apr-11,5,7,4,Sawai Mansingh Stadium,5,field,0,1,0,by wickets,7,5,192,470,488,Jaipur,India
+501237,29-Apr-11,2,10,4,M Chinnaswamy Stadium,10,field,0,1,0,by runs,26,2,8,472,485,Bangalore,India
+501238,30-Apr-11,9,6,4,Nehru Stadium,6,bat,0,1,0,by runs,38,6,41,482,517,Kochi,India
+501239,30-Apr-11,1,4,4,Eden Gardens,1,field,0,1,0,by wickets,8,1,140,492,487,Kolkata,India
+501240,1-May-11,5,10,4,Sawai Mansingh Stadium,5,field,0,1,0,by wickets,6,5,52,488,490,Jaipur,India
+501241,1-May-11,3,8,4,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,19,3,109,472,513,Chennai,India
+501242,2-May-11,7,4,4,Wankhede Stadium,4,field,0,1,0,by runs,23,7,221,482,493,Mumbai,India
+501243,2-May-11,6,9,4,Feroz Shah Kotla,9,field,0,1,0,by wickets,7,9,294,470,487,Delhi,India
+501244,3-May-11,8,1,4,"Rajiv Gandhi International Stadium, Uppal",8,field,0,1,0,by runs,20,1,31,483,518,Hyderabad,India
+501245,4-May-11,3,5,4,"MA Chidambaram Stadium, Chepauk",5,bat,0,1,0,by wickets,8,3,19,485,513,Chennai,India
+501246,4-May-11,10,7,4,Dr DY Patil Sports Academy,10,field,0,1,0,by runs,21,7,235,482,490,Mumbai,India
+501247,5-May-11,9,1,4,Nehru Stadium,1,field,0,1,0,by runs,17,9,104,489,518,Kochi,India
+501248,5-May-11,8,6,4,"Rajiv Gandhi International Stadium, Uppal",6,field,0,1,0,by wickets,4,6,41,470,492,Hyderabad,India
+501249,6-May-11,2,4,4,M Chinnaswamy Stadium,4,field,0,1,0,by runs,85,2,162,472,513,Bangalore,India
+501250,7-May-11,1,3,4,Eden Gardens,3,bat,0,1,1,by runs,10,1,140,470,493,Kolkata,India
+501251,7-May-11,7,6,4,Wankhede Stadium,6,field,0,1,0,by runs,32,7,208,486,490,Mumbai,India
+501252,8-May-11,2,9,4,M Chinnaswamy Stadium,9,bat,0,1,0,by wickets,9,2,162,472,485,Bangalore,India
+501253,8-May-11,4,10,4,"Punjab Cricket Association Stadium, Mohali",4,bat,0,1,0,by wickets,5,10,235,488,518,Chandigarh,India
+501254,9-May-11,5,3,4,Sawai Mansingh Stadium,5,field,0,1,0,by runs,63,3,185,486,490,Jaipur,India
+501255,10-May-11,8,10,4,"Rajiv Gandhi International Stadium, Uppal",8,bat,0,1,0,by wickets,6,10,253,470,492,Hyderabad,India
+501256,10-May-11,4,7,4,"Punjab Cricket Association Stadium, Mohali",7,field,0,1,0,by runs,76,4,302,488,518,Chandigarh,India
+501257,11-May-11,5,2,4,Sawai Mansingh Stadium,2,field,0,1,0,by wickets,9,2,270,482,486,Jaipur,India
+501258,12-May-11,3,6,4,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,18,3,20,492,487,Chennai,India
+501259,13-May-11,9,4,4,Holkar Cricket Stadium,4,field,0,1,0,by wickets,6,4,88,483,518,Indore,India
+501260,14-May-11,2,1,4,M Chinnaswamy Stadium,2,field,0,1,1,by wickets,4,2,162,477,513,Bangalore,India
+501261,14-May-11,7,8,4,Wankhede Stadium,8,bat,0,1,0,by runs,10,8,136,489,488,Mumbai,India
+501262,15-May-11,4,6,4,Himachal Pradesh Cricket Association Stadium,6,field,0,1,0,by runs,29,4,67,470,487,Dharamsala,India
+501263,15-May-11,9,5,4,Holkar Cricket Stadium,9,field,0,1,0,by wickets,8,9,104,493,518,Indore,India
+501264,16-May-11,10,8,4,Dr DY Patil Sports Academy,8,field,0,1,0,by wickets,6,8,136,489,488,Mumbai,India
+501265,17-May-11,4,2,4,Himachal Pradesh Cricket Association Stadium,4,bat,0,1,0,by runs,111,4,53,470,492,Dharamsala,India
+501266,18-May-11,3,9,4,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,11,3,62,482,477,Chennai,India
+501267,19-May-11,10,1,4,Dr DY Patil Sports Academy,1,field,0,1,0,by wickets,7,1,31,489,490,Mumbai,India
+501268,20-May-11,7,5,4,Wankhede Stadium,7,bat,0,1,0,by wickets,10,5,32,477,493,Mumbai,India
+501269,21-May-11,4,8,4,Himachal Pradesh Cricket Association Stadium,4,field,0,1,0,by runs,82,8,42,470,492,Dharamsala,India
+501270,21-May-11,6,10,4,Feroz Shah Kotla,6,bat,0,0,0,No Result,NULL,,,485,518,Delhi,India
+501271,22-May-11,2,3,4,M Chinnaswamy Stadium,2,field,0,1,0,by wickets,8,2,162,486,477,Bangalore,India
+501272,22-May-11,1,7,4,Eden Gardens,7,field,0,1,0,by wickets,5,7,275,488,490,Kolkata,India
+501273,24-May-11,2,3,4,Wankhede Stadium,3,field,0,1,0,by wickets,6,3,21,470,490,Mumbai,India
+501274,25-May-11,7,1,4,Wankhede Stadium,7,field,0,1,0,by wickets,4,7,126,470,490,Mumbai,India
+501275,27-May-11,2,7,4,"MA Chidambaram Stadium, Chepauk",7,field,0,1,0,by runs,43,2,162,470,490,Chennai,India
+501276,28-May-11,3,2,4,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,58,3,185,470,490,Chennai,India
+548311,4-Apr-12,3,7,5,"MA Chidambaram Stadium, Chepauk",7,field,0,1,0,by wickets,8,7,304,494,490,Chennai,India
+548312,5-Apr-12,1,6,5,Eden Gardens,6,field,0,1,0,by wickets,8,6,29,483,482,Kolkata,India
+548313,6-Apr-12,7,10,5,Wankhede Stadium,7,field,0,1,0,by runs,28,10,306,495,490,Mumbai,India
+548314,6-Apr-12,5,4,5,Sawai Mansingh Stadium,4,field,0,1,0,by runs,31,5,85,474,488,Jaipur,India
+548315,7-Apr-12,2,6,5,M Chinnaswamy Stadium,6,field,0,1,0,by runs,20,2,110,483,489,Bangalore,India
+548316,7-Apr-12,8,3,5,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,8,field,0,1,0,by runs,74,3,35,494,482,Visakhapatnam,India
+548317,8-Apr-12,5,1,5,Sawai Mansingh Stadium,1,field,0,1,0,by runs,22,5,104,474,496,Jaipur,India
+548318,8-Apr-12,10,4,5,Subrata Roy Sahara Stadium,10,bat,0,1,0,by runs,22,10,307,491,490,Pune,India
+548319,9-Apr-12,8,7,5,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,8,bat,0,1,0,by wickets,5,7,57,495,494,Visakhapatnam,India
+548320,10-Apr-12,2,1,5,M Chinnaswamy Stadium,2,field,0,1,0,by runs,42,1,151,489,518,Bangalore,India
+548321,10-Apr-12,6,3,5,Feroz Shah Kotla,6,field,0,1,0,by wickets,8,6,190,470,488,Delhi,India
+548322,11-Apr-12,7,5,5,Wankhede Stadium,5,field,0,1,0,by runs,27,7,221,472,497,Mumbai,India
+548323,12-Apr-12,3,2,5,"MA Chidambaram Stadium, Chepauk",2,bat,0,1,0,by wickets,5,3,303,482,518,Chennai,India
+548324,12-Apr-12,4,10,5,"Punjab Cricket Association Stadium, Mohali",4,field,0,1,0,by wickets,7,4,137,496,488,Chandigarh,India
+548325,13-Apr-12,1,5,5,Eden Gardens,5,bat,0,1,0,by wickets,5,1,276,470,483,Kolkata,India
+548326,19-Apr-12,6,8,5,Feroz Shah Kotla,8,bat,0,1,0,by wickets,5,6,158,474,488,Delhi,India
+548327,14-Apr-12,10,3,5,Subrata Roy Sahara Stadium,3,bat,0,1,0,by wickets,7,10,157,472,497,Pune,India
+548328,15-Apr-12,1,4,5,Eden Gardens,1,field,0,1,0,by runs,2,4,315,470,483,Kolkata,India
+548329,15-Apr-12,2,5,5,M Chinnaswamy Stadium,5,bat,0,1,0,by runs,59,5,85,494,518,Bangalore,India
+548330,16-Apr-12,7,6,5,Wankhede Stadium,6,field,0,1,0,by wickets,7,6,293,474,488,Mumbai,India
+548331,17-Apr-12,5,8,5,Sawai Mansingh Stadium,8,bat,0,1,0,by wickets,5,5,104,472,497,Jaipur,India
+548332,17-Apr-12,2,10,5,M Chinnaswamy Stadium,10,bat,0,1,0,by wickets,6,2,162,483,491,Bangalore,India
+548333,18-Apr-12,4,1,5,"Punjab Cricket Association Stadium, Mohali",4,bat,0,1,0,by wickets,8,1,40,494,518,Chandigarh,India
+548334,10-May-12,8,6,5,"Rajiv Gandhi International Stadium, Uppal",8,bat,0,1,0,by wickets,9,6,187,494,490,Hyderabad,India
+548335,19-Apr-12,3,10,5,"MA Chidambaram Stadium, Chepauk",10,field,0,1,0,by runs,13,3,324,470,491,Chennai,India
+548336,20-Apr-12,4,2,5,"Punjab Cricket Association Stadium, Mohali",2,field,0,1,0,by wickets,5,2,162,489,518,Chandigarh,India
+548337,21-Apr-12,3,5,5,"MA Chidambaram Stadium, Chepauk",5,bat,0,1,0,by wickets,7,3,303,472,497,Chennai,India
+548338,21-Apr-12,6,10,5,Feroz Shah Kotla,6,field,0,1,0,by runs,20,10,1,470,491,Delhi,India
+548339,22-Apr-12,7,4,5,Wankhede Stadium,7,bat,0,1,0,by wickets,6,4,100,489,518,Mumbai,India
+548340,22-Apr-12,8,1,5,Barabati Stadium,1,field,0,1,0,by wickets,5,1,66,474,488,Cuttack,India
+548341,23-Apr-12,5,2,5,Sawai Mansingh Stadium,5,field,0,1,0,by runs,46,2,110,470,483,Jaipur,India
+548342,24-Apr-12,10,6,5,Subrata Roy Sahara Stadium,10,bat,0,1,0,by wickets,8,6,41,489,518,Pune,India
+548344,25-Apr-12,4,7,5,"Punjab Cricket Association Stadium, Mohali",4,bat,0,1,0,by wickets,4,7,208,472,497,Chandigarh,India
+548346,26-Apr-12,10,8,5,Subrata Roy Sahara Stadium,8,bat,0,1,0,by runs,18,8,10,489,518,Pune,India
+548347,27-Apr-12,6,7,5,Feroz Shah Kotla,7,field,0,1,0,by runs,37,6,41,472,497,Delhi,India
+548348,28-Apr-12,3,4,5,"MA Chidambaram Stadium, Chepauk",4,bat,0,1,0,by runs,7,4,236,474,488,Chennai,India
+548349,28-Apr-12,1,2,5,Eden Gardens,1,bat,0,1,0,by runs,47,1,40,470,478,Kolkata,India
+548350,29-Apr-12,6,5,5,Feroz Shah Kotla,6,bat,0,1,0,by runs,1,6,41,489,518,Delhi,India
+548351,29-Apr-12,7,8,5,Wankhede Stadium,7,field,0,1,0,by wickets,5,7,94,495,497,Mumbai,India
+548352,30-Apr-12,3,1,5,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by wickets,5,1,40,474,499,Chennai,India
+548353,1-May-12,8,10,5,Barabati Stadium,8,bat,0,1,0,by runs,13,8,26,472,495,Cuttack,India
+548354,1-May-12,5,6,5,Sawai Mansingh Stadium,5,bat,0,1,0,by wickets,6,6,322,494,490,Jaipur,India
+548355,2-May-12,2,4,5,M Chinnaswamy Stadium,4,field,0,1,0,by wickets,4,4,321,474,499,Bangalore,India
+548356,3-May-12,10,7,5,Subrata Roy Sahara Stadium,7,bat,0,1,0,by runs,1,7,194,470,483,Pune,India
+548357,4-May-12,3,8,5,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,10,3,21,482,497,Chennai,India
+548358,5-May-12,1,10,5,Eden Gardens,1,bat,0,1,0,by runs,7,1,315,474,488,Kolkata,India
+548359,5-May-12,4,5,5,"Punjab Cricket Association Stadium, Mohali",5,bat,0,1,0,by runs,43,5,32,494,490,Chandigarh,India
+548360,6-May-12,7,3,5,Wankhede Stadium,7,field,0,1,0,by wickets,2,7,147,470,483,Mumbai,India
+548361,6-May-12,2,8,5,M Chinnaswamy Stadium,2,field,0,1,0,by wickets,5,2,110,482,497,Bangalore,India
+548362,7-May-12,6,1,5,Feroz Shah Kotla,6,bat,0,1,0,by wickets,6,1,9,494,489,Delhi,India
+548363,8-May-12,10,5,5,Subrata Roy Sahara Stadium,10,bat,0,1,0,by wickets,7,5,32,470,478,Pune,India
+548364,8-May-12,8,4,5,"Rajiv Gandhi International Stadium, Uppal",8,field,0,1,0,by runs,25,4,236,482,497,Hyderabad,India
+548365,9-May-12,7,2,5,Wankhede Stadium,2,field,0,1,0,by wickets,9,2,162,474,496,Mumbai,India
+548366,10-May-12,5,3,5,Sawai Mansingh Stadium,3,field,0,1,0,by wickets,4,3,451,497,499,Jaipur,India
+548367,11-May-12,10,2,5,Subrata Roy Sahara Stadium,10,field,0,1,0,by runs,35,2,162,474,488,Pune,India
+548368,12-May-12,1,7,5,Eden Gardens,7,bat,0,1,0,by runs,27,7,57,489,490,Kolkata,India
+548369,12-May-12,3,6,5,"MA Chidambaram Stadium, Chepauk",3,field,0,1,0,by wickets,9,3,451,491,478,Chennai,India
+548370,13-May-12,5,10,5,Sawai Mansingh Stadium,5,bat,0,1,0,by runs,45,5,335,474,488,Jaipur,India
+548371,13-May-12,4,8,5,"Punjab Cricket Association Stadium, Mohali",8,bat,0,1,0,by wickets,4,4,4,482,497,Chandigarh,India
+548372,14-May-12,2,7,5,M Chinnaswamy Stadium,7,field,0,1,0,by wickets,5,7,208,491,478,Bangalore,India
+548373,14-May-12,1,3,5,Eden Gardens,3,field,0,1,0,by wickets,5,3,19,494,490,Kolkata,India
+548374,15-May-12,6,4,5,Feroz Shah Kotla,4,bat,0,1,0,by wickets,5,6,232,482,497,Delhi,India
+548375,16-May-12,7,1,5,Wankhede Stadium,7,field,0,1,0,by runs,32,1,315,491,478,Mumbai,India
+548376,17-May-12,4,3,5,Himachal Pradesh Cricket Association Stadium,4,field,0,1,0,by wickets,6,4,53,496,488,Dharamsala,India
+548377,17-May-12,6,2,5,Feroz Shah Kotla,6,field,0,1,0,by runs,21,2,162,482,499,Delhi,India
+548378,18-May-12,8,5,5,"Rajiv Gandhi International Stadium, Uppal",5,bat,0,1,0,by wickets,5,8,94,489,490,Hyderabad,India
+548379,19-May-12,4,6,5,Himachal Pradesh Cricket Association Stadium,6,field,0,1,0,by wickets,6,6,232,474,496,Dharamsala,India
+548380,19-May-12,10,1,5,Subrata Roy Sahara Stadium,1,bat,0,1,0,by runs,34,1,276,483,478,Pune,India
+548381,20-May-12,8,2,5,"Rajiv Gandhi International Stadium, Uppal",2,field,0,1,0,by runs,9,8,94,489,490,Hyderabad,India
+548382,20-May-12,5,7,5,Sawai Mansingh Stadium,5,bat,0,1,0,by wickets,10,7,147,482,499,Jaipur,India
+548383,22-May-12,6,1,5,Subrata Roy Sahara Stadium,1,bat,0,1,0,by runs,18,1,31,478,490,Pune,India
+548384,23-May-12,3,7,5,M Chinnaswamy Stadium,7,field,0,1,0,by runs,38,3,20,474,482,Bangalore,India
+548385,25-May-12,6,3,5,"MA Chidambaram Stadium, Chepauk",6,field,0,1,0,by runs,86,3,185,478,490,Chennai,India
+548386,27-May-12,1,3,5,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by wickets,5,1,214,474,490,Chennai,India
+598003,3-Apr-13,1,6,6,Eden Gardens,1,field,0,1,0,by wickets,6,1,315,489,490,Kolkata,India
+598004,4-Apr-13,2,7,6,M Chinnaswamy Stadium,7,field,0,1,0,by runs,2,2,162,496,499,Bangalore,India
+598005,5-Apr-13,11,10,6,"Rajiv Gandhi International Stadium, Uppal",10,field,0,1,0,by runs,22,11,136,489,490,Hyderabad,India
+598006,6-Apr-13,6,5,6,Feroz Shah Kotla,5,bat,0,1,0,by runs,5,5,6,491,499,Delhi,India
+598007,6-Apr-13,3,7,6,"MA Chidambaram Stadium, Chepauk",7,bat,0,1,0,by runs,9,7,221,481,496,Chennai,India
+598008,7-Apr-13,10,4,6,Subrata Roy Sahara Stadium,10,bat,0,1,0,by wickets,8,4,345,483,490,Pune,India
+598009,7-Apr-13,11,2,6,"Rajiv Gandhi International Stadium, Uppal",2,bat,1,1,0,Tie,NULL,11,340,495,489,Hyderabad,India
+598010,8-Apr-13,5,1,6,Sawai Mansingh Stadium,1,field,0,1,0,by runs,19,5,39,472,491,Jaipur,India
+598011,9-Apr-13,7,6,6,Wankhede Stadium,7,bat,0,1,0,by runs,44,7,88,481,496,Mumbai,India
+598012,10-Apr-13,4,3,6,"Punjab Cricket Association Stadium, Mohali",3,field,0,1,0,by wickets,10,3,19,472,499,Chandigarh,India
+598013,11-Apr-13,2,1,6,M Chinnaswamy Stadium,2,field,0,1,0,by wickets,8,2,162,470,495,Bangalore,India
+598014,11-Apr-13,10,5,6,Subrata Roy Sahara Stadium,5,bat,0,1,0,by wickets,7,10,254,481,503,Pune,India
+598015,12-Apr-13,6,11,6,Feroz Shah Kotla,6,bat,0,1,0,by wickets,3,11,136,472,519,Delhi,India
+598016,13-Apr-13,7,10,6,Wankhede Stadium,7,bat,0,1,0,by runs,41,7,57,489,490,Mumbai,India
+598017,13-Apr-13,3,2,6,"MA Chidambaram Stadium, Chepauk",3,field,0,1,0,by wickets,4,3,35,470,495,Chennai,India
+598018,14-Apr-13,1,11,6,Eden Gardens,1,bat,0,1,0,by runs,48,1,40,481,496,Kolkata,India
+598019,14-Apr-13,5,4,6,Sawai Mansingh Stadium,5,field,0,1,0,by wickets,6,5,310,472,499,Jaipur,India
+598020,15-Apr-13,3,10,6,"MA Chidambaram Stadium, Chepauk",10,bat,0,1,0,by runs,24,10,306,470,495,Chennai,India
+598021,16-Apr-13,4,1,6,"Punjab Cricket Association Stadium, Mohali",1,field,0,1,0,by runs,4,4,120,498,490,Chandigarh,India
+598022,16-Apr-13,2,6,6,M Chinnaswamy Stadium,2,field,1,1,0,Tie,NULL,2,8,481,496,Bangalore,India
+598023,17-Apr-13,10,11,6,Subrata Roy Sahara Stadium,10,field,0,1,0,by runs,11,11,136,470,495,Pune,India
+598024,17-Apr-13,5,7,6,Sawai Mansingh Stadium,5,bat,0,1,0,by runs,87,5,85,472,499,Jaipur,India
+598025,18-Apr-13,6,3,6,Feroz Shah Kotla,3,bat,0,1,0,by runs,86,3,19,481,496,Delhi,India
+598026,19-Apr-13,11,4,6,"Rajiv Gandhi International Stadium, Uppal",4,bat,0,1,0,by wickets,5,11,340,482,498,Hyderabad,India
+598027,20-Apr-13,1,3,6,Eden Gardens,1,bat,0,1,0,by wickets,4,3,35,470,495,Kolkata,India
+598028,20-Apr-13,2,5,6,M Chinnaswamy Stadium,2,field,0,1,0,by wickets,7,2,81,472,499,Bangalore,India
+598029,21-Apr-13,6,7,6,Feroz Shah Kotla,7,bat,0,1,0,by wickets,9,6,41,482,489,Delhi,India
+598030,21-Apr-13,4,10,6,"Punjab Cricket Association Stadium, Mohali",4,field,0,1,0,by wickets,7,4,320,481,503,Chandigarh,India
+598031,22-Apr-13,3,5,6,"MA Chidambaram Stadium, Chepauk",5,bat,0,1,0,by wickets,5,3,19,483,495,Chennai,India
+598032,23-Apr-13,2,10,6,M Chinnaswamy Stadium,10,field,0,1,0,by runs,130,2,162,472,499,Bangalore,India
+598033,16-May-13,4,6,6,Himachal Pradesh Cricket Association Stadium,6,field,0,1,0,by runs,7,4,320,482,489,Dharamsala,India
+598034,24-Apr-13,1,7,6,Eden Gardens,1,bat,0,1,0,by wickets,5,7,147,482,489,Kolkata,India
+598035,25-Apr-13,3,11,6,"MA Chidambaram Stadium, Chepauk",11,bat,0,1,0,by wickets,5,3,20,472,491,Chennai,India
+598036,26-Apr-13,1,4,6,Eden Gardens,4,bat,0,1,0,by wickets,6,1,9,498,489,Kolkata,India
+598037,27-Apr-13,5,11,6,Sawai Mansingh Stadium,11,bat,0,1,0,by wickets,8,5,310,496,503,Jaipur,India
+598038,27-Apr-13,7,2,6,Wankhede Stadium,7,bat,0,1,0,by runs,58,7,147,470,483,Mumbai,India
+598039,28-Apr-13,3,1,6,"MA Chidambaram Stadium, Chepauk",1,field,0,1,0,by runs,14,3,19,472,490,Chennai,India
+598040,28-Apr-13,6,10,6,Shaheed Veer Narayan Singh International Stadium,10,field,0,1,0,by runs,15,6,187,498,489,Raipur,India
+598041,29-Apr-13,5,2,6,Sawai Mansingh Stadium,5,field,0,1,0,by wickets,4,5,351,481,503,Jaipur,India
+598042,29-Apr-13,7,4,6,Wankhede Stadium,7,bat,0,1,0,by runs,4,7,57,470,495,Mumbai,India
+598043,30-Apr-13,10,3,6,Subrata Roy Sahara Stadium,3,bat,0,1,0,by runs,37,3,20,491,490,Pune,India
+598044,1-May-13,11,7,6,"Rajiv Gandhi International Stadium, Uppal",7,bat,0,1,0,by wickets,7,11,84,470,483,Hyderabad,India
+598045,1-May-13,6,1,6,Shaheed Veer Narayan Singh International Stadium,1,bat,0,1,0,by wickets,7,6,187,482,498,Raipur,India
+598046,2-May-13,3,4,6,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,15,3,21,481,496,Chennai,India
+598047,2-May-13,10,2,6,Subrata Roy Sahara Stadium,2,bat,0,1,0,by runs,17,2,110,472,499,Pune,India
+598048,3-May-13,1,5,6,Eden Gardens,5,bat,0,1,0,by wickets,8,1,31,482,498,Kolkata,India
+598049,4-May-13,11,6,6,"Rajiv Gandhi International Stadium, Uppal",6,bat,0,1,0,by wickets,6,11,362,470,483,Hyderabad,India
+598050,14-May-13,2,4,6,M Chinnaswamy Stadium,4,field,0,1,0,by wickets,7,4,53,482,489,Bangalore,India
+598051,5-May-13,7,3,6,Wankhede Stadium,7,bat,0,1,0,by runs,60,7,357,482,498,Mumbai,India
+598052,5-May-13,5,10,6,Sawai Mansingh Stadium,10,bat,0,1,0,by wickets,5,5,85,499,518,Jaipur,India
+598053,9-Apr-13,2,11,6,M Chinnaswamy Stadium,11,bat,0,1,0,by wickets,7,2,8,489,490,Bangalore,India
+598054,7-May-13,5,6,6,Sawai Mansingh Stadium,6,bat,0,1,0,by wickets,9,5,85,472,518,Jaipur,India
+598055,7-May-13,7,1,6,Wankhede Stadium,7,bat,0,1,0,by runs,65,7,133,482,489,Mumbai,India
+598056,8-May-13,11,3,6,"Rajiv Gandhi International Stadium, Uppal",11,field,0,1,0,by runs,77,3,21,491,500,Hyderabad,India
+598057,9-May-13,4,5,6,"Punjab Cricket Association Stadium, Mohali",5,field,0,1,0,by wickets,8,5,309,482,489,Chandigarh,India
+598058,9-May-13,10,1,6,Subrata Roy Sahara Stadium,1,bat,0,1,0,by runs,46,1,40,470,483,Pune,India
+598059,10-May-13,6,2,6,Feroz Shah Kotla,6,field,0,1,0,by runs,4,2,346,500,503,Delhi,India
+598060,11-May-13,10,7,6,Subrata Roy Sahara Stadium,10,bat,0,1,0,by wickets,5,7,357,470,495,Pune,India
+598061,11-May-13,4,11,6,"Punjab Cricket Association Stadium, Mohali",4,field,0,1,0,by runs,30,11,17,491,518,Chandigarh,India
+598062,12-May-13,1,2,6,JSCA International Stadium Complex,1,field,0,1,0,by wickets,5,1,9,500,503,Ranchi,India
+598063,12-May-13,5,3,6,Sawai Mansingh Stadium,5,field,0,1,0,by wickets,5,5,32,482,498,Jaipur,India
+598064,23-Apr-13,6,4,6,Feroz Shah Kotla,4,field,0,1,0,by wickets,5,4,256,496,503,Delhi,India
+598065,13-May-13,7,11,6,Wankhede Stadium,11,bat,0,1,0,by wickets,7,7,221,495,490,Mumbai,India
+598066,15-May-13,1,10,6,JSCA International Stadium Complex,1,field,0,1,0,by runs,7,10,96,500,503,Ranchi,India
+598067,14-May-13,3,6,6,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,33,3,20,499,518,Chennai,India
+598068,15-May-13,7,5,6,Wankhede Stadium,5,field,0,1,0,by runs,14,7,207,470,483,Mumbai,India
+598069,6-May-13,4,2,6,"Punjab Cricket Association Stadium, Mohali",4,field,0,1,0,by wickets,6,4,320,496,500,Chandigarh,India
+598070,17-May-13,11,5,6,"Rajiv Gandhi International Stadium, Uppal",11,bat,0,1,0,by runs,23,11,136,470,495,Hyderabad,India
+598071,18-May-13,4,7,6,Himachal Pradesh Cricket Association Stadium,7,field,0,1,0,by runs,50,4,321,482,498,Dharamsala,India
+598072,19-May-13,10,6,6,Subrata Roy Sahara Stadium,10,bat,0,1,0,by runs,38,10,358,500,490,Pune,India
+598073,18-May-13,2,3,6,M Chinnaswamy Stadium,3,field,0,1,0,by runs,24,2,8,499,518,Bangalore,India
+598074,19-May-13,11,1,6,"Rajiv Gandhi International Stadium, Uppal",1,bat,0,1,0,by wickets,5,11,17,470,483,Hyderabad,India
+598075,21-May-13,3,7,6,Feroz Shah Kotla,3,bat,0,1,0,by runs,48,3,19,500,518,Delhi,India
+598076,22-May-13,5,11,6,Feroz Shah Kotla,11,bat,0,1,0,by wickets,4,5,104,489,518,Delhi,India
+598077,24-May-13,7,5,6,Eden Gardens,5,bat,0,1,0,by wickets,4,7,50,499,490,Kolkata,India
+598078,26-May-13,3,7,6,Eden Gardens,7,bat,0,1,0,by runs,23,7,221,482,490,Kolkata,India
+729284,16-Apr-14,7,1,7,Sheikh Zayed Stadium,1,bat,0,1,0,by runs,41,1,9,481,501,Abu Dhabi,U.A.E
+729286,17-Apr-14,6,2,7,Sharjah Cricket Stadium,2,field,0,1,0,by wickets,8,2,382,472,489,Abu Dhabi,U.A.E
+729288,18-Apr-14,3,4,7,Sheikh Zayed Stadium,3,bat,0,1,0,by wickets,6,4,305,501,499,Abu Dhabi,U.A.E
+729290,18-Apr-14,11,5,7,Sheikh Zayed Stadium,5,field,0,1,0,by wickets,4,5,85,474,501,Abu Dhabi,U.A.E
+729292,19-Apr-14,2,7,7,Dubai International Cricket Stadium,2,field,0,1,0,by wickets,7,2,17,472,495,Abu Dhabi,U.A.E
+729294,19-Apr-14,1,6,7,Dubai International Cricket Stadium,1,bat,0,1,0,by wickets,4,6,154,472,496,Abu Dhabi,U.A.E
+729296,20-Apr-14,5,4,7,Sharjah Cricket Stadium,4,field,0,1,0,by wickets,7,4,305,474,481,Abu Dhabi,U.A.E
+729298,21-Apr-14,3,6,7,Sheikh Zayed Stadium,3,bat,0,1,0,by runs,93,3,21,501,499,Abu Dhabi,U.A.E
+729300,22-Apr-14,4,11,7,Sharjah Cricket Stadium,11,field,0,1,0,by runs,72,4,305,481,489,Abu Dhabi,U.A.E
+729302,23-Apr-14,5,3,7,Dubai International Cricket Stadium,5,field,0,1,0,by runs,7,3,35,482,501,Abu Dhabi,U.A.E
+729304,24-Apr-14,2,1,7,Sharjah Cricket Stadium,2,field,0,1,0,by runs,2,1,336,472,496,Abu Dhabi,U.A.E
+729306,25-Apr-14,11,6,7,Dubai International Cricket Stadium,11,bat,0,1,0,by runs,4,11,254,481,489,Abu Dhabi,U.A.E
+729308,25-Apr-14,3,7,7,Dubai International Cricket Stadium,7,bat,0,1,0,by wickets,7,3,364,474,481,Abu Dhabi,U.A.E
+729310,26-Apr-14,5,2,7,Sheikh Zayed Stadium,5,field,0,1,0,by wickets,6,5,370,482,499,Abu Dhabi,U.A.E
+729312,26-Apr-14,1,4,7,Sheikh Zayed Stadium,1,field,0,1,0,by runs,23,4,367,482,501,Abu Dhabi,U.A.E
+729314,27-Apr-14,6,7,7,Sharjah Cricket Stadium,7,bat,0,1,0,by wickets,6,6,185,472,496,Abu Dhabi,U.A.E
+729316,27-Apr-14,11,3,7,Sharjah Cricket Stadium,11,bat,0,1,0,by wickets,5,3,147,495,496,Abu Dhabi,U.A.E
+729318,28-Apr-14,4,2,7,Dubai International Cricket Stadium,4,field,0,1,0,by wickets,5,4,367,474,489,Abu Dhabi,U.A.E
+729320,29-Apr-14,1,5,7,Sheikh Zayed Stadium,5,bat,1,1,0,Tie,NULL,5,310,472,495,Abu Dhabi,U.A.E
+729322,30-Apr-14,7,11,7,Dubai International Cricket Stadium,7,field,0,1,0,by runs,15,11,299,482,481,Abu Dhabi,U.A.E
+733976,2-May-14,3,1,7,JSCA International Stadium Complex,3,bat,0,1,0,by runs,34,3,35,495,500,Ranchi,India
+733978,3-May-14,7,4,7,Wankhede Stadium,4,bat,0,1,0,by wickets,5,7,372,497,499,Mumbai,India
+733980,3-May-14,6,5,7,Feroz Shah Kotla,5,field,0,1,0,by wickets,7,5,339,485,489,Delhi,India
+733982,4-May-14,2,11,7,M Chinnaswamy Stadium,2,field,0,1,0,by wickets,4,2,110,482,496,Bangalore,India
+733984,5-May-14,5,1,7,"Sardar Patel Stadium, Motera",1,field,0,1,0,by runs,10,5,370,500,498,Ahmedabad,India
+733986,5-May-14,6,3,7,Feroz Shah Kotla,3,field,0,1,0,by wickets,8,3,147,502,497,Delhi,India
+733988,6-May-14,7,2,7,Wankhede Stadium,2,field,0,1,0,by runs,19,7,57,489,503,Mumbai,India
+733990,7-May-14,6,1,7,Feroz Shah Kotla,6,bat,0,1,0,by wickets,8,1,40,497,499,Delhi,India
+733992,7-May-14,4,3,7,Barabati Stadium,3,field,0,1,0,by runs,44,4,305,482,506,Cuttack,India
+733994,8-May-14,5,11,7,"Sardar Patel Stadium, Motera",5,field,0,1,0,by runs,32,11,299,495,500,Ahmedabad,India
+733996,9-May-14,2,4,7,M Chinnaswamy Stadium,2,field,0,1,0,by runs,32,4,367,489,503,Bangalore,India
+733998,10-May-14,6,11,7,Feroz Shah Kotla,11,field,0,1,1,by wickets,8,11,94,502,497,Delhi,India
+734000,10-May-14,7,3,7,Wankhede Stadium,3,field,0,1,0,by wickets,4,3,147,482,496,Mumbai,India
+734002,11-May-14,4,1,7,Barabati Stadium,1,field,0,1,0,by wickets,9,1,40,500,498,Cuttack,India
+734004,11-May-14,2,5,7,M Chinnaswamy Stadium,2,bat,0,1,0,by wickets,5,5,310,489,518,Bangalore,India
+734006,12-May-14,11,7,7,"Rajiv Gandhi International Stadium, Uppal",11,bat,0,1,0,by wickets,7,7,208,482,496,Hyderabad,India
+734008,13-May-14,3,5,7,JSCA International Stadium Complex,5,bat,0,1,0,by wickets,5,3,35,497,499,Ranchi,India
+734010,13-May-14,2,6,7,M Chinnaswamy Stadium,6,field,0,1,0,by runs,16,2,27,503,518,Bangalore,India
+734012,14-May-14,11,4,7,"Rajiv Gandhi International Stadium, Uppal",4,field,0,1,0,by wickets,6,4,62,496,506,Hyderabad,India
+734014,14-May-14,1,7,7,Barabati Stadium,1,field,0,1,0,by wickets,6,1,46,495,500,Cuttack,India
+734016,15-May-14,5,6,7,"Sardar Patel Stadium, Motera",6,field,0,1,0,by runs,62,5,85,489,518,Ahmedabad,India
+734018,18-May-14,3,2,7,JSCA International Stadium Complex,3,bat,0,1,0,by wickets,5,2,110,497,499,Ranchi,India
+734020,18-May-14,11,1,7,"Rajiv Gandhi International Stadium, Uppal",11,bat,0,1,0,by wickets,7,1,232,500,498,Hyderabad,India
+734022,19-May-14,5,7,7,"Sardar Patel Stadium, Motera",7,bat,0,1,0,by runs,25,7,19,489,518,Ahmedabad,India
+734024,19-May-14,6,4,7,Feroz Shah Kotla,4,field,0,1,0,by wickets,4,4,374,482,506,Delhi,India
+734026,20-May-14,11,2,7,"Rajiv Gandhi International Stadium, Uppal",2,bat,0,1,0,by wickets,7,11,187,495,500,Hyderabad,India
+734028,20-May-14,1,3,7,Eden Gardens,1,field,0,1,0,by wickets,8,1,46,502,499,Kolkata,India
+734030,21-May-14,4,7,7,"Punjab Cricket Association Stadium, Mohali",7,field,0,1,0,by wickets,7,7,383,482,496,Chandigarh,India
+734032,22-May-14,1,2,7,Eden Gardens,2,field,0,1,0,by runs,30,1,46,495,498,Kolkata,India
+734034,22-May-14,3,11,7,JSCA International Stadium Complex,11,field,0,1,0,by wickets,6,11,187,497,499,Ranchi,India
+734036,23-May-14,7,6,7,Wankhede Stadium,6,field,0,1,0,by runs,15,7,19,489,518,Mumbai,India
+734038,23-May-14,4,5,7,"Punjab Cricket Association Stadium, Mohali",5,field,0,1,0,by runs,16,4,100,482,506,Chandigarh,India
+734040,24-May-14,2,3,7,M Chinnaswamy Stadium,3,field,0,1,0,by wickets,8,3,20,495,500,Bangalore,India
+734042,24-May-14,1,11,7,Eden Gardens,1,field,0,1,0,by wickets,4,1,31,502,497,Kolkata,India
+734044,25-May-14,4,6,7,"Punjab Cricket Association Stadium, Mohali",4,field,0,1,0,by wickets,7,4,345,482,496,Chandigarh,India
+734046,25-May-14,7,5,7,Wankhede Stadium,7,field,0,1,0,by wickets,5,7,372,503,518,Mumbai,India
+734048,27-May-14,4,1,7,Eden Gardens,4,field,0,1,0,by runs,28,1,232,500,489,Kolkata,India
+734050,28-May-14,3,7,7,Brabourne Stadium,3,field,0,1,0,by wickets,7,3,21,496,497,Mumbai,India
+734052,30-May-14,3,4,7,Wankhede Stadium,3,field,0,1,0,by runs,24,4,41,482,518,Mumbai,India
+734054,1-Jun-14,1,4,7,M Chinnaswamy Stadium,1,field,0,1,0,by wickets,3,1,96,482,497,Bangalore,India
+829710,8-Apr-15,1,7,8,Eden Gardens,1,field,0,1,0,by wickets,7,1,190,489,499,Kolkata,India
+829712,9-Apr-15,3,6,8,"MA Chidambaram Stadium, Chepauk",6,field,0,1,0,by runs,1,3,73,501,496,Chennai,India
+829714,10-Apr-15,4,5,8,Maharashtra Cricket Association Stadium,4,field,0,1,0,by runs,26,5,310,504,505,Pune,India
+829716,11-Apr-15,3,11,8,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,45,3,2,501,496,Chennai,India
+829718,11-Apr-15,1,2,8,Eden Gardens,2,field,0,1,0,by wickets,3,2,162,489,499,Kolkata,India
+829720,12-Apr-15,6,5,8,Feroz Shah Kotla,5,field,0,1,0,by wickets,3,5,394,504,505,Delhi,India
+829722,12-Apr-15,7,4,8,Wankhede Stadium,7,field,0,1,0,by runs,18,4,197,495,520,Mumbai,India
+829724,13-Apr-15,2,11,8,M Chinnaswamy Stadium,11,field,0,1,0,by wickets,8,11,187,502,501,Bangalore,India
+829726,14-Apr-15,5,7,8,"Sardar Patel Stadium, Motera",7,bat,0,1,0,by wickets,7,5,306,495,504,Ahmedabad,India
+829728,30-Apr-15,1,3,8,Eden Gardens,1,field,0,1,0,by wickets,7,1,334,495,481,Kolkata,India
+829730,15-Apr-15,4,6,8,Maharashtra Cricket Association Stadium,4,bat,0,1,0,by wickets,5,6,260,505,503,Pune,India
+829732,16-Apr-15,11,5,8,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,5,field,0,1,0,by wickets,6,5,85,506,489,Visakhapatnam,India
+829734,17-Apr-15,7,3,8,Wankhede Stadium,7,bat,0,1,0,by wickets,6,3,73,495,481,Mumbai,India
+829736,18-Apr-15,11,6,8,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,6,bat,0,1,0,by runs,4,6,154,506,489,Visakhapatnam,India
+829738,18-Apr-15,4,1,8,Maharashtra Cricket Association Stadium,1,field,0,1,0,by wickets,4,1,334,504,498,Pune,India
+829740,19-Apr-15,5,3,8,"Sardar Patel Stadium, Motera",3,bat,0,1,0,by wickets,8,5,85,495,481,Ahmedabad,India
+829742,19-Apr-15,2,7,8,M Chinnaswamy Stadium,2,field,0,1,0,by runs,18,7,50,501,496,Bangalore,India
+829744,20-Apr-15,6,1,8,Feroz Shah Kotla,1,field,0,1,0,by wickets,6,1,232,504,505,Delhi,India
+829746,21-Apr-15,5,4,8,"Sardar Patel Stadium, Motera",4,field,1,1,0,Tie,NULL,4,100,481,489,Ahmedabad,India
+829748,22-Apr-15,11,1,8,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,1,field,0,1,1,by runs,16,11,187,501,496,Visakhapatnam,India
+829750,22-Apr-15,2,3,8,M Chinnaswamy Stadium,2,field,0,1,0,by runs,27,3,21,494,499,Bangalore,India
+829752,23-Apr-15,6,7,8,Feroz Shah Kotla,7,field,0,1,0,by runs,37,6,393,504,498,Delhi,India
+829754,24-Apr-15,5,2,8,"Sardar Patel Stadium, Motera",2,field,0,1,0,by wickets,9,2,378,481,489,Ahmedabad,India
+829756,25-Apr-15,7,11,8,Wankhede Stadium,7,bat,0,1,0,by runs,20,7,194,482,505,Mumbai,India
+829758,25-Apr-15,3,4,8,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,97,3,2,494,499,Chennai,India
+829762,26-Apr-15,6,2,8,Feroz Shah Kotla,2,field,0,1,0,by wickets,10,2,296,481,489,Delhi,India
+829764,27-Apr-15,4,11,8,"Punjab Cricket Association Stadium, Mohali",4,field,0,1,0,by runs,20,11,458,482,505,Chandigarh,India
+829766,7-May-15,1,6,8,Eden Gardens,1,bat,0,1,0,by runs,13,1,67,495,481,Kolkata,India
+829768,29-Apr-15,2,5,8,M Chinnaswamy Stadium,5,field,0,0,0,No Result,NULL,,,494,506,Bangalore,India
+829770,28-Apr-15,3,1,8,"MA Chidambaram Stadium, Chepauk",1,field,0,1,0,by runs,2,3,71,502,496,Chennai,India
+829772,1-May-15,6,4,8,Feroz Shah Kotla,6,field,0,1,0,by wickets,9,6,371,501,489,Delhi,India
+829774,1-May-15,7,5,8,Wankhede Stadium,5,field,0,1,0,by runs,8,7,208,482,498,Mumbai,India
+829776,2-May-15,2,1,8,M Chinnaswamy Stadium,2,field,0,1,0,by wickets,7,2,236,494,506,Bangalore,India
+829778,2-May-15,11,3,8,"Rajiv Gandhi International Stadium, Uppal",3,field,0,1,0,by runs,22,11,187,495,520,Hyderabad,India
+829780,3-May-15,4,7,8,"Punjab Cricket Association Stadium, Mohali",7,bat,0,1,0,by runs,23,7,383,501,496,Chandigarh,India
+829782,3-May-15,5,6,8,Brabourne Stadium,6,field,0,1,0,by runs,14,5,85,482,505,Mumbai,India
+829784,4-May-15,3,2,8,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,24,3,21,499,503,Chennai,India
+829786,4-May-15,1,11,8,Eden Gardens,11,field,0,1,0,by runs,35,1,232,495,481,Kolkata,India
+829788,5-May-15,7,6,8,Wankhede Stadium,6,bat,0,1,0,by wickets,5,7,50,482,505,Mumbai,India
+829790,6-May-15,2,4,8,M Chinnaswamy Stadium,4,field,0,1,0,by runs,138,2,162,501,496,Bangalore,India
+829792,7-May-15,5,11,8,Brabourne Stadium,5,field,0,1,0,by runs,7,11,216,494,499,Mumbai,India
+829794,8-May-15,3,7,8,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by wickets,6,7,400,505,498,Chennai,India
+829796,9-May-15,1,4,8,Eden Gardens,4,bat,0,1,0,by wickets,1,1,334,495,482,Kolkata,India
+829798,9-May-15,6,11,8,Shaheed Veer Narayan Singh International Stadium,11,bat,0,1,0,by runs,6,11,163,496,489,Raipur,India
+829800,10-May-15,7,2,8,Wankhede Stadium,2,bat,0,1,0,by runs,39,2,110,494,499,Mumbai,India
+829802,10-May-15,3,5,8,"MA Chidambaram Stadium, Chepauk",3,bat,0,1,0,by runs,12,3,35,481,498,Chennai,India
+829804,11-May-15,11,4,8,"Rajiv Gandhi International Stadium, Uppal",11,bat,0,1,0,by runs,5,11,187,495,482,Hyderabad,India
+829806,12-May-15,6,3,8,Shaheed Veer Narayan Singh International Stadium,3,bat,0,1,0,by wickets,6,6,15,501,496,Raipur,India
+829808,13-May-15,4,2,8,"Punjab Cricket Association Stadium, Mohali",2,field,0,1,0,by runs,22,4,374,494,499,Chandigarh,India
+829810,14-May-15,7,1,8,Wankhede Stadium,1,field,0,1,0,by runs,5,7,400,501,496,Mumbai,India
+829812,15-May-15,11,2,8,"Rajiv Gandhi International Stadium, Uppal",11,bat,0,1,1,by wickets,6,2,8,495,482,Hyderabad,India
+829814,16-May-15,4,3,8,"Punjab Cricket Association Stadium, Mohali",4,bat,0,1,0,by wickets,7,3,322,498,499,Chandigarh,India
+829816,16-May-15,5,1,8,Brabourne Stadium,5,bat,0,1,0,by runs,9,5,32,502,501,Mumbai,India
+829818,17-May-15,2,6,8,M Chinnaswamy Stadium,2,field,0,0,0,No Result,NULL,,,482,520,Bangalore,India
+829820,17-May-15,11,7,8,"Rajiv Gandhi International Stadium, Uppal",11,bat,0,1,0,by wickets,9,7,403,505,503,Hyderabad,India
+829822,19-May-15,3,7,8,Wankhede Stadium,7,bat,0,1,0,by runs,25,7,221,482,501,Mumbai,India
+829824,20-May-15,2,5,8,Maharashtra Cricket Association Stadium,2,bat,0,1,0,by runs,71,2,110,495,499,Pune,India
+829826,22-May-15,3,2,8,JSCA International Stadium Complex,3,field,0,1,0,by wickets,3,3,73,495,505,Ranchi,India
+829828,24-May-15,7,3,8,Eden Gardens,3,field,0,1,0,by runs,41,7,57,482,501,Kolkata,India
+980906,9-Apr-16,7,12,9,Wankhede Stadium,7,bat,0,1,0,by wickets,9,12,85,482,498,Mumbai,India
+980908,10-Apr-16,1,6,9,Eden Gardens,1,field,0,1,0,by wickets,9,1,334,489,499,Kolkata,India
+980910,11-Apr-16,4,13,9,"Punjab Cricket Association IS Bindra Stadium, Mohali",13,field,0,1,0,by wickets,5,13,254,495,496,Chandigarh,India
+980912,12-Apr-16,2,11,9,M Chinnaswamy Stadium,11,field,0,1,0,by runs,45,2,110,482,521,Bangalore,India
+980914,13-Apr-16,1,7,9,Eden Gardens,7,field,0,1,0,by wickets,6,7,57,507,489,Kolkata,India
+980916,14-Apr-16,13,12,9,Saurashtra Cricket Association Stadium,12,bat,0,1,0,by wickets,7,13,254,496,498,Rajkot,India
+980918,15-Apr-16,6,4,9,Feroz Shah Kotla,6,field,0,1,0,by wickets,8,6,136,489,499,Delhi,India
+980920,16-Apr-16,11,1,9,"Rajiv Gandhi International Stadium, Uppal",11,bat,0,1,0,by wickets,8,1,40,495,498,Hyderabad,India
+980922,16-Apr-16,7,13,9,Wankhede Stadium,13,field,0,1,0,by wickets,3,13,254,482,521,Mumbai,India
+980924,17-Apr-16,4,12,9,"Punjab Cricket Association IS Bindra Stadium, Mohali",12,bat,0,1,0,by wickets,6,4,345,489,499,Chandigarh,India
+980926,17-Apr-16,2,6,9,M Chinnaswamy Stadium,6,field,0,1,0,by wickets,7,6,355,496,511,Bangalore,India
+980928,18-Apr-16,11,7,9,"Rajiv Gandhi International Stadium, Uppal",11,field,0,1,0,by wickets,7,11,187,482,521,Hyderabad,India
+980930,19-Apr-16,4,1,9,"Punjab Cricket Association IS Bindra Stadium, Mohali",1,field,0,1,0,by wickets,6,1,46,489,499,Chandigarh,India
+980932,20-Apr-16,7,2,9,Wankhede Stadium,7,field,0,1,0,by wickets,6,7,57,495,498,Mumbai,India
+980934,21-Apr-16,13,11,9,Saurashtra Cricket Association Stadium,11,field,0,1,0,by wickets,10,11,299,508,482,Rajkot,India
+980936,22-Apr-16,12,2,9,Maharashtra Cricket Association Stadium,12,field,0,1,0,by runs,13,2,110,505,521,Pune,India
+980938,23-Apr-16,6,7,9,Feroz Shah Kotla,7,field,0,1,0,by runs,10,6,351,489,499,Delhi,India
+980940,23-Apr-16,11,4,9,"Rajiv Gandhi International Stadium, Uppal",11,field,0,1,0,by wickets,5,11,460,495,498,Hyderabad,India
+980942,24-Apr-16,13,2,9,Saurashtra Cricket Association Stadium,2,bat,0,1,0,by wickets,6,13,8,508,497,Rajkot,India
+980944,24-Apr-16,12,1,9,Maharashtra Cricket Association Stadium,1,field,0,1,0,by wickets,2,1,308,505,511,Pune,India
+980946,25-Apr-16,4,7,9,"Punjab Cricket Association IS Bindra Stadium, Mohali",4,field,0,1,0,by runs,25,7,17,507,518,Chandigarh,India
+980948,26-Apr-16,11,12,9,"Rajiv Gandhi International Stadium, Uppal",12,field,0,1,1,by runs,34,12,106,509,498,Hyderabad,India
+980950,27-Apr-16,6,13,9,Feroz Shah Kotla,6,field,0,1,0,by runs,1,13,350,481,489,Delhi,India
+980952,28-Apr-16,7,1,9,Wankhede Stadium,7,field,0,1,0,by wickets,6,7,57,507,518,Mumbai,India
+980954,29-Apr-16,12,13,9,Maharashtra Cricket Association Stadium,13,field,0,1,0,by wickets,3,13,147,505,497,Pune,India
+980956,30-Apr-16,6,1,9,Feroz Shah Kotla,1,field,0,1,0,by runs,27,6,408,510,481,Delhi,India
+980958,30-Apr-16,11,2,9,"Rajiv Gandhi International Stadium, Uppal",2,field,0,1,0,by runs,15,11,187,495,482,Hyderabad,India
+980960,1-May-16,13,4,9,Saurashtra Cricket Association Stadium,13,field,0,1,0,by runs,23,4,374,497,521,Rajkot,India
+980962,1-May-16,12,7,9,Maharashtra Cricket Association Stadium,7,field,0,1,0,by wickets,8,7,57,509,518,Pune,India
+980964,2-May-16,2,1,9,M Chinnaswamy Stadium,1,field,0,1,0,by wickets,5,1,334,481,489,Bangalore,India
+980966,3-May-16,13,6,9,Saurashtra Cricket Association Stadium,6,field,0,1,0,by wickets,8,6,420,505,497,Rajkot,India
+980968,4-May-16,1,4,9,Eden Gardens,4,field,0,1,0,by runs,7,1,334,495,482,Kolkata,India
+980970,5-May-16,6,12,9,Feroz Shah Kotla,12,field,0,1,0,by wickets,7,12,85,499,518,Delhi,India
+980972,6-May-16,11,13,9,"Rajiv Gandhi International Stadium, Uppal",11,field,0,1,0,by wickets,5,11,299,481,489,Hyderabad,India
+980974,7-May-16,2,12,9,M Chinnaswamy Stadium,2,field,0,1,0,by wickets,7,2,8,505,497,Bangalore,India
+980976,7-May-16,4,6,9,"Punjab Cricket Association IS Bindra Stadium, Mohali",6,field,0,1,0,by runs,9,4,409,482,498,Chandigarh,India
+980978,8-May-16,7,11,9,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,7,field,0,1,0,by runs,85,11,73,489,499,Visakhapatnam,India
+980980,8-May-16,1,13,9,Eden Gardens,13,field,0,1,0,by wickets,5,13,14,481,518,Kolkata,India
+980982,9-May-16,4,2,9,"Punjab Cricket Association IS Bindra Stadium, Mohali",4,field,0,1,0,by runs,1,2,32,495,482,Chandigarh,India
+980984,10-May-16,12,11,9,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,11,bat,0,1,0,by runs,4,11,430,505,521,Visakhapatnam,India
+980986,11-May-16,2,7,9,M Chinnaswamy Stadium,7,field,0,1,0,by wickets,6,7,413,509,499,Bangalore,India
+980988,12-May-16,11,6,9,"Rajiv Gandhi International Stadium, Uppal",6,field,0,1,0,by wickets,7,6,350,508,481,Hyderabad,India
+980990,13-May-16,7,4,9,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,7,bat,0,1,0,by wickets,7,4,409,482,498,Visakhapatnam,India
+980992,14-May-16,2,13,9,M Chinnaswamy Stadium,13,field,0,1,0,by runs,144,2,110,509,521,Bangalore,India
+980994,14-May-16,1,12,9,Eden Gardens,12,bat,0,1,1,by wickets,8,1,31,511,497,Kolkata,India
+980996,15-May-16,4,11,9,"Punjab Cricket Association IS Bindra Stadium, Mohali",4,bat,0,1,0,by wickets,7,11,427,510,481,Chandigarh,India
+980998,15-May-16,7,6,9,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,6,field,0,1,0,by runs,80,7,413,507,498,Visakhapatnam,India
+981000,16-May-16,1,2,9,Eden Gardens,2,field,0,1,0,by wickets,9,2,8,505,511,Kolkata,India
+981002,17-May-16,12,6,9,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,12,field,0,1,1,by runs,19,12,106,507,499,Visakhapatnam,India
+981004,18-May-16,2,4,9,M Chinnaswamy Stadium,4,field,0,1,1,by runs,82,2,8,510,481,Bangalore,India
+981006,19-May-16,13,1,9,Green Park,13,field,0,1,0,by wickets,6,13,147,495,498,Kanpur,India
+981008,20-May-16,6,11,9,Shaheed Veer Narayan Singh International Stadium,6,field,0,1,0,by wickets,6,6,339,511,497,Raipur,India
+981010,21-May-16,12,4,9,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,4,bat,0,1,0,by wickets,4,12,20,482,507,Visakhapatnam,India
+981012,21-May-16,13,7,9,Green Park,13,field,0,1,0,by wickets,6,13,21,495,498,Kanpur,India
+981014,22-May-16,1,11,9,Eden Gardens,11,field,0,1,0,by runs,22,1,31,510,481,Kolkata,India
+981016,22-May-16,6,2,9,Shaheed Veer Narayan Singh International Stadium,2,field,0,1,0,by wickets,6,2,8,511,497,Raipur,India
+981018,24-May-16,13,2,9,M Chinnaswamy Stadium,2,field,0,1,0,by wickets,4,2,110,495,482,Bangalore,India
+981020,25-May-16,11,1,9,Feroz Shah Kotla,1,field,0,1,0,by runs,22,11,163,481,499,Delhi,India
+981022,27-May-16,13,11,9,Feroz Shah Kotla,11,field,0,1,0,by wickets,4,11,187,481,498,Delhi,India
+981024,29-May-16,2,11,9,M Chinnaswamy Stadium,11,bat,0,1,0,by runs,8,11,385,482,497,Bangalore,India

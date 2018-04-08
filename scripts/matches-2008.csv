@@ -1,0 +1,59 @@
+Match_Date,Team_Name,Opponent_Team,Match_Winner,Win_Type,Won_By
+18-Apr-08,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,by runs,140.0
+19-Apr-08,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,by runs,33.0
+19-Apr-08,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,by wickets,9.0
+20-Apr-08,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,by wickets,5.0
+20-Apr-08,Kolkata Knight Riders,Kochi Tuskers Kerala,Kolkata Knight Riders,by wickets,5.0
+21-Apr-08,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,by wickets,6.0
+22-Apr-08,Kochi Tuskers Kerala,Delhi Daredevils,Delhi Daredevils,by wickets,9.0
+23-Apr-08,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,by runs,6.0
+24-Apr-08,Kochi Tuskers Kerala,Rajasthan Royals,Rajasthan Royals,by wickets,3.0
+25-Apr-08,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,by runs,66.0
+26-Apr-08,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,by wickets,7.0
+26-Apr-08,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,by wickets,9.0
+27-Apr-08,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,by wickets,10.0
+27-Apr-08,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,by wickets,4.0
+28-Apr-08,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,by runs,13.0
+29-Apr-08,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,by wickets,7.0
+30-Apr-08,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,by runs,10.0
+1-May-08,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,by wickets,7.0
+1-May-08,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,by runs,45.0
+2-May-08,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,by wickets,8.0
+25-May-08,Kochi Tuskers Kerala,Royal Challengers Bangalore,Royal Challengers Bangalore,by wickets,5.0
+3-May-08,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,by runs,9.0
+4-May-08,Mumbai Indians,Delhi Daredevils,Mumbai Indians,by runs,29.0
+4-May-08,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,by wickets,8.0
+5-May-08,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,by wickets,6.0
+6-May-08,Chennai Super Kings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,by wickets,7.0
+7-May-08,Mumbai Indians,Rajasthan Royals,Mumbai Indians,by wickets,7.0
+8-May-08,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,by wickets,4.0
+8-May-08,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,by runs,5.0
+9-May-08,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,by wickets,8.0
+28-May-08,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,by wickets,9.0
+10-May-08,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,by runs,18.0
+11-May-08,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,by runs,23.0
+11-May-08,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,by wickets,3.0
+12-May-08,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,by wickets,9.0
+13-May-08,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,by runs,23.0
+14-May-08,Mumbai Indians,Chennai Super Kings,Mumbai Indians,by wickets,9.0
+28-May-08,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,by runs,41.0
+15-May-08,Delhi Daredevils,Kochi Tuskers Kerala,Delhi Daredevils,by runs,12.0
+16-May-08,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,by wickets,8.0
+17-May-08,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,by runs,6.0
+17-May-08,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,by runs,65.0
+18-May-08,Kochi Tuskers Kerala,Mumbai Indians,Mumbai Indians,by runs,25.0
+18-May-08,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,by runs,3.0
+19-May-08,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,by wickets,5.0
+20-May-08,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,by wickets,6.0
+21-May-08,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,by runs,1.0
+21-May-08,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,by runs,14.0
+23-May-08,Kings XI Punjab,Kochi Tuskers Kerala,Kings XI Punjab,by wickets,6.0
+24-May-08,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,by wickets,5.0
+24-May-08,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,by runs,10.0
+3-May-08,Royal Challengers Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,by runs,3.0
+25-May-08,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,by wickets,3.0
+26-May-08,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,by wickets,5.0
+27-May-08,Kochi Tuskers Kerala,Chennai Super Kings,Chennai Super Kings,by wickets,7.0
+30-May-08,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,by runs,105.0
+31-May-08,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,by wickets,9.0
+1-Jun-08,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,by wickets,3.0

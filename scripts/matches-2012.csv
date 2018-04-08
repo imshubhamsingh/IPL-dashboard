@@ -1,0 +1,75 @@
+Match_Date,Team_Name,Opponent_Team,Match_Winner,Win_Type,Won_By
+4-Apr-12,Chennai Super Kings,Mumbai Indians,Mumbai Indians,by wickets,8.0
+5-Apr-12,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,by wickets,8.0
+6-Apr-12,Mumbai Indians,Pune Warriors,Pune Warriors,by runs,28.0
+6-Apr-12,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,by runs,31.0
+7-Apr-12,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,by runs,20.0
+7-Apr-12,Kochi Tuskers Kerala,Chennai Super Kings,Chennai Super Kings,by runs,74.0
+8-Apr-12,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,by runs,22.0
+8-Apr-12,Pune Warriors,Kings XI Punjab,Pune Warriors,by runs,22.0
+9-Apr-12,Kochi Tuskers Kerala,Mumbai Indians,Mumbai Indians,by wickets,5.0
+10-Apr-12,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,by runs,42.0
+10-Apr-12,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,by wickets,8.0
+11-Apr-12,Mumbai Indians,Rajasthan Royals,Mumbai Indians,by runs,27.0
+12-Apr-12,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,by wickets,5.0
+12-Apr-12,Kings XI Punjab,Pune Warriors,Kings XI Punjab,by wickets,7.0
+13-Apr-12,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,by wickets,5.0
+19-Apr-12,Delhi Daredevils,Kochi Tuskers Kerala,Delhi Daredevils,by wickets,5.0
+14-Apr-12,Pune Warriors,Chennai Super Kings,Pune Warriors,by wickets,7.0
+15-Apr-12,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,by runs,2.0
+15-Apr-12,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,by runs,59.0
+16-Apr-12,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,by wickets,7.0
+17-Apr-12,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,by wickets,5.0
+17-Apr-12,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,by wickets,6.0
+18-Apr-12,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,by wickets,8.0
+10-May-12,Kochi Tuskers Kerala,Delhi Daredevils,Delhi Daredevils,by wickets,9.0
+19-Apr-12,Chennai Super Kings,Pune Warriors,Chennai Super Kings,by runs,13.0
+20-Apr-12,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,by wickets,5.0
+21-Apr-12,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,by wickets,7.0
+21-Apr-12,Delhi Daredevils,Pune Warriors,Pune Warriors,by runs,20.0
+22-Apr-12,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,by wickets,6.0
+22-Apr-12,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,by wickets,5.0
+23-Apr-12,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,by runs,46.0
+24-Apr-12,Pune Warriors,Delhi Daredevils,Delhi Daredevils,by wickets,8.0
+25-Apr-12,Kings XI Punjab,Mumbai Indians,Mumbai Indians,by wickets,4.0
+26-Apr-12,Pune Warriors,Kochi Tuskers Kerala,Kochi Tuskers Kerala,by runs,18.0
+27-Apr-12,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,by runs,37.0
+28-Apr-12,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,by runs,7.0
+28-Apr-12,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,by runs,47.0
+29-Apr-12,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,by runs,1.0
+29-Apr-12,Mumbai Indians,Kochi Tuskers Kerala,Mumbai Indians,by wickets,5.0
+30-Apr-12,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,by wickets,5.0
+1-May-12,Kochi Tuskers Kerala,Pune Warriors,Kochi Tuskers Kerala,by runs,13.0
+1-May-12,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,by wickets,6.0
+2-May-12,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,by wickets,4.0
+3-May-12,Pune Warriors,Mumbai Indians,Mumbai Indians,by runs,1.0
+4-May-12,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,by runs,10.0
+5-May-12,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,by runs,7.0
+5-May-12,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,by runs,43.0
+6-May-12,Mumbai Indians,Chennai Super Kings,Mumbai Indians,by wickets,2.0
+6-May-12,Royal Challengers Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,by wickets,5.0
+7-May-12,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,by wickets,6.0
+8-May-12,Pune Warriors,Rajasthan Royals,Rajasthan Royals,by wickets,7.0
+8-May-12,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,by runs,25.0
+9-May-12,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,by wickets,9.0
+10-May-12,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,by wickets,4.0
+11-May-12,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,by runs,35.0
+12-May-12,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,by runs,27.0
+12-May-12,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,by wickets,9.0
+13-May-12,Rajasthan Royals,Pune Warriors,Rajasthan Royals,by runs,45.0
+13-May-12,Kings XI Punjab,Kochi Tuskers Kerala,Kings XI Punjab,by wickets,4.0
+14-May-12,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,by wickets,5.0
+14-May-12,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,by wickets,5.0
+15-May-12,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,by wickets,5.0
+16-May-12,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,by runs,32.0
+17-May-12,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,by wickets,6.0
+17-May-12,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,by runs,21.0
+18-May-12,Kochi Tuskers Kerala,Rajasthan Royals,Kochi Tuskers Kerala,by wickets,5.0
+19-May-12,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,by wickets,6.0
+19-May-12,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,by runs,34.0
+20-May-12,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,by runs,9.0
+20-May-12,Rajasthan Royals,Mumbai Indians,Mumbai Indians,by wickets,10.0
+22-May-12,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,by runs,18.0
+23-May-12,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,by runs,38.0
+25-May-12,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,by runs,86.0
+27-May-12,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,by wickets,5.0

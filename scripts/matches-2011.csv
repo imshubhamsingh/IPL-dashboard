@@ -1,0 +1,74 @@
+Match_Date,Team_Name,Opponent_Team,Match_Winner,Win_Type,Won_By
+8-Apr-11,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,by runs,2.0
+9-Apr-11,Kochi Tuskers Kerala,Rajasthan Royals,Rajasthan Royals,by wickets,8.0
+9-Apr-11,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,by wickets,6.0
+10-Apr-11,Delhi Daredevils,Mumbai Indians,Mumbai Indians,by wickets,8.0
+10-Apr-11,Pune Warriors,Kings XI Punjab,Pune Warriors,by wickets,7.0
+11-Apr-11,Kolkata Knight Riders,Kochi Tuskers Kerala,Kolkata Knight Riders,by runs,9.0
+12-Apr-11,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,by wickets,6.0
+12-Apr-11,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,by wickets,9.0
+13-Apr-11,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,by wickets,6.0
+13-Apr-11,Pune Warriors,Deccan Chargers,Pune Warriors,by wickets,4.0
+14-Apr-11,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,by runs,33.0
+15-Apr-11,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,by wickets,9.0
+15-Apr-11,Mumbai Indians,Deccan Chargers,Deccan Chargers,by wickets,8.0
+16-Apr-11,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,by runs,21.0
+16-Apr-11,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,by wickets,8.0
+17-Apr-11,Pune Warriors,Delhi Daredevils,Delhi Daredevils,by wickets,3.0
+17-Apr-11,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,by wickets,8.0
+18-Apr-11,Deccan Chargers,Chennai Super Kings,Deccan Chargers,by wickets,7.0
+19-Apr-11,Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,by runs,16.0
+20-Apr-11,Mumbai Indians,Pune Warriors,Mumbai Indians,by wickets,7.0
+20-Apr-11,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,by runs,6.0
+21-Apr-11,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,by runs,48.0
+22-Apr-11,Mumbai Indians,Chennai Super Kings,Mumbai Indians,by runs,8.0
+22-Apr-11,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,by wickets,9.0
+23-Apr-11,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,by runs,29.0
+24-Apr-11,Kochi Tuskers Kerala,Mumbai Indians,Mumbai Indians,by runs,37.0
+24-Apr-11,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,by wickets,8.0
+25-Apr-11,Chennai Super Kings,Pune Warriors,Chennai Super Kings,by runs,25.0
+26-Apr-11,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,by wickets,3.0
+27-Apr-11,Pune Warriors,Chennai Super Kings,Chennai Super Kings,by wickets,8.0
+27-Apr-11,Deccan Chargers,Kochi Tuskers Kerala,Kochi Tuskers Kerala,by runs,55.0
+28-Apr-11,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,by runs,17.0
+29-Apr-11,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,by wickets,7.0
+29-Apr-11,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,by runs,26.0
+30-Apr-11,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,by runs,38.0
+30-Apr-11,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,by wickets,8.0
+1-May-11,Rajasthan Royals,Pune Warriors,Rajasthan Royals,by wickets,6.0
+1-May-11,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,by runs,19.0
+2-May-11,Mumbai Indians,Kings XI Punjab,Mumbai Indians,by runs,23.0
+2-May-11,Delhi Daredevils,Deccan Chargers,Deccan Chargers,by wickets,7.0
+3-May-11,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,by runs,20.0
+4-May-11,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,by wickets,8.0
+4-May-11,Pune Warriors,Mumbai Indians,Mumbai Indians,by runs,21.0
+5-May-11,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,by runs,17.0
+5-May-11,Kochi Tuskers Kerala,Delhi Daredevils,Delhi Daredevils,by wickets,4.0
+6-May-11,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,by runs,85.0
+7-May-11,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,by runs,10.0
+7-May-11,Mumbai Indians,Delhi Daredevils,Mumbai Indians,by runs,32.0
+8-May-11,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,by wickets,9.0
+8-May-11,Kings XI Punjab,Pune Warriors,Pune Warriors,by wickets,5.0
+9-May-11,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,by runs,63.0
+10-May-11,Kochi Tuskers Kerala,Pune Warriors,Pune Warriors,by wickets,6.0
+10-May-11,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,by runs,76.0
+11-May-11,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,by wickets,9.0
+12-May-11,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,by runs,18.0
+13-May-11,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,by wickets,6.0
+14-May-11,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,by wickets,4.0
+14-May-11,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,by runs,10.0
+15-May-11,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,by runs,29.0
+15-May-11,Deccan Chargers,Rajasthan Royals,Deccan Chargers,by wickets,8.0
+16-May-11,Pune Warriors,Kochi Tuskers Kerala,Kochi Tuskers Kerala,by wickets,6.0
+17-May-11,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,by runs,111.0
+18-May-11,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,by runs,11.0
+19-May-11,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,by wickets,7.0
+20-May-11,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,by wickets,10.0
+21-May-11,Kings XI Punjab,Kochi Tuskers Kerala,Kochi Tuskers Kerala,by runs,82.0
+21-May-11,Delhi Daredevils,Pune Warriors,,No Result,
+22-May-11,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,by wickets,8.0
+22-May-11,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,by wickets,5.0
+24-May-11,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,by wickets,6.0
+25-May-11,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,by wickets,4.0
+27-May-11,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,by runs,43.0
+28-May-11,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,by runs,58.0

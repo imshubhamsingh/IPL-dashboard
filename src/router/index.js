@@ -40,7 +40,7 @@ export default new Router({
           children: [
             { path: '', component: TeamsView },
             { path: '/bowlers', component: BowlersView },
-            { path: '/batsmen', component: BatsmenView }
+            { path: '/batsmen', component: BatsmenView },
           ]
         },
         {
@@ -54,7 +54,8 @@ export default new Router({
               next('/');
             }
           }
-        }
+        },
+        { path: '*', redirect: '/' }
       ]
     },
     {
