@@ -601,7 +601,473 @@
         "sixes": 31
       }
     },
-    "season_result": ["Rajasthan Royals", "Chennai Super Kings"]
+    "season_result": ["Rajasthan Royals", "Chennai Super Kings"],
+    "match_details": [
+      {
+        "Match_Date": "18-Apr-08",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 140
+      },
+      {
+        "Match_Date": "19-Apr-08",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 33
+      },
+      {
+        "Match_Date": "19-Apr-08",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "20-Apr-08",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "20-Apr-08",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "21-Apr-08",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "22-Apr-08",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "23-Apr-08",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "24-Apr-08",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "25-Apr-08",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 66
+      },
+      {
+        "Match_Date": "26-Apr-08",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "26-Apr-08",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "27-Apr-08",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by wickets",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "27-Apr-08",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "28-Apr-08",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 13
+      },
+      {
+        "Match_Date": "29-Apr-08",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "30-Apr-08",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "1-May-08",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "1-May-08",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 45
+      },
+      {
+        "Match_Date": "2-May-08",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "25-May-08",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "3-May-08",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "4-May-08",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 29
+      },
+      {
+        "Match_Date": "4-May-08",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "5-May-08",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "6-May-08",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "7-May-08",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "8-May-08",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "8-May-08",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "9-May-08",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "28-May-08",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "10-May-08",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 18
+      },
+      {
+        "Match_Date": "11-May-08",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 23
+      },
+      {
+        "Match_Date": "11-May-08",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "12-May-08",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "13-May-08",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 23
+      },
+      {
+        "Match_Date": "14-May-08",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "28-May-08",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 41
+      },
+      {
+        "Match_Date": "15-May-08",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 12
+      },
+      {
+        "Match_Date": "16-May-08",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "17-May-08",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "17-May-08",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 65
+      },
+      {
+        "Match_Date": "18-May-08",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 25
+      },
+      {
+        "Match_Date": "18-May-08",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "19-May-08",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "20-May-08",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "21-May-08",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 1
+      },
+      {
+        "Match_Date": "21-May-08",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 14
+      },
+      {
+        "Match_Date": "23-May-08",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "24-May-08",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "24-May-08",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "3-May-08",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "25-May-08",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "26-May-08",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "27-May-08",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "30-May-08",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 105
+      },
+      {
+        "Match_Date": "31-May-08",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "1-Jun-08",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      }
+    ]
   },
   { "year": 2009,
     "backgroundColor": "linear-gradient( 135deg, #43CBFF 10%, #9708CC 100%)",
@@ -1195,7 +1661,466 @@
         "sixes": 29
       }
     },
-    "season_result": ["Deccan Chargers", "Royal Challengers Bangalore"]
+    "season_result": ["Deccan Chargers", "Royal Challengers Bangalore"],
+    "match_details": [
+      {
+        "Match_Date": "18-Apr-09",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 19
+      },
+      {
+        "Match_Date": "18-Apr-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 75
+      },
+      {
+        "Match_Date": "19-Apr-09",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "19-Apr-09",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "20-Apr-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 92
+      },
+      {
+        "Match_Date": "21-Apr-09",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 11
+      },
+      {
+        "Match_Date": "22-Apr-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 24
+      },
+      {
+        "Match_Date": "23-Apr-09",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "23-Apr-09",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "Tie",
+        "Won_By": ""
+      },
+      {
+        "Match_Date": "24-Apr-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "25-Apr-09",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 12
+      },
+      {
+        "Match_Date": "26-Apr-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "26-Apr-09",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 27
+      },
+      {
+        "Match_Date": "27-Apr-09",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "27-Apr-09",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 92
+      },
+      {
+        "Match_Date": "28-Apr-09",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "29-Apr-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "29-Apr-09",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "30-Apr-09",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "30-Apr-09",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 38
+      },
+      {
+        "Match_Date": "1-May-09",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "1-May-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "2-May-09",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "2-May-09",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 18
+      },
+      {
+        "Match_Date": "3-May-09",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "3-May-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "4-May-09",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 78
+      },
+      {
+        "Match_Date": "5-May-09",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 78
+      },
+      {
+        "Match_Date": "5-May-09",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "6-May-09",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 19
+      },
+      {
+        "Match_Date": "7-May-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "7-May-09",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 12
+      },
+      {
+        "Match_Date": "8-May-09",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "9-May-09",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "9-May-09",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "10-May-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 16
+      },
+      {
+        "Match_Date": "10-May-09",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "11-May-09",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 53
+      },
+      {
+        "Match_Date": "12-May-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "12-May-09",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "13-May-09",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 12
+      },
+      {
+        "Match_Date": "14-May-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 2
+      },
+      {
+        "Match_Date": "14-May-09",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 2
+      },
+      {
+        "Match_Date": "15-May-09",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "16-May-09",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "16-May-09",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "17-May-09",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 1
+      },
+      {
+        "Match_Date": "17-May-09",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 14
+      },
+      {
+        "Match_Date": "18-May-09",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "19-May-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "20-May-09",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "20-May-09",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 24
+      },
+      {
+        "Match_Date": "21-May-09",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "21-May-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 12
+      },
+      {
+        "Match_Date": "22-May-09",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "23-May-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "24-May-09",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 6
+      }
+    ]
+
   },
   { "year": 2010,
     "backgroundColor": "linear-gradient( 135deg, #5EFCE8 10%, #736EFE 100%)",
@@ -1819,7 +2744,489 @@
         "sixes": 27
       }
     },
-    "season_result": ["Chennai Super Kings", "Mumbai Indians"]
+    "season_result": ["Chennai Super Kings", "Mumbai Indians"],
+    "match_details": [
+      {
+        "Match_Date": "12-Mar-10",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 11
+      },
+      {
+        "Match_Date": "13-Mar-10",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "13-Mar-10",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "14-Mar-10",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "14-Mar-10",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 31
+      },
+      {
+        "Match_Date": "15-Mar-10",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "16-Mar-10",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "16-Mar-10",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 55
+      },
+      {
+        "Match_Date": "17-Mar-10",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 98
+      },
+      {
+        "Match_Date": "18-Mar-10",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "19-Mar-10",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "19-Mar-10",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "20-Mar-10",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 34
+      },
+      {
+        "Match_Date": "20-Mar-10",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "21-Mar-10",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "21-Mar-10",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "Tie",
+        "Won_By": ""
+      },
+      {
+        "Match_Date": "22-Mar-10",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "23-Mar-10",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 36
+      },
+      {
+        "Match_Date": "24-Mar-10",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 31
+      },
+      {
+        "Match_Date": "25-Mar-10",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "26-Mar-10",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "27-Mar-10",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 39
+      },
+      {
+        "Match_Date": "25-Mar-10",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 17
+      },
+      {
+        "Match_Date": "28-Mar-10",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 17
+      },
+      {
+        "Match_Date": "28-Mar-10",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 41
+      },
+      {
+        "Match_Date": "29-Mar-10",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 40
+      },
+      {
+        "Match_Date": "30-Mar-10",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "31-Mar-10",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "31-Mar-10",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 67
+      },
+      {
+        "Match_Date": "1-Apr-10",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 24
+      },
+      {
+        "Match_Date": "2-Apr-10",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "3-Apr-10",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 23
+      },
+      {
+        "Match_Date": "3-Apr-10",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 63
+      },
+      {
+        "Match_Date": "4-Apr-10",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "4-Apr-10",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 37
+      },
+      {
+        "Match_Date": "5-Apr-10",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 2
+      },
+      {
+        "Match_Date": "6-Apr-10",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 24
+      },
+      {
+        "Match_Date": "7-Apr-10",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "7-Apr-10",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 14
+      },
+      {
+        "Match_Date": "8-Apr-10",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "9-Apr-10",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "10-Apr-10",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "10-Apr-10",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "11-Apr-10",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "11-Apr-10",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 37
+      },
+      {
+        "Match_Date": "12-Apr-10",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 13
+      },
+      {
+        "Match_Date": "13-Apr-10",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 39
+      },
+      {
+        "Match_Date": "13-Apr-10",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "14-Apr-10",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "15-Apr-10",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "16-Apr-10",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "17-Apr-10",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 57
+      },
+      {
+        "Match_Date": "17-Apr-10",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "18-Apr-10",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "18-Apr-10",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 11
+      },
+      {
+        "Match_Date": "19-Apr-10",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "21-Apr-10",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 35
+      },
+      {
+        "Match_Date": "22-Apr-10",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 38
+      },
+      {
+        "Match_Date": "24-Apr-10",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "25-Apr-10",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 22
+      }
+    ]
   },
   { "year": 2011,
     "backgroundColor": "linear-gradient( 135deg, #52E5E7 10%, #130CB7 100%)",
@@ -2573,7 +3980,593 @@
         "sixes": 44
       }
     },
-    "season_result": ["Chennai Super Kings", "Royal Challengers Bangalore"]
+    "season_result": ["Chennai Super Kings", "Royal Challengers Bangalore"],
+    "match_details": [
+      {
+        "Match_Date": "8-Apr-11",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 2
+      },
+      {
+        "Match_Date": "9-Apr-11",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "9-Apr-11",
+        "Team_Name": "Deccan Chargers",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "10-Apr-11",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "10-Apr-11",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Pune Warriors",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "11-Apr-11",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "12-Apr-11",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "12-Apr-11",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "13-Apr-11",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "13-Apr-11",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Deccan Chargers",
+        "Match_Winner": "Pune Warriors",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "14-Apr-11",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 33
+      },
+      {
+        "Match_Date": "15-Apr-11",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "15-Apr-11",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Deccan Chargers",
+        "Match_Winner": "Deccan Chargers",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "16-Apr-11",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 21
+      },
+      {
+        "Match_Date": "16-Apr-11",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "17-Apr-11",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "17-Apr-11",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "18-Apr-11",
+        "Team_Name": "Deccan Chargers",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Deccan Chargers",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "19-Apr-11",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 16
+      },
+      {
+        "Match_Date": "20-Apr-11",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "20-Apr-11",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Deccan Chargers",
+        "Match_Winner": "Deccan Chargers",
+        "Win_Type": "by runs",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "21-Apr-11",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 48
+      },
+      {
+        "Match_Date": "22-Apr-11",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "22-Apr-11",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "23-Apr-11",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 29
+      },
+      {
+        "Match_Date": "24-Apr-11",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 37
+      },
+      {
+        "Match_Date": "24-Apr-11",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Deccan Chargers",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "25-Apr-11",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 25
+      },
+      {
+        "Match_Date": "26-Apr-11",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "27-Apr-11",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "27-Apr-11",
+        "Team_Name": "Deccan Chargers",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 55
+      },
+      {
+        "Match_Date": "28-Apr-11",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 17
+      },
+      {
+        "Match_Date": "29-Apr-11",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "29-Apr-11",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 26
+      },
+      {
+        "Match_Date": "30-Apr-11",
+        "Team_Name": "Deccan Chargers",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 38
+      },
+      {
+        "Match_Date": "30-Apr-11",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "1-May-11",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "1-May-11",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 19
+      },
+      {
+        "Match_Date": "2-May-11",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 23
+      },
+      {
+        "Match_Date": "2-May-11",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Deccan Chargers",
+        "Match_Winner": "Deccan Chargers",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "3-May-11",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 20
+      },
+      {
+        "Match_Date": "4-May-11",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "4-May-11",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 21
+      },
+      {
+        "Match_Date": "5-May-11",
+        "Team_Name": "Deccan Chargers",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Deccan Chargers",
+        "Win_Type": "by runs",
+        "Won_By": 17
+      },
+      {
+        "Match_Date": "5-May-11",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "6-May-11",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 85
+      },
+      {
+        "Match_Date": "7-May-11",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "7-May-11",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 32
+      },
+      {
+        "Match_Date": "8-May-11",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Deccan Chargers",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "8-May-11",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Pune Warriors",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "9-May-11",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 63
+      },
+      {
+        "Match_Date": "10-May-11",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Pune Warriors",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "10-May-11",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 76
+      },
+      {
+        "Match_Date": "11-May-11",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "12-May-11",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 18
+      },
+      {
+        "Match_Date": "13-May-11",
+        "Team_Name": "Deccan Chargers",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "14-May-11",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "14-May-11",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "15-May-11",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 29
+      },
+      {
+        "Match_Date": "15-May-11",
+        "Team_Name": "Deccan Chargers",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Deccan Chargers",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "16-May-11",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "17-May-11",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 111
+      },
+      {
+        "Match_Date": "18-May-11",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Deccan Chargers",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 11
+      },
+      {
+        "Match_Date": "19-May-11",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "20-May-11",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "21-May-11",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 82
+      },
+      {
+        "Match_Date": "21-May-11",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "",
+        "Win_Type": "No Result",
+        "Won_By": ""
+      },
+      {
+        "Match_Date": "22-May-11",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "22-May-11",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "24-May-11",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "25-May-11",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "27-May-11",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 43
+      },
+      {
+        "Match_Date": "28-May-11",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 58
+      }
+    ]
   },
   { "year": 2012,
     "backgroundColor": "linear-gradient( 135deg, #FDD819 10%, #E80505 100%)",
@@ -3337,7 +5330,601 @@
         "sixes": 59
       }
     },
-    "season_result": ["Kolkata Knight Riders", "Chennai Super Kings"]
+    "season_result": ["Kolkata Knight Riders", "Chennai Super Kings"],
+    "match_details": [
+      {
+        "Match_Date": "4-Apr-12",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "5-Apr-12",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "6-Apr-12",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Pune Warriors",
+        "Win_Type": "by runs",
+        "Won_By": 28
+      },
+      {
+        "Match_Date": "6-Apr-12",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 31
+      },
+      {
+        "Match_Date": "7-Apr-12",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 20
+      },
+      {
+        "Match_Date": "7-Apr-12",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 74
+      },
+      {
+        "Match_Date": "8-Apr-12",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 22
+      },
+      {
+        "Match_Date": "8-Apr-12",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Pune Warriors",
+        "Win_Type": "by runs",
+        "Won_By": 22
+      },
+      {
+        "Match_Date": "9-Apr-12",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "10-Apr-12",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 42
+      },
+      {
+        "Match_Date": "10-Apr-12",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "11-Apr-12",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 27
+      },
+      {
+        "Match_Date": "12-Apr-12",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "12-Apr-12",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "13-Apr-12",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "19-Apr-12",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "14-Apr-12",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Pune Warriors",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "15-Apr-12",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 2
+      },
+      {
+        "Match_Date": "15-Apr-12",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 59
+      },
+      {
+        "Match_Date": "16-Apr-12",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "17-Apr-12",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "17-Apr-12",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "18-Apr-12",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "10-May-12",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "19-Apr-12",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 13
+      },
+      {
+        "Match_Date": "20-Apr-12",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "21-Apr-12",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "21-Apr-12",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Pune Warriors",
+        "Win_Type": "by runs",
+        "Won_By": 20
+      },
+      {
+        "Match_Date": "22-Apr-12",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "22-Apr-12",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "23-Apr-12",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 46
+      },
+      {
+        "Match_Date": "24-Apr-12",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "25-Apr-12",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "26-Apr-12",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 18
+      },
+      {
+        "Match_Date": "27-Apr-12",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 37
+      },
+      {
+        "Match_Date": "28-Apr-12",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "28-Apr-12",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 47
+      },
+      {
+        "Match_Date": "29-Apr-12",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 1
+      },
+      {
+        "Match_Date": "29-Apr-12",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "30-Apr-12",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "1-May-12",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 13
+      },
+      {
+        "Match_Date": "1-May-12",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "2-May-12",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "3-May-12",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 1
+      },
+      {
+        "Match_Date": "4-May-12",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "5-May-12",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "5-May-12",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 43
+      },
+      {
+        "Match_Date": "6-May-12",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 2
+      },
+      {
+        "Match_Date": "6-May-12",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "7-May-12",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "8-May-12",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "8-May-12",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 25
+      },
+      {
+        "Match_Date": "9-May-12",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "10-May-12",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "11-May-12",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 35
+      },
+      {
+        "Match_Date": "12-May-12",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 27
+      },
+      {
+        "Match_Date": "12-May-12",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "13-May-12",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 45
+      },
+      {
+        "Match_Date": "13-May-12",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kochi Tuskers Kerala",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "14-May-12",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "14-May-12",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "15-May-12",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "16-May-12",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 32
+      },
+      {
+        "Match_Date": "17-May-12",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "17-May-12",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 21
+      },
+      {
+        "Match_Date": "18-May-12",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "19-May-12",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "19-May-12",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 34
+      },
+      {
+        "Match_Date": "20-May-12",
+        "Team_Name": "Kochi Tuskers Kerala",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Kochi Tuskers Kerala",
+        "Win_Type": "by runs",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "20-May-12",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "22-May-12",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 18
+      },
+      {
+        "Match_Date": "23-May-12",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 38
+      },
+      {
+        "Match_Date": "25-May-12",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 86
+      },
+      {
+        "Match_Date": "27-May-12",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      }
+    ]
   },
   { "year": 2013,
     "backgroundColor": "linear-gradient( 135deg, #FF7AF5 10%, #513162 100%)",
@@ -4121,7 +6708,617 @@
         "sixes": 51
       }
     },
-    "season_result": ["Mumbai Indians", "Chennai Super Kings"]
+    "season_result": ["Mumbai Indians", "Chennai Super Kings"],
+    "match_details": [
+      {
+        "Match_Date": "3-Apr-13",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "4-Apr-13",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 2
+      },
+      {
+        "Match_Date": "5-Apr-13",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 22
+      },
+      {
+        "Match_Date": "6-Apr-13",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "6-Apr-13",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "7-Apr-13",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "7-Apr-13",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "Tie",
+        "Won_By": ""
+      },
+      {
+        "Match_Date": "8-Apr-13",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 19
+      },
+      {
+        "Match_Date": "9-Apr-13",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 44
+      },
+      {
+        "Match_Date": "10-Apr-13",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "11-Apr-13",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "11-Apr-13",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Pune Warriors",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "12-Apr-13",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "13-Apr-13",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 41
+      },
+      {
+        "Match_Date": "13-Apr-13",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "14-Apr-13",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 48
+      },
+      {
+        "Match_Date": "14-Apr-13",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "15-Apr-13",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Pune Warriors",
+        "Win_Type": "by runs",
+        "Won_By": 24
+      },
+      {
+        "Match_Date": "16-Apr-13",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "16-Apr-13",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "Tie",
+        "Won_By": ""
+      },
+      {
+        "Match_Date": "17-Apr-13",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 11
+      },
+      {
+        "Match_Date": "17-Apr-13",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 87
+      },
+      {
+        "Match_Date": "18-Apr-13",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 86
+      },
+      {
+        "Match_Date": "19-Apr-13",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "20-Apr-13",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "20-Apr-13",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "21-Apr-13",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "21-Apr-13",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "22-Apr-13",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "23-Apr-13",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 130
+      },
+      {
+        "Match_Date": "16-May-13",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "24-Apr-13",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "25-Apr-13",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "26-Apr-13",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "27-Apr-13",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "27-Apr-13",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 58
+      },
+      {
+        "Match_Date": "28-Apr-13",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 14
+      },
+      {
+        "Match_Date": "28-Apr-13",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 15
+      },
+      {
+        "Match_Date": "29-Apr-13",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "29-Apr-13",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "30-Apr-13",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 37
+      },
+      {
+        "Match_Date": "1-May-13",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "1-May-13",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "2-May-13",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 15
+      },
+      {
+        "Match_Date": "2-May-13",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 17
+      },
+      {
+        "Match_Date": "3-May-13",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "4-May-13",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "14-May-13",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "5-May-13",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 60
+      },
+      {
+        "Match_Date": "5-May-13",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "9-Apr-13",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "7-May-13",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "7-May-13",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 65
+      },
+      {
+        "Match_Date": "8-May-13",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 77
+      },
+      {
+        "Match_Date": "9-May-13",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "9-May-13",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 46
+      },
+      {
+        "Match_Date": "10-May-13",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "11-May-13",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "11-May-13",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 30
+      },
+      {
+        "Match_Date": "12-May-13",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "12-May-13",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "23-Apr-13",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "13-May-13",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "15-May-13",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Pune Warriors",
+        "Match_Winner": "Pune Warriors",
+        "Win_Type": "by runs",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "14-May-13",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 33
+      },
+      {
+        "Match_Date": "15-May-13",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 14
+      },
+      {
+        "Match_Date": "6-May-13",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "17-May-13",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 23
+      },
+      {
+        "Match_Date": "18-May-13",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 50
+      },
+      {
+        "Match_Date": "19-May-13",
+        "Team_Name": "Pune Warriors",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Pune Warriors",
+        "Win_Type": "by runs",
+        "Won_By": 38
+      },
+      {
+        "Match_Date": "18-May-13",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 24
+      },
+      {
+        "Match_Date": "19-May-13",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "21-May-13",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 48
+      },
+      {
+        "Match_Date": "22-May-13",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "24-May-13",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "26-May-13",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 23
+      }
+    ]
   },
   { "year": 2014,
     "backgroundColor": "linear-gradient( 135deg, #FF96F9 10%, #C32BAC 100%)",
@@ -4745,7 +7942,489 @@
         "sixes": 36
       }
     },
-    "season_result": ["Kolkata Knight Riders","Kings XI Punjab"]
+    "season_result": ["Kolkata Knight Riders","Kings XI Punjab"],
+    "match_details": [
+      {
+        "Match_Date": "16-Apr-14",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 41
+      },
+      {
+        "Match_Date": "17-Apr-14",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "18-Apr-14",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "18-Apr-14",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "19-Apr-14",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "19-Apr-14",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "20-Apr-14",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "21-Apr-14",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 93
+      },
+      {
+        "Match_Date": "22-Apr-14",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 72
+      },
+      {
+        "Match_Date": "23-Apr-14",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "24-Apr-14",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 2
+      },
+      {
+        "Match_Date": "25-Apr-14",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "25-Apr-14",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "26-Apr-14",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "26-Apr-14",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 23
+      },
+      {
+        "Match_Date": "27-Apr-14",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "27-Apr-14",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "28-Apr-14",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "29-Apr-14",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "Tie",
+        "Won_By": ""
+      },
+      {
+        "Match_Date": "30-Apr-14",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 15
+      },
+      {
+        "Match_Date": "2-May-14",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 34
+      },
+      {
+        "Match_Date": "3-May-14",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "3-May-14",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "4-May-14",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "5-May-14",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "5-May-14",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "6-May-14",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 19
+      },
+      {
+        "Match_Date": "7-May-14",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "7-May-14",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 44
+      },
+      {
+        "Match_Date": "8-May-14",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 32
+      },
+      {
+        "Match_Date": "9-May-14",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 32
+      },
+      {
+        "Match_Date": "10-May-14",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "10-May-14",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "11-May-14",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "11-May-14",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "12-May-14",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "13-May-14",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "13-May-14",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 16
+      },
+      {
+        "Match_Date": "14-May-14",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "14-May-14",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "15-May-14",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 62
+      },
+      {
+        "Match_Date": "18-May-14",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "18-May-14",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "19-May-14",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 25
+      },
+      {
+        "Match_Date": "19-May-14",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "20-May-14",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "20-May-14",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "21-May-14",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "22-May-14",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 30
+      },
+      {
+        "Match_Date": "22-May-14",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "23-May-14",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 15
+      },
+      {
+        "Match_Date": "23-May-14",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 16
+      },
+      {
+        "Match_Date": "24-May-14",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "24-May-14",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "25-May-14",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "25-May-14",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "27-May-14",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 28
+      },
+      {
+        "Match_Date": "28-May-14",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "30-May-14",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 24
+      },
+      {
+        "Match_Date": "1-Jun-14",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      }
+    ]
   },
   { "year": 2015,
     "backgroundColor": "linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%)",
@@ -5359,7 +9038,481 @@
         "sixes": 38
       }
     },
-    "season_result": ["Mumbai Indians", "Chennai Super Kings"]
+    "season_result": ["Mumbai Indians", "Chennai Super Kings"],
+    "match_details": [
+      {
+        "Match_Date": "8-Apr-15",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "9-Apr-15",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 1
+      },
+      {
+        "Match_Date": "10-Apr-15",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 26
+      },
+      {
+        "Match_Date": "11-Apr-15",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 45
+      },
+      {
+        "Match_Date": "11-Apr-15",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "12-Apr-15",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "12-Apr-15",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 18
+      },
+      {
+        "Match_Date": "13-Apr-15",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "14-Apr-15",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "30-Apr-15",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "15-Apr-15",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "16-Apr-15",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "17-Apr-15",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "18-Apr-15",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "18-Apr-15",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "19-Apr-15",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "19-Apr-15",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 18
+      },
+      {
+        "Match_Date": "20-Apr-15",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "21-Apr-15",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "Tie",
+        "Won_By": ""
+      },
+      {
+        "Match_Date": "22-Apr-15",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 16
+      },
+      {
+        "Match_Date": "22-Apr-15",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 27
+      },
+      {
+        "Match_Date": "23-Apr-15",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 37
+      },
+      {
+        "Match_Date": "24-Apr-15",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "25-Apr-15",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 20
+      },
+      {
+        "Match_Date": "25-Apr-15",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 97
+      },
+      {
+        "Match_Date": "26-Apr-15",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "27-Apr-15",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 20
+      },
+      {
+        "Match_Date": "7-May-15",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 13
+      },
+      {
+        "Match_Date": "29-Apr-15",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "",
+        "Win_Type": "No Result",
+        "Won_By": ""
+      },
+      {
+        "Match_Date": "28-Apr-15",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 2
+      },
+      {
+        "Match_Date": "1-May-15",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "1-May-15",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "2-May-15",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "2-May-15",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 22
+      },
+      {
+        "Match_Date": "3-May-15",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 23
+      },
+      {
+        "Match_Date": "3-May-15",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 14
+      },
+      {
+        "Match_Date": "4-May-15",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 24
+      },
+      {
+        "Match_Date": "4-May-15",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 35
+      },
+      {
+        "Match_Date": "5-May-15",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "6-May-15",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 138
+      },
+      {
+        "Match_Date": "7-May-15",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "8-May-15",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "9-May-15",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 1
+      },
+      {
+        "Match_Date": "9-May-15",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "10-May-15",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 39
+      },
+      {
+        "Match_Date": "10-May-15",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by runs",
+        "Won_By": 12
+      },
+      {
+        "Match_Date": "11-May-15",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "12-May-15",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "13-May-15",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 22
+      },
+      {
+        "Match_Date": "14-May-15",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "15-May-15",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "16-May-15",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "16-May-15",
+        "Team_Name": "Rajasthan Royals",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Rajasthan Royals",
+        "Win_Type": "by runs",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "17-May-15",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "",
+        "Win_Type": "No Result",
+        "Won_By": ""
+      },
+      {
+        "Match_Date": "17-May-15",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "19-May-15",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 25
+      },
+      {
+        "Match_Date": "20-May-15",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Rajasthan Royals",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 71
+      },
+      {
+        "Match_Date": "22-May-15",
+        "Team_Name": "Chennai Super Kings",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Chennai Super Kings",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "24-May-15",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Chennai Super Kings",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 41
+      }
+    ]
   },
   { "year": 2016,
     "backgroundColor": "linear-gradient( 135deg, #FCCF31 10%, #F55555 100%)",
@@ -5983,6 +10136,488 @@
         "sixes": 38
       }
     },
-    "season_result": ["Sunrisers Hyderabad", "Royal Challengers Bangalore"]
+    "season_result": ["Sunrisers Hyderabad", "Royal Challengers Bangalore"],
+    "match_details": [
+      {
+        "Match_Date": "9-Apr-16",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Rising Pune Supergiants",
+        "Match_Winner": "Rising Pune Supergiants",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "10-Apr-16",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "11-Apr-16",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Gujarat Lions",
+        "Match_Winner": "Gujarat Lions",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "12-Apr-16",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 45
+      },
+      {
+        "Match_Date": "13-Apr-16",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "14-Apr-16",
+        "Team_Name": "Gujarat Lions",
+        "Opponent_Team": "Rising Pune Supergiants",
+        "Match_Winner": "Gujarat Lions",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "15-Apr-16",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "16-Apr-16",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "16-Apr-16",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Gujarat Lions",
+        "Match_Winner": "Gujarat Lions",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "17-Apr-16",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Rising Pune Supergiants",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "17-Apr-16",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "18-Apr-16",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "19-Apr-16",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "20-Apr-16",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "21-Apr-16",
+        "Team_Name": "Gujarat Lions",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "22-Apr-16",
+        "Team_Name": "Rising Pune Supergiants",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 13
+      },
+      {
+        "Match_Date": "23-Apr-16",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 10
+      },
+      {
+        "Match_Date": "23-Apr-16",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "24-Apr-16",
+        "Team_Name": "Gujarat Lions",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Gujarat Lions",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "24-Apr-16",
+        "Team_Name": "Rising Pune Supergiants",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 2
+      },
+      {
+        "Match_Date": "25-Apr-16",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 25
+      },
+      {
+        "Match_Date": "26-Apr-16",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Rising Pune Supergiants",
+        "Match_Winner": "Rising Pune Supergiants",
+        "Win_Type": "by runs",
+        "Won_By": 34
+      },
+      {
+        "Match_Date": "27-Apr-16",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Gujarat Lions",
+        "Match_Winner": "Gujarat Lions",
+        "Win_Type": "by runs",
+        "Won_By": 1
+      },
+      {
+        "Match_Date": "28-Apr-16",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "29-Apr-16",
+        "Team_Name": "Rising Pune Supergiants",
+        "Opponent_Team": "Gujarat Lions",
+        "Match_Winner": "Gujarat Lions",
+        "Win_Type": "by wickets",
+        "Won_By": 3
+      },
+      {
+        "Match_Date": "30-Apr-16",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by runs",
+        "Won_By": 27
+      },
+      {
+        "Match_Date": "30-Apr-16",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 15
+      },
+      {
+        "Match_Date": "1-May-16",
+        "Team_Name": "Gujarat Lions",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 23
+      },
+      {
+        "Match_Date": "1-May-16",
+        "Team_Name": "Rising Pune Supergiants",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "2-May-16",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "3-May-16",
+        "Team_Name": "Gujarat Lions",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "4-May-16",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "5-May-16",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Rising Pune Supergiants",
+        "Match_Winner": "Rising Pune Supergiants",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "6-May-16",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Gujarat Lions",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "7-May-16",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Rising Pune Supergiants",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "7-May-16",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by runs",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "8-May-16",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 85
+      },
+      {
+        "Match_Date": "8-May-16",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Gujarat Lions",
+        "Match_Winner": "Gujarat Lions",
+        "Win_Type": "by wickets",
+        "Won_By": 5
+      },
+      {
+        "Match_Date": "9-May-16",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 1
+      },
+      {
+        "Match_Date": "10-May-16",
+        "Team_Name": "Rising Pune Supergiants",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "11-May-16",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "12-May-16",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "13-May-16",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Kings XI Punjab",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "14-May-16",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Gujarat Lions",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 144
+      },
+      {
+        "Match_Date": "14-May-16",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Rising Pune Supergiants",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by wickets",
+        "Won_By": 8
+      },
+      {
+        "Match_Date": "15-May-16",
+        "Team_Name": "Kings XI Punjab",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 7
+      },
+      {
+        "Match_Date": "15-May-16",
+        "Team_Name": "Mumbai Indians",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Mumbai Indians",
+        "Win_Type": "by runs",
+        "Won_By": 80
+      },
+      {
+        "Match_Date": "16-May-16",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 9
+      },
+      {
+        "Match_Date": "17-May-16",
+        "Team_Name": "Rising Pune Supergiants",
+        "Opponent_Team": "Delhi Daredevils",
+        "Match_Winner": "Rising Pune Supergiants",
+        "Win_Type": "by runs",
+        "Won_By": 19
+      },
+      {
+        "Match_Date": "18-May-16",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by runs",
+        "Won_By": 82
+      },
+      {
+        "Match_Date": "19-May-16",
+        "Team_Name": "Gujarat Lions",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Gujarat Lions",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "20-May-16",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Delhi Daredevils",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "21-May-16",
+        "Team_Name": "Rising Pune Supergiants",
+        "Opponent_Team": "Kings XI Punjab",
+        "Match_Winner": "Rising Pune Supergiants",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "21-May-16",
+        "Team_Name": "Gujarat Lions",
+        "Opponent_Team": "Mumbai Indians",
+        "Match_Winner": "Gujarat Lions",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "22-May-16",
+        "Team_Name": "Kolkata Knight Riders",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Kolkata Knight Riders",
+        "Win_Type": "by runs",
+        "Won_By": 22
+      },
+      {
+        "Match_Date": "22-May-16",
+        "Team_Name": "Delhi Daredevils",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 6
+      },
+      {
+        "Match_Date": "24-May-16",
+        "Team_Name": "Gujarat Lions",
+        "Opponent_Team": "Royal Challengers Bangalore",
+        "Match_Winner": "Royal Challengers Bangalore",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "25-May-16",
+        "Team_Name": "Sunrisers Hyderabad",
+        "Opponent_Team": "Kolkata Knight Riders",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 22
+      },
+      {
+        "Match_Date": "27-May-16",
+        "Team_Name": "Gujarat Lions",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by wickets",
+        "Won_By": 4
+      },
+      {
+        "Match_Date": "29-May-16",
+        "Team_Name": "Royal Challengers Bangalore",
+        "Opponent_Team": "Sunrisers Hyderabad",
+        "Match_Winner": "Sunrisers Hyderabad",
+        "Win_Type": "by runs",
+        "Won_By": 8
+      }
+    ]
   }
 ]
