@@ -1,4 +1,4 @@
-# ipl-dashboard
+# IPL Dashboard
 
 > a dashboard using data visualizations/graphs
 

@@ -429,10 +429,10 @@
           const infowindow = new window.google.maps.InfoWindow({
             content: contentString
           });
-          window.google.maps.event.addListener(marker, 'mouseout', () => {
+          window.google.maps.event.addListener(marker, 'click', () => {
             infowindow.close();
           });
-          return window.google.maps.event.addListener(marker, 'mouseover', () => {
+          return window.google.maps.event.addListener(marker, 'click', () => {
             infowindow.open(map, marker);
           });
         });

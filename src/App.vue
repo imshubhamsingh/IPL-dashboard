@@ -21,4 +21,9 @@
   #app {
     padding: 10px;
   }
+ *{
+   -webkit-tap-highlight-color: rgba(0,0,0,0);
+   -webkit-tap-highlight-color: transparent;
+ }
+
 </style>
