@@ -35,11 +35,11 @@
   .team-scroll {
     display: block;
     width: 100%;
-    height: 381px;
+    height: 399px;
     overflow-y: hidden;
     overflow-x: scroll;
     white-space: nowrap;
-    margin-bottom: 21px;
+    margin-bottom: 0;
     border-radius: 5px;
     position: relative;
     z-index: 2;

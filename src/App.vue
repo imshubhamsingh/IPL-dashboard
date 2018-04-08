@@ -25,5 +25,21 @@
    -webkit-tap-highlight-color: rgba(0,0,0,0);
    -webkit-tap-highlight-color: transparent;
  }
+  ::-webkit-scrollbar-track
+  {
+    border: none;
+    background-color: #2b2b2b;
+  }
+
+  ::-webkit-scrollbar
+  {
+    width: 10px;
+    background-color: #F5F5F5;
+  }
+
+  ::-webkit-scrollbar-thumb
+  {
+    background-color: #313131;
+  }
 
 </style>

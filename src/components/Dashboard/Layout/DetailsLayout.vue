@@ -40,7 +40,7 @@
   .header{
     display: block;
     width: 100%;
-    height: 59px;
+    height: 65px;
     overflow-y: hidden;
     overflow-x: scroll;
     white-space: nowrap;
