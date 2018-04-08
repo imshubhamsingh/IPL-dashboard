@@ -1,6 +1,6 @@
 {
-  "name": "ipl-dashboard",
-  "short_name": "ipl-dashboard",
+  "name": "IPL Dashboard",
+  "short_name": "IPL Dashboard",
   "icons": [
     {
       "src": "/static/img/icons/android-chrome-192x192.png",
